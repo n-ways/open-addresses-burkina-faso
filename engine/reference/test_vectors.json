@@ -1,0 +1,526 @@
+{
+ "note": "Real points: OpenStreetMap / Google-Microsoft footprints (N-Ways map data, Oct 2026) and OSM and GeoNames place names; the codes are taken from the tables frozen at first issue (20 October 2026).",
+ "damm": [
+  {
+   "digits": "572",
+   "check": 4
+  },
+  {
+   "digits": "100001548217",
+   "check": 0
+  },
+  {
+   "digits": "000424065020214117",
+   "check": 6
+  }
+ ],
+ "machine": [
+  {
+   "parts": [
+    "10300",
+    "V",
+    "030",
+    "10016"
+   ],
+   "code": "BF-10300-V030-10016-6"
+  },
+  {
+   "parts": [
+    "20250",
+    "V",
+    "034",
+    "10286"
+   ],
+   "code": "BF-20250-V034-10286-7"
+  },
+  {
+   "parts": [
+    "10400",
+    "V",
+    "006",
+    "10016"
+   ],
+   "code": "BF-10400-V006-10016-1"
+  },
+  {
+   "parts": [
+    "50250",
+    "V",
+    "002",
+    "10666"
+   ],
+   "code": "BF-50250-V002-10666-4"
+  }
+ ],
+ "remembered": [
+  {
+   "area": "Natenga",
+   "kind": "V",
+   "number": "10016",
+   "text": "Natenga 10 016"
+  },
+  {
+   "area": "Boussouma",
+   "kind": "V",
+   "number": "10016",
+   "text": "Boussouma 10 016"
+  },
+  {
+   "area": "Douré",
+   "kind": "V",
+   "number": "10016",
+   "text": "Douré 10 016"
+  }
+ ],
+ "names": [
+  {
+   "text": "Natenga 10 016",
+   "code": "BF-10300-V030-10016-6",
+   "postcode": "10300",
+   "kind": "V",
+   "place": "030",
+   "decodesTo": "Q Natenga, Pabre"
+  },
+  {
+   "text": "Natenga 10 286",
+   "code": "BF-20250-V034-10286-7",
+   "postcode": "20250",
+   "kind": "V",
+   "place": "034",
+   "decodesTo": "Q-Natenga, Dapeolgo"
+  },
+  {
+   "text": "Boussouma 10 016",
+   "code": "BF-10400-V006-10016-1",
+   "postcode": "10400",
+   "kind": "V",
+   "place": "006",
+   "decodesTo": "Boussouma, Koubri"
+  },
+  {
+   "text": "Boussouma 10 666",
+   "code": "BF-50250-V002-10666-4",
+   "postcode": "50250",
+   "kind": "V",
+   "place": "002",
+   "decodesTo": "b1, Boussouma"
+  },
+  {
+   "text": "Douré 10 016",
+   "code": "BF-10250-V021-10016-8",
+   "postcode": "10250",
+   "kind": "V",
+   "place": "021",
+   "decodesTo": "Douré, Tanguen-Dassouri"
+  },
+  {
+   "text": "Douré 10 816",
+   "code": "BF-20000-V018-10816-4",
+   "postcode": "20000",
+   "kind": "V",
+   "place": "018",
+   "decodesTo": "Douré, Ziniare"
+  }
+ ],
+ "nameKeys": [
+  {
+   "names": [
+    "Douré",
+    "Doure",
+    "DOURE"
+   ],
+   "key": "DURE"
+  },
+  {
+   "names": [
+    "Ouatinoma",
+    "Watinoma",
+    "Wattinooma",
+    "Ouattinoma"
+   ],
+   "key": "UATINOMA"
+  },
+  {
+   "names": [
+    "Goghin",
+    "Gogin"
+   ],
+   "key": "GOGIN"
+  },
+  {
+   "names": [
+    "Sanga",
+    "Sangha"
+   ],
+   "key": "SANGA"
+  },
+  {
+   "names": [
+    "Q-Tanghin",
+    "Tanguin",
+    "Tangin"
+   ],
+   "key": "TANGIN"
+  },
+  {
+   "names": [
+    "Djibo",
+    "Jibo"
+   ],
+   "key": "JIBO"
+  },
+  {
+   "names": [
+    "Saint-Camille",
+    "St-Camille",
+    "St Camille"
+   ],
+   "key": "SAINTCAMILE"
+  }
+ ],
+ "rejected": [
+  {
+   "text": "Secteur 15 Ouaga · 48 217",
+   "why": "secteur codes are not issued"
+  },
+  {
+   "text": "Natenga 217",
+   "why": "wrong digit count for the name"
+  },
+  {
+   "text": "Natenga 10 016-7",
+   "why": "check digit binds name + number + area"
+  },
+  {
+   "text": "Natenga 29 260",
+   "why": "in the spare of the range: not issued"
+  }
+ ],
+ "spoken_fr": [
+  {
+   "number": "48217",
+   "fr": "quarante-huit deux cent dix-sept"
+  },
+  {
+   "number": "4117",
+   "fr": "quarante-et-un dix-sept"
+  },
+  {
+   "number": "217",
+   "fr": "deux cent dix-sept"
+  },
+  {
+   "number": "9171",
+   "fr": "quatre-vingt-onze soixante-et-onze"
+  },
+  {
+   "number": "8070",
+   "fr": "quatre-vingts soixante-dix"
+  }
+ ],
+ "spot": [
+  {
+   "name": "Ouagadougou, OSM public building (2,185 m2 footprint) near the city centre",
+   "lat": 12.3721856,
+   "lon": -1.5236057,
+   "commune": "Ouagadougou",
+   "postcode": "10000",
+   "spot": "BF-10000 E1809 N1351",
+   "decoded": [
+    12.3722258,
+    -1.5235809
+   ]
+  },
+  {
+   "name": "Ouagadougou, OSM building with a cinema tag",
+   "lat": 12.3680912,
+   "lon": -1.5204357,
+   "commune": "Ouagadougou",
+   "postcode": "10000",
+   "spot": "BF-10000 E1843 N1305",
+   "decoded": [
+    12.3680657,
+    -1.5204539
+   ]
+  },
+  {
+   "name": "Bobo-Dioulasso, footprint centroid (10% national sample)",
+   "lat": 11.177437,
+   "lon": -4.298791,
+   "commune": "Bobo-Dioulasso",
+   "postcode": "90000",
+   "spot": "BF-90000 E3179 N2625",
+   "decoded": [
+    11.1774428,
+    -4.2988066
+   ]
+  },
+  {
+   "name": "Nabadogo village node (OSM), commune of Sabou",
+   "lat": 12.133638,
+   "lon": -2.070857,
+   "commune": "Sabou",
+   "postcode": "40650",
+   "spot": "BF-40650 E4345 N2251",
+   "decoded": [
+    12.1336193,
+    -2.0708289
+   ]
+  },
+  {
+   "name": "Bissiga hamlet node (OSM), commune of Sabou",
+   "lat": 12.147873,
+   "lon": -2.071336,
+   "commune": "Sabou",
+   "postcode": "40650",
+   "spot": "BF-40650 E4339 N2409",
+   "decoded": [
+    12.1479084,
+    -2.0713801
+   ]
+  }
+ ],
+ "spotOutside": [
+  {
+   "name": "Ouagadougou compound in the gap between the Ouagadougou and Komsilga outlines",
+   "lat": 12.2781536,
+   "lon": -1.5450458,
+   "issued": "BF-10000-V076-11657-0",
+   "postcode": "10990",
+   "clamped": false,
+   "spot": "BF-10990 E2012 N2633",
+   "decoded": [
+    12.2781663,
+    -1.5450655
+   ]
+  },
+  {
+   "name": "Compound 8.6 km over the published outline of its commune",
+   "lat": 15.0013242,
+   "lon": 0.2241349,
+   "issued": "BF-61350-V048-181-6",
+   "postcode": "61350",
+   "clamped": false,
+   "spot": "BF-61350 E12415 N3000",
+   "decoded": [
+    15.0013567,
+    0.2241573
+   ]
+  },
+  {
+   "name": "Compound in no frame within 10 km, 14 cells (140 m) south of its commune frame: nearest edge cell",
+   "lat": 10.9987819,
+   "lon": -0.9736617,
+   "issued": "BF-32250-V024-2302-1",
+   "postcode": "32250",
+   "clamped": true,
+   "spot": "BF-32250 E1052 N0000",
+   "decoded": [
+    11.0000452,
+    -0.9736503
+   ]
+  },
+  {
+   "name": "Point in a neighbouring country, no commune within 10 km",
+   "lat": 16.0,
+   "lon": -1.0,
+   "error": "refused"
+  },
+  {
+   "name": "Point in a neighbouring country, far from the border",
+   "lat": 5.6,
+   "lon": -0.2,
+   "error": "refused"
+  }
+ ],
+ "registry": [
+  {
+   "sample": "sample-ouaga-centre.csv",
+   "digits": 5,
+   "structures": 306,
+   "compounds": 243,
+   "byRule": {
+    "annex": 9,
+    "annex-host": 18,
+    "enclosure": 5,
+    "hut-cluster": 5,
+    "single": 206
+   },
+   "first": [
+    {
+     "compound": 927179,
+     "number": 10000
+    },
+    {
+     "compound": 686415,
+     "number": 10164
+    },
+    {
+     "compound": 100352,
+     "number": 10328
+    },
+    {
+     "compound": 100980,
+     "number": 10492
+    },
+    {
+     "compound": 125218,
+     "number": 10656
+    }
+   ],
+   "newHome": {
+    "lon": -1.5275244,
+    "lat": 12.370444,
+    "provisional": 28450
+   }
+  },
+  {
+   "sample": "sample-ouaga-periphery.csv",
+   "digits": 5,
+   "structures": 183,
+   "compounds": 133,
+   "byRule": {
+    "annex": 13,
+    "annex-host": 15,
+    "enclosure": 1,
+    "hut-cluster": 6,
+    "single": 98
+   },
+   "first": [
+    {
+     "compound": 403619,
+     "number": 10000
+    },
+    {
+     "compound": 403677,
+     "number": 10301
+    },
+    {
+     "compound": 403678,
+     "number": 10602
+    },
+    {
+     "compound": 403676,
+     "number": 10903
+    },
+    {
+     "compound": 403621,
+     "number": 11204
+    }
+   ],
+   "newHome": {
+    "lon": -1.6283654,
+    "lat": 12.3924325,
+    "provisional": 23093
+   }
+  }
+ ],
+ "plates": [
+  {
+   "postcode": "10000",
+   "index": "022",
+   "officialName": "Cité An II",
+   "plateName": "An II",
+   "plateRule": "cleaned",
+   "fits": true
+  },
+  {
+   "postcode": "10000",
+   "index": "023",
+   "officialName": "Cité An III",
+   "plateName": "An III",
+   "plateRule": "cleaned",
+   "fits": true
+  },
+  {
+   "postcode": "10000",
+   "index": "025",
+   "officialName": "Cité Azimo",
+   "plateName": "Azimo",
+   "plateRule": "cleaned",
+   "fits": true
+  },
+  {
+   "postcode": "10000",
+   "index": "026",
+   "officialName": "Cité de la Caisse",
+   "plateName": "Caisse",
+   "plateRule": "cleaned",
+   "fits": true
+  },
+  {
+   "postcode": "10000",
+   "index": "027",
+   "officialName": "Cité de l’Avenir",
+   "plateName": "Avenir",
+   "plateRule": "cleaned",
+   "fits": true
+  },
+  {
+   "postcode": "10000",
+   "index": "068",
+   "officialName": "kouritinga",
+   "plateName": "Kouritinga",
+   "plateRule": "as-is",
+   "fits": true
+  }
+ ],
+ "plateDecode": [
+  {
+   "text": "Cité An II 10 01",
+   "code": "BF-10000-V022-1001-4",
+   "plateName": "An II",
+   "decodesTo": "Cité An II, Ouagadougou",
+   "why": "the official name typed: decodes to its plate name"
+  },
+  {
+   "text": "An II 10 01",
+   "code": "BF-10000-V022-1001-4",
+   "plateName": "An II",
+   "decodesTo": "Cité An II, Ouagadougou",
+   "why": "the plate name"
+  },
+  {
+   "text": "Cité An III 44 11",
+   "code": "BF-10000-V023-4411-1",
+   "plateName": "An II",
+   "decodesTo": "Cité An III, Ouagadougou",
+   "why": "the official name typed: decodes to its plate name"
+  },
+  {
+   "text": "An III 44 11",
+   "code": "BF-10000-V023-4411-1",
+   "plateName": "An II",
+   "decodesTo": "Cité An III, Ouagadougou",
+   "why": "the plate name"
+  },
+  {
+   "text": "Cité Azimo 10 001",
+   "code": "BF-10000-V025-10001-8",
+   "plateName": "Azimo",
+   "decodesTo": "Cité Azimo, Ouagadougou",
+   "why": "the official name typed: decodes to its plate name"
+  },
+  {
+   "text": "Azimo 10 001",
+   "code": "BF-10000-V025-10001-8",
+   "plateName": "Azimo",
+   "decodesTo": "Cité Azimo, Ouagadougou",
+   "why": "the plate name"
+  }
+ ],
+ "plateRejected": [
+  {
+   "plate": "Adartiguefouwa",
+   "why": "over the plate limit: issued under it provisionally, the commune chooses a shorter one"
+  },
+  {
+   "plate": "Bachicorepoun",
+   "why": "over the plate limit: issued under it provisionally, the commune chooses a shorter one"
+  },
+  {
+   "plate": "Bagadowoéghin",
+   "why": "over the plate limit: issued under it provisionally, the commune chooses a shorter one"
+  }
+ ]
+}

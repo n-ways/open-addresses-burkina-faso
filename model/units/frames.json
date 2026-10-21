@@ -1,0 +1,3161 @@
+{
+ "10000": {
+  "lon0": -1.69,
+  "lat0": 12.25,
+  "latc": 12.38,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouagadougou",
+  "pcode": "BF130004"
+ },
+ "10200": {
+  "lon0": -1.46,
+  "lat0": 12.24,
+  "latc": 12.38,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Saaba",
+  "pcode": "BF130006"
+ },
+ "10250": {
+  "lon0": -1.82,
+  "lat0": 12.18,
+  "latc": 12.3,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tanguen-Dassouri",
+  "pcode": "BF130007"
+ },
+ "10300": {
+  "lon0": -1.73,
+  "lat0": 12.42,
+  "latc": 12.55,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pabre",
+  "pcode": "BF130005"
+ },
+ "10350": {
+  "lon0": -1.83,
+  "lat0": 12.09,
+  "latc": 12.16,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Komki-Ipala",
+  "pcode": "BF130001"
+ },
+ "10400": {
+  "lon0": -1.49,
+  "lat0": 12.1,
+  "latc": 12.22,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koubri",
+  "pcode": "BF130003"
+ },
+ "10990": {
+  "lon0": -1.73,
+  "lat0": 12.04,
+  "latc": 12.16,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Komsilga",
+  "pcode": "BF130002"
+ },
+ "20000": {
+  "lon0": -1.53,
+  "lat0": 12.49,
+  "latc": 12.62,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ziniare",
+  "pcode": "BF550306"
+ },
+ "20200": {
+  "lon0": -1.1,
+  "lat0": 12.47,
+  "latc": 12.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ambsouya",
+  "pcode": "BF550301"
+ },
+ "20250": {
+  "lon0": -1.73,
+  "lat0": 12.56,
+  "latc": 12.75,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dapeolgo",
+  "pcode": "BF550302"
+ },
+ "20300": {
+  "lon0": -1.49,
+  "lat0": 12.46,
+  "latc": 12.56,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Loumbila",
+  "pcode": "BF550303"
+ },
+ "20350": {
+  "lon0": -1.26,
+  "lat0": 12.25,
+  "latc": 12.41,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nagreongo",
+  "pcode": "BF550304"
+ },
+ "20400": {
+  "lon0": -1.62,
+  "lat0": 12.71,
+  "latc": 12.83,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ourgou-Manega",
+  "pcode": "BF550305"
+ },
+ "20450": {
+  "lon0": -1.41,
+  "lat0": 12.61,
+  "latc": 12.73,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zitenga",
+  "pcode": "BF550307"
+ },
+ "21000": {
+  "lon0": -0.78,
+  "lat0": 12.11,
+  "latc": 12.23,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zorgho",
+  "pcode": "BF550107"
+ },
+ "21200": {
+  "lon0": -0.99,
+  "lat0": 11.87,
+  "latc": 12.07,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boudri",
+  "pcode": "BF550101"
+ },
+ "21250": {
+  "lon0": -0.82,
+  "lat0": 12.54,
+  "latc": 12.63,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kogho",
+  "pcode": "BF550102"
+ },
+ "21300": {
+  "lon0": -0.86,
+  "lat0": 12.28,
+  "latc": 12.41,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Megue",
+  "pcode": "BF550103"
+ },
+ "21350": {
+  "lon0": -1.12,
+  "lat0": 12.03,
+  "latc": 12.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Mogtedo",
+  "pcode": "BF550104"
+ },
+ "21400": {
+  "lon0": -0.89,
+  "lat0": 12.35,
+  "latc": 12.48,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Saolgo",
+  "pcode": "BF550105"
+ },
+ "21450": {
+  "lon0": -1.11,
+  "lat0": 12.24,
+  "latc": 12.4,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zam",
+  "pcode": "BF550106"
+ },
+ "21500": {
+  "lon0": -0.65,
+  "lat0": 11.97,
+  "latc": 12.09,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zoungou",
+  "pcode": "BF550108"
+ },
+ "22000": {
+  "lon0": -1.95,
+  "lat0": 12.57,
+  "latc": 12.69,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bousse",
+  "pcode": "BF550201"
+ },
+ "22200": {
+  "lon0": -1.85,
+  "lat0": 12.48,
+  "latc": 12.55,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Laye",
+  "pcode": "BF550202"
+ },
+ "22250": {
+  "lon0": -1.98,
+  "lat0": 12.67,
+  "latc": 12.79,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Niou",
+  "pcode": "BF550203"
+ },
+ "22300": {
+  "lon0": -2.09,
+  "lat0": 12.29,
+  "latc": 12.39,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sourgoubila",
+  "pcode": "BF550204"
+ },
+ "22350": {
+  "lon0": -1.78,
+  "lat0": 12.68,
+  "latc": 12.78,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Toeguen",
+  "pcode": "BF550205"
+ },
+ "30000": {
+  "lon0": -1.14,
+  "lat0": 11.55,
+  "latc": 11.65,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Manga",
+  "pcode": "BF510306"
+ },
+ "30200": {
+  "lon0": -1.22,
+  "lat0": 11.72,
+  "latc": 11.87,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bere",
+  "pcode": "BF510301"
+ },
+ "30250": {
+  "lon0": -1.15,
+  "lat0": 11.66,
+  "latc": 11.79,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Binde",
+  "pcode": "BF510302"
+ },
+ "30300": {
+  "lon0": -1.1,
+  "lat0": 11.22,
+  "latc": 11.46,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gogo",
+  "pcode": "BF510303"
+ },
+ "30350": {
+  "lon0": -0.89,
+  "lat0": 11.16,
+  "latc": 11.37,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gomboussougou",
+  "pcode": "BF510304"
+ },
+ "30400": {
+  "lon0": -1.22,
+  "lat0": 11.45,
+  "latc": 11.65,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Guiba",
+  "pcode": "BF510305"
+ },
+ "30450": {
+  "lon0": -1.35,
+  "lat0": 11.38,
+  "latc": 11.59,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nobere",
+  "pcode": "BF510307"
+ },
+ "31000": {
+  "lon0": -1.5,
+  "lat0": 11.77,
+  "latc": 11.97,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kombissiri",
+  "pcode": "BF510105"
+ },
+ "31200": {
+  "lon0": -1.61,
+  "lat0": 11.68,
+  "latc": 11.93,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Doulougou",
+  "pcode": "BF510101"
+ },
+ "31250": {
+  "lon0": -1.25,
+  "lat0": 11.93,
+  "latc": 12.06,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gaongo",
+  "pcode": "BF510102"
+ },
+ "31300": {
+  "lon0": -1.69,
+  "lat0": 11.77,
+  "latc": 11.9,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ipelse",
+  "pcode": "BF510103"
+ },
+ "31350": {
+  "lon0": -2.06,
+  "lat0": 11.91,
+  "latc": 12.04,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kayao",
+  "pcode": "BF510104"
+ },
+ "31400": {
+  "lon0": -1.78,
+  "lat0": 11.82,
+  "latc": 12.03,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sapone",
+  "pcode": "BF510106"
+ },
+ "31450": {
+  "lon0": -1.47,
+  "lat0": 11.59,
+  "latc": 11.77,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Toece",
+  "pcode": "BF510107"
+ },
+ "32000": {
+  "lon0": -1.44,
+  "lat0": 10.98,
+  "latc": 11.2,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Po",
+  "pcode": "BF510202"
+ },
+ "32200": {
+  "lon0": -1.67,
+  "lat0": 11.03,
+  "latc": 11.29,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Guiaro",
+  "pcode": "BF510201"
+ },
+ "32250": {
+  "lon0": -1.07,
+  "lat0": 11.0,
+  "latc": 11.1,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tiebele",
+  "pcode": "BF510203"
+ },
+ "32300": {
+  "lon0": -0.91,
+  "lat0": 10.96,
+  "latc": 11.02,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zecco",
+  "pcode": "BF510204"
+ },
+ "32350": {
+  "lon0": -0.94,
+  "lat0": 10.98,
+  "latc": 11.1,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ziou",
+  "pcode": "BF510205"
+ },
+ "40000": {
+  "lon0": -2.51,
+  "lat0": 12.13,
+  "latc": 12.3,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koudougou",
+  "pcode": "BF500105"
+ },
+ "40200": {
+  "lon0": -2.07,
+  "lat0": 12.23,
+  "latc": 12.3,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bingo",
+  "pcode": "BF500101"
+ },
+ "40250": {
+  "lon0": -2.46,
+  "lat0": 12.38,
+  "latc": 12.47,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Imasgho",
+  "pcode": "BF500102"
+ },
+ "40300": {
+  "lon0": -2.17,
+  "lat0": 12.31,
+  "latc": 12.43,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kindi",
+  "pcode": "BF500103"
+ },
+ "40350": {
+  "lon0": -2.02,
+  "lat0": 12.04,
+  "latc": 12.17,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kokologo",
+  "pcode": "BF500104"
+ },
+ "40400": {
+  "lon0": -2.31,
+  "lat0": 12.56,
+  "latc": 12.65,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nanoro",
+  "pcode": "BF500106"
+ },
+ "40450": {
+  "lon0": -2.24,
+  "lat0": 12.22,
+  "latc": 12.35,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nandiala",
+  "pcode": "BF500107"
+ },
+ "40500": {
+  "lon0": -2.15,
+  "lat0": 12.48,
+  "latc": 12.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pella",
+  "pcode": "BF500108"
+ },
+ "40550": {
+  "lon0": -2.24,
+  "lat0": 12.12,
+  "latc": 12.23,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Poa",
+  "pcode": "BF500109"
+ },
+ "40600": {
+  "lon0": -2.44,
+  "lat0": 12.11,
+  "latc": 12.18,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ramongo",
+  "pcode": "BF500110"
+ },
+ "40650": {
+  "lon0": -2.47,
+  "lat0": 11.93,
+  "latc": 12.06,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sabou",
+  "pcode": "BF500111"
+ },
+ "40700": {
+  "lon0": -2.0,
+  "lat0": 12.44,
+  "latc": 12.55,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sigle",
+  "pcode": "BF500112"
+ },
+ "40750": {
+  "lon0": -2.28,
+  "lat0": 12.45,
+  "latc": 12.53,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Soa",
+  "pcode": "BF500113"
+ },
+ "40800": {
+  "lon0": -2.5,
+  "lat0": 12.0,
+  "latc": 12.08,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sourgou",
+  "pcode": "BF500114"
+ },
+ "40850": {
+  "lon0": -2.29,
+  "lat0": 11.92,
+  "latc": 12.03,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Thiou",
+  "pcode": "BF500115"
+ },
+ "41000": {
+  "lon0": -2.61,
+  "lat0": 12.18,
+  "latc": 12.32,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Reo",
+  "pcode": "BF500207"
+ },
+ "41200": {
+  "lon0": -2.85,
+  "lat0": 12.32,
+  "latc": 12.42,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dassa",
+  "pcode": "BF500201"
+ },
+ "41250": {
+  "lon0": -2.78,
+  "lat0": 12.41,
+  "latc": 12.56,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Didyr",
+  "pcode": "BF500202"
+ },
+ "41300": {
+  "lon0": -2.69,
+  "lat0": 12.63,
+  "latc": 12.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Godyr",
+  "pcode": "BF500203"
+ },
+ "41350": {
+  "lon0": -2.53,
+  "lat0": 12.45,
+  "latc": 12.56,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kordie",
+  "pcode": "BF500204"
+ },
+ "41400": {
+  "lon0": -2.76,
+  "lat0": 12.24,
+  "latc": 12.32,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kyon",
+  "pcode": "BF500205"
+ },
+ "41450": {
+  "lon0": -2.72,
+  "lat0": 11.8,
+  "latc": 11.95,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pouni",
+  "pcode": "BF500206"
+ },
+ "41500": {
+  "lon0": -2.89,
+  "lat0": 12.05,
+  "latc": 12.21,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tenado",
+  "pcode": "BF500208"
+ },
+ "41550": {
+  "lon0": -2.94,
+  "lat0": 11.84,
+  "latc": 12.0,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zamo",
+  "pcode": "BF500209"
+ },
+ "41600": {
+  "lon0": -2.93,
+  "lat0": 11.6,
+  "latc": 11.75,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zawara",
+  "pcode": "BF500210"
+ },
+ "42000": {
+  "lon0": -2.37,
+  "lat0": 10.98,
+  "latc": 11.12,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Leo",
+  "pcode": "BF500303"
+ },
+ "42200": {
+  "lon0": -2.03,
+  "lat0": 10.97,
+  "latc": 11.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bieha",
+  "pcode": "BF500301"
+ },
+ "42250": {
+  "lon0": -2.77,
+  "lat0": 10.98,
+  "latc": 11.12,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boura",
+  "pcode": "BF500302"
+ },
+ "42300": {
+  "lon0": -2.5,
+  "lat0": 11.71,
+  "latc": 11.82,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nebielianayou",
+  "pcode": "BF500304"
+ },
+ "42350": {
+  "lon0": -2.81,
+  "lat0": 11.13,
+  "latc": 11.27,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Niabouri",
+  "pcode": "BF500305"
+ },
+ "42400": {
+  "lon0": -2.71,
+  "lat0": 11.25,
+  "latc": 11.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Silly",
+  "pcode": "BF500306"
+ },
+ "42450": {
+  "lon0": -2.46,
+  "lat0": 11.18,
+  "latc": 11.37,
+  "dx": 4,
+  "dy": 4,
+  "commune": "To",
+  "pcode": "BF500307"
+ },
+ "43000": {
+  "lon0": -1.94,
+  "lat0": 11.29,
+  "latc": 11.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sapouy",
+  "pcode": "BF500406"
+ },
+ "43200": {
+  "lon0": -2.0,
+  "lat0": 11.58,
+  "latc": 11.78,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bakata",
+  "pcode": "BF500401"
+ },
+ "43250": {
+  "lon0": -2.28,
+  "lat0": 11.72,
+  "latc": 11.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bougnounou",
+  "pcode": "BF500402"
+ },
+ "43300": {
+  "lon0": -2.19,
+  "lat0": 11.28,
+  "latc": 11.52,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kassou",
+  "pcode": "BF500403"
+ },
+ "43350": {
+  "lon0": -2.27,
+  "lat0": 11.69,
+  "latc": 11.78,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dalo",
+  "pcode": "BF500404"
+ },
+ "43400": {
+  "lon0": -2.37,
+  "lat0": 11.5,
+  "latc": 11.62,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gao",
+  "pcode": "BF500405"
+ },
+ "50000": {
+  "lon0": -1.35,
+  "lat0": 13.01,
+  "latc": 13.17,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kaya",
+  "pcode": "BF490304"
+ },
+ "50200": {
+  "lon0": -1.3,
+  "lat0": 13.23,
+  "latc": 13.55,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Barsalogho",
+  "pcode": "BF490301"
+ },
+ "50250": {
+  "lon0": -1.3,
+  "lat0": 12.78,
+  "latc": 12.93,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boussouma",
+  "pcode": "BF490302"
+ },
+ "50300": {
+  "lon0": -1.36,
+  "lat0": 13.53,
+  "latc": 13.66,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dablo",
+  "pcode": "BF490303"
+ },
+ "50350": {
+  "lon0": -1.37,
+  "lat0": 12.66,
+  "latc": 12.82,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Korsimoro",
+  "pcode": "BF490305"
+ },
+ "50400": {
+  "lon0": -1.56,
+  "lat0": 12.82,
+  "latc": 13.01,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Mane",
+  "pcode": "BF490306"
+ },
+ "50450": {
+  "lon0": -1.4,
+  "lat0": 13.3,
+  "latc": 13.47,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Namissiguima",
+  "pcode": "BF490307"
+ },
+ "50500": {
+  "lon0": -0.93,
+  "lat0": 13.44,
+  "latc": 13.7,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pensa",
+  "pcode": "BF490308"
+ },
+ "50550": {
+  "lon0": -0.93,
+  "lat0": 12.69,
+  "latc": 12.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pibaore",
+  "pcode": "BF490309"
+ },
+ "50600": {
+  "lon0": -1.03,
+  "lat0": 12.95,
+  "latc": 13.2,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pissila",
+  "pcode": "BF490310"
+ },
+ "50650": {
+  "lon0": -1.0,
+  "lat0": 12.54,
+  "latc": 12.73,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ziga",
+  "pcode": "BF490311"
+ },
+ "51000": {
+  "lon0": -1.77,
+  "lat0": 13.24,
+  "latc": 13.41,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kongoussi",
+  "pcode": "BF490103"
+ },
+ "51200": {
+  "lon0": -1.77,
+  "lat0": 13.54,
+  "latc": 13.72,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bourzanga",
+  "pcode": "BF490101"
+ },
+ "51250": {
+  "lon0": -1.76,
+  "lat0": 12.99,
+  "latc": 13.09,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Guibare",
+  "pcode": "BF490102"
+ },
+ "51300": {
+  "lon0": -1.44,
+  "lat0": 13.26,
+  "latc": 13.32,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nassere",
+  "pcode": "BF490104"
+ },
+ "51350": {
+  "lon0": -1.91,
+  "lat0": 13.46,
+  "latc": 13.59,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Rollo",
+  "pcode": "BF490105"
+ },
+ "51400": {
+  "lon0": -1.75,
+  "lat0": 13.16,
+  "latc": 13.22,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Rouko",
+  "pcode": "BF490106"
+ },
+ "51450": {
+  "lon0": -1.6,
+  "lat0": 13.1,
+  "latc": 13.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sabse",
+  "pcode": "BF490107"
+ },
+ "51500": {
+  "lon0": -1.87,
+  "lat0": 13.19,
+  "latc": 13.36,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tikare",
+  "pcode": "BF490108"
+ },
+ "51550": {
+  "lon0": -1.58,
+  "lat0": 13.32,
+  "latc": 13.47,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zimtanga",
+  "pcode": "BF490109"
+ },
+ "52000": {
+  "lon0": -0.7,
+  "lat0": 12.48,
+  "latc": 12.7,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boulsa",
+  "pcode": "BF490202"
+ },
+ "52200": {
+  "lon0": -0.82,
+  "lat0": 12.79,
+  "latc": 12.93,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boala",
+  "pcode": "BF490201"
+ },
+ "52250": {
+  "lon0": -0.78,
+  "lat0": 13.42,
+  "latc": 13.71,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bouroum",
+  "pcode": "BF490203"
+ },
+ "52300": {
+  "lon0": -0.45,
+  "lat0": 12.54,
+  "latc": 12.7,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dargo",
+  "pcode": "BF490204"
+ },
+ "52350": {
+  "lon0": -0.58,
+  "lat0": 13.42,
+  "latc": 13.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nagbingou",
+  "pcode": "BF490205"
+ },
+ "52400": {
+  "lon0": -0.71,
+  "lat0": 12.98,
+  "latc": 13.23,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tougouri",
+  "pcode": "BF490206"
+ },
+ "52450": {
+  "lon0": -0.45,
+  "lat0": 13.34,
+  "latc": 13.51,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yalgo",
+  "pcode": "BF490207"
+ },
+ "52500": {
+  "lon0": -0.61,
+  "lat0": 12.78,
+  "latc": 12.91,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zeguedeguen",
+  "pcode": "BF490208"
+ },
+ "55000": {
+  "lon0": -2.55,
+  "lat0": 13.43,
+  "latc": 13.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouahigouya",
+  "pcode": "BF540307"
+ },
+ "55200": {
+  "lon0": -2.42,
+  "lat0": 13.68,
+  "latc": 13.78,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Barga",
+  "pcode": "BF540301"
+ },
+ "55250": {
+  "lon0": -2.91,
+  "lat0": 13.79,
+  "latc": 13.97,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kain",
+  "pcode": "BF540302"
+ },
+ "55300": {
+  "lon0": -2.24,
+  "lat0": 13.01,
+  "latc": 13.16,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kalsaka",
+  "pcode": "BF540303"
+ },
+ "55350": {
+  "lon0": -1.98,
+  "lat0": 13.27,
+  "latc": 13.35,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kossouka",
+  "pcode": "BF540304"
+ },
+ "55400": {
+  "lon0": -2.56,
+  "lat0": 13.69,
+  "latc": 13.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koumbri",
+  "pcode": "BF540305"
+ },
+ "55450": {
+  "lon0": -2.36,
+  "lat0": 13.48,
+  "latc": 13.63,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Namissiguima",
+  "pcode": "BF540306"
+ },
+ "55500": {
+  "lon0": -2.44,
+  "lat0": 13.34,
+  "latc": 13.44,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Oula",
+  "pcode": "BF540308"
+ },
+ "55550": {
+  "lon0": -1.91,
+  "lat0": 13.09,
+  "latc": 13.2,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Rambo",
+  "pcode": "BF540309"
+ },
+ "55600": {
+  "lon0": -2.15,
+  "lat0": 13.26,
+  "latc": 13.42,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Senguenega",
+  "pcode": "BF540310"
+ },
+ "55650": {
+  "lon0": -2.81,
+  "lat0": 13.43,
+  "latc": 13.57,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tangaye",
+  "pcode": "BF540311"
+ },
+ "55700": {
+  "lon0": -2.96,
+  "lat0": 13.51,
+  "latc": 13.75,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Thiou",
+  "pcode": "BF540312"
+ },
+ "55750": {
+  "lon0": -2.67,
+  "lat0": 13.32,
+  "latc": 13.41,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zogore",
+  "pcode": "BF540313"
+ },
+ "56000": {
+  "lon0": -2.33,
+  "lat0": 13.54,
+  "latc": 13.81,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Titao",
+  "pcode": "BF540104"
+ },
+ "56200": {
+  "lon0": -2.67,
+  "lat0": 13.94,
+  "latc": 14.12,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bahn",
+  "pcode": "BF540101"
+ },
+ "56250": {
+  "lon0": -2.09,
+  "lat0": 13.55,
+  "latc": 13.7,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouindigui",
+  "pcode": "BF540102"
+ },
+ "56300": {
+  "lon0": -2.33,
+  "lat0": 13.97,
+  "latc": 14.09,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Solle",
+  "pcode": "BF540103"
+ },
+ "57000": {
+  "lon0": -2.45,
+  "lat0": 12.75,
+  "latc": 12.92,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yako",
+  "pcode": "BF540210"
+ },
+ "57200": {
+  "lon0": -2.16,
+  "lat0": 12.67,
+  "latc": 12.83,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Arbolle",
+  "pcode": "BF540201"
+ },
+ "57250": {
+  "lon0": -2.74,
+  "lat0": 12.75,
+  "latc": 12.88,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bagare",
+  "pcode": "BF540202"
+ },
+ "57300": {
+  "lon0": -1.93,
+  "lat0": 12.88,
+  "latc": 13.02,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boken",
+  "pcode": "BF540204"
+ },
+ "57350": {
+  "lon0": -2.27,
+  "lat0": 12.95,
+  "latc": 13.03,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gomponsom",
+  "pcode": "BF540205"
+ },
+ "57400": {
+  "lon0": -2.08,
+  "lat0": 12.91,
+  "latc": 13.0,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kirsi",
+  "pcode": "BF540206"
+ },
+ "57450": {
+  "lon0": -2.55,
+  "lat0": 12.77,
+  "latc": 12.87,
+  "dx": 4,
+  "dy": 4,
+  "commune": "La-Toden",
+  "pcode": "BF540207"
+ },
+ "57500": {
+  "lon0": -2.29,
+  "lat0": 12.67,
+  "latc": 12.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pilimpikou",
+  "pcode": "BF540208"
+ },
+ "57550": {
+  "lon0": -2.54,
+  "lat0": 12.6,
+  "latc": 12.7,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Samba",
+  "pcode": "BF540209"
+ },
+ "58000": {
+  "lon0": -2.62,
+  "lat0": 13.04,
+  "latc": 13.23,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Goursi",
+  "pcode": "BF540403"
+ },
+ "58200": {
+  "lon0": -2.31,
+  "lat0": 13.22,
+  "latc": 13.3,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bassi",
+  "pcode": "BF540401"
+ },
+ "58250": {
+  "lon0": -2.72,
+  "lat0": 12.9,
+  "latc": 13.04,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boussou",
+  "pcode": "BF540402"
+ },
+ "58300": {
+  "lon0": -2.48,
+  "lat0": 13.29,
+  "latc": 13.37,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Leba",
+  "pcode": "BF540404"
+ },
+ "58350": {
+  "lon0": -2.3,
+  "lat0": 13.08,
+  "latc": 13.21,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tougo",
+  "pcode": "BF540405"
+ },
+ "60000": {
+  "lon0": -0.41,
+  "lat0": 13.75,
+  "latc": 14.03,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dori",
+  "pcode": "BF640202"
+ },
+ "60200": {
+  "lon0": -0.48,
+  "lat0": 13.53,
+  "latc": 13.71,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bani",
+  "pcode": "BF640201"
+ },
+ "60250": {
+  "lon0": 0.06,
+  "lat0": 14.15,
+  "latc": 14.31,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Falagountou",
+  "pcode": "BF640203"
+ },
+ "60300": {
+  "lon0": -0.63,
+  "lat0": 13.8,
+  "latc": 13.99,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gorgadji",
+  "pcode": "BF640204"
+ },
+ "60350": {
+  "lon0": 0.07,
+  "lat0": 13.64,
+  "latc": 13.77,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sampelga",
+  "pcode": "BF640205"
+ },
+ "60400": {
+  "lon0": 0.2,
+  "lat0": 13.79,
+  "latc": 14.02,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Seytenga",
+  "pcode": "BF640206"
+ },
+ "61000": {
+  "lon0": -0.64,
+  "lat0": 14.16,
+  "latc": 14.49,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gorom-Gorom",
+  "pcode": "BF640102"
+ },
+ "61200": {
+  "lon0": -1.05,
+  "lat0": 14.36,
+  "latc": 14.68,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Deou",
+  "pcode": "BF640101"
+ },
+ "61250": {
+  "lon0": -0.2,
+  "lat0": 14.45,
+  "latc": 14.66,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Markoye",
+  "pcode": "BF640103"
+ },
+ "61300": {
+  "lon0": -0.62,
+  "lat0": 14.49,
+  "latc": 14.68,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Oursi",
+  "pcode": "BF640104"
+ },
+ "61350": {
+  "lon0": -0.93,
+  "lat0": 14.73,
+  "latc": 14.91,
+  "dx": 5,
+  "dy": 4,
+  "commune": "Tin-Akoff",
+  "pcode": "BF640105"
+ },
+ "62000": {
+  "lon0": -1.84,
+  "lat0": 13.87,
+  "latc": 14.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Djibo",
+  "pcode": "BF590103"
+ },
+ "62200": {
+  "lon0": -1.14,
+  "lat0": 13.85,
+  "latc": 14.17,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Arbinda",
+  "pcode": "BF590201"
+ },
+ "62250": {
+  "lon0": -2.1,
+  "lat0": 14.02,
+  "latc": 14.17,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Baraboule",
+  "pcode": "BF590101"
+ },
+ "62300": {
+  "lon0": -1.99,
+  "lat0": 14.27,
+  "latc": 14.38,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Diguel",
+  "pcode": "BF590102"
+ },
+ "62350": {
+  "lon0": -1.34,
+  "lat0": 13.74,
+  "latc": 13.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kelbo",
+  "pcode": "BF590104"
+ },
+ "62400": {
+  "lon0": -1.28,
+  "lat0": 14.35,
+  "latc": 14.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koutougou",
+  "pcode": "BF590206"
+ },
+ "62450": {
+  "lon0": -1.77,
+  "lat0": 14.26,
+  "latc": 14.5,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nassoumbou",
+  "pcode": "BF590105"
+ },
+ "62500": {
+  "lon0": -1.9,
+  "lat0": 13.76,
+  "latc": 13.9,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pobe-Mengao",
+  "pcode": "BF590106"
+ },
+ "62550": {
+  "lon0": -1.59,
+  "lat0": 13.75,
+  "latc": 14.09,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tongomayel",
+  "pcode": "BF590107"
+ },
+ "63000": {
+  "lon0": 0.28,
+  "lat0": 13.22,
+  "latc": 13.43,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sebba",
+  "pcode": "BF640303"
+ },
+ "63200": {
+  "lon0": 0.78,
+  "lat0": 13.12,
+  "latc": 13.37,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boundore",
+  "pcode": "BF640301"
+ },
+ "63250": {
+  "lon0": 0.34,
+  "lat0": 12.97,
+  "latc": 13.15,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Mansila",
+  "pcode": "BF640302"
+ },
+ "63300": {
+  "lon0": 0.17,
+  "lat0": 13.21,
+  "latc": 13.4,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Solhan",
+  "pcode": "BF640304"
+ },
+ "63350": {
+  "lon0": 0.54,
+  "lat0": 13.41,
+  "latc": 13.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tankougounadie",
+  "pcode": "BF640305"
+ },
+ "63400": {
+  "lon0": 0.1,
+  "lat0": 13.41,
+  "latc": 13.63,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Titabe",
+  "pcode": "BF640306"
+ },
+ "70000": {
+  "lon0": -0.57,
+  "lat0": 11.56,
+  "latc": 11.76,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tenkodogo",
+  "pcode": "BF480110"
+ },
+ "70200": {
+  "lon0": -0.74,
+  "lat0": 11.48,
+  "latc": 11.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Garango",
+  "pcode": "BF480107"
+ },
+ "70250": {
+  "lon0": -0.53,
+  "lat0": 11.06,
+  "latc": 11.27,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bitou",
+  "pcode": "BF480105"
+ },
+ "70300": {
+  "lon0": -0.57,
+  "lat0": 11.39,
+  "latc": 11.53,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bagre",
+  "pcode": "BF480101"
+ },
+ "70350": {
+  "lon0": -0.43,
+  "lat0": 11.37,
+  "latc": 11.5,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bane",
+  "pcode": "BF480102"
+ },
+ "70400": {
+  "lon0": -0.8,
+  "lat0": 11.73,
+  "latc": 11.79,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Beguedo",
+  "pcode": "BF480103"
+ },
+ "70450": {
+  "lon0": -0.18,
+  "lat0": 11.71,
+  "latc": 11.83,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bissiga",
+  "pcode": "BF480104"
+ },
+ "70500": {
+  "lon0": -0.8,
+  "lat0": 11.54,
+  "latc": 11.66,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boussouma",
+  "pcode": "BF480106"
+ },
+ "70600": {
+  "lon0": -0.84,
+  "lat0": 11.81,
+  "latc": 11.88,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Komtoega",
+  "pcode": "BF480108"
+ },
+ "70650": {
+  "lon0": -0.91,
+  "lat0": 11.67,
+  "latc": 11.76,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Niaogho",
+  "pcode": "BF480109"
+ },
+ "70700": {
+  "lon0": -0.77,
+  "lat0": 11.01,
+  "latc": 11.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zabre",
+  "pcode": "BF480111"
+ },
+ "70750": {
+  "lon0": -0.71,
+  "lat0": 10.89,
+  "latc": 11.0,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zoaga",
+  "pcode": "BF480112"
+ },
+ "70800": {
+  "lon0": -0.69,
+  "lat0": 11.3,
+  "latc": 11.39,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zonse",
+  "pcode": "BF480113"
+ },
+ "71000": {
+  "lon0": -0.15,
+  "lat0": 11.31,
+  "latc": 11.44,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouargaye",
+  "pcode": "BF480204"
+ },
+ "71200": {
+  "lon0": -0.01,
+  "lat0": 11.55,
+  "latc": 11.69,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Komin-Yanga",
+  "pcode": "BF480201"
+ },
+ "71250": {
+  "lon0": -0.06,
+  "lat0": 11.55,
+  "latc": 11.61,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dourtenga",
+  "pcode": "BF480202"
+ },
+ "71300": {
+  "lon0": -0.22,
+  "lat0": 11.34,
+  "latc": 11.55,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Lalgaye",
+  "pcode": "BF480203"
+ },
+ "71350": {
+  "lon0": 0.01,
+  "lat0": 11.05,
+  "latc": 11.2,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sangha",
+  "pcode": "BF480205"
+ },
+ "71400": {
+  "lon0": 0.19,
+  "lat0": 11.02,
+  "latc": 11.32,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Soudougui",
+  "pcode": "BF480206"
+ },
+ "71450": {
+  "lon0": -0.12,
+  "lat0": 11.11,
+  "latc": 11.24,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yargatenga",
+  "pcode": "BF480207"
+ },
+ "71500": {
+  "lon0": 0.07,
+  "lat0": 11.28,
+  "latc": 11.45,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yonde",
+  "pcode": "BF480208"
+ },
+ "72000": {
+  "lon0": -0.44,
+  "lat0": 12.03,
+  "latc": 12.22,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koupela",
+  "pcode": "BF480306"
+ },
+ "72200": {
+  "lon0": -0.5,
+  "lat0": 12.14,
+  "latc": 12.26,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pouytenga",
+  "pcode": "BF480307"
+ },
+ "72250": {
+  "lon0": -0.43,
+  "lat0": 12.19,
+  "latc": 12.39,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Andemtenga",
+  "pcode": "BF480301"
+ },
+ "72300": {
+  "lon0": -0.28,
+  "lat0": 12.11,
+  "latc": 12.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Baskoure",
+  "pcode": "BF480302"
+ },
+ "72350": {
+  "lon0": -0.52,
+  "lat0": 11.8,
+  "latc": 11.92,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dialgaye",
+  "pcode": "BF480303"
+ },
+ "72400": {
+  "lon0": -0.22,
+  "lat0": 11.95,
+  "latc": 12.12,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gounguen",
+  "pcode": "BF480304"
+ },
+ "72450": {
+  "lon0": -0.68,
+  "lat0": 12.18,
+  "latc": 12.37,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kando",
+  "pcode": "BF480305"
+ },
+ "72500": {
+  "lon0": -0.37,
+  "lat0": 11.86,
+  "latc": 11.96,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tensobentenga",
+  "pcode": "BF480308"
+ },
+ "72550": {
+  "lon0": -0.36,
+  "lat0": 11.97,
+  "latc": 12.06,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yargo",
+  "pcode": "BF480309"
+ },
+ "75000": {
+  "lon0": 0.09,
+  "lat0": 11.53,
+  "latc": 11.87,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Fada-Ngourma",
+  "pcode": "BF630103"
+ },
+ "75200": {
+  "lon0": -0.15,
+  "lat0": 11.74,
+  "latc": 11.95,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Diabo",
+  "pcode": "BF630101"
+ },
+ "75250": {
+  "lon0": -0.01,
+  "lat0": 11.96,
+  "latc": 12.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Diapangou",
+  "pcode": "BF630102"
+ },
+ "75300": {
+  "lon0": 0.59,
+  "lat0": 11.73,
+  "latc": 12.32,
+  "dx": 4,
+  "dy": 5,
+  "commune": "Matiakoali",
+  "pcode": "BF630104"
+ },
+ "75350": {
+  "lon0": -0.12,
+  "lat0": 12.12,
+  "latc": 12.27,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tibga",
+  "pcode": "BF630105"
+ },
+ "75400": {
+  "lon0": 0.19,
+  "lat0": 12.14,
+  "latc": 12.3,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yamba",
+  "pcode": "BF630106"
+ },
+ "76000": {
+  "lon0": -0.34,
+  "lat0": 12.76,
+  "latc": 12.94,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bogande",
+  "pcode": "BF580102"
+ },
+ "76200": {
+  "lon0": -0.27,
+  "lat0": 12.25,
+  "latc": 12.57,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bilanga",
+  "pcode": "BF580101"
+ },
+ "76250": {
+  "lon0": -0.33,
+  "lat0": 13.26,
+  "latc": 13.44,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koala",
+  "pcode": "BF580103"
+ },
+ "76300": {
+  "lon0": 0.12,
+  "lat0": 12.87,
+  "latc": 13.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Liptougou",
+  "pcode": "BF580104"
+ },
+ "76350": {
+  "lon0": -0.35,
+  "lat0": 12.98,
+  "latc": 13.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Mani",
+  "pcode": "BF580105"
+ },
+ "76400": {
+  "lon0": -0.25,
+  "lat0": 12.56,
+  "latc": 12.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Piela",
+  "pcode": "BF580106"
+ },
+ "76450": {
+  "lon0": -0.4,
+  "lat0": 12.9,
+  "latc": 13.04,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Thion",
+  "pcode": "BF580107"
+ },
+ "77000": {
+  "lon0": 0.22,
+  "lat0": 12.32,
+  "latc": 12.65,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gayeri",
+  "pcode": "BF580203"
+ },
+ "77200": {
+  "lon0": 0.59,
+  "lat0": 12.68,
+  "latc": 12.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bartiebougou",
+  "pcode": "BF580201"
+ },
+ "77250": {
+  "lon0": 0.88,
+  "lat0": 12.63,
+  "latc": 12.87,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Foutouri",
+  "pcode": "BF580202"
+ },
+ "78000": {
+  "lon0": 0.51,
+  "lat0": 10.89,
+  "latc": 11.42,
+  "dx": 4,
+  "dy": 5,
+  "commune": "Pama",
+  "pcode": "BF630203"
+ },
+ "78200": {
+  "lon0": 0.42,
+  "lat0": 10.93,
+  "latc": 11.07,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kompienga",
+  "pcode": "BF630201"
+ },
+ "78250": {
+  "lon0": 0.97,
+  "lat0": 11.13,
+  "latc": 11.38,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Madjoari",
+  "pcode": "BF630202"
+ },
+ "79000": {
+  "lon0": 1.62,
+  "lat0": 11.53,
+  "latc": 11.94,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Diapaga",
+  "pcode": "BF600201"
+ },
+ "79200": {
+  "lon0": 1.74,
+  "lat0": 12.17,
+  "latc": 12.46,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Botou",
+  "pcode": "BF600101"
+ },
+ "79250": {
+  "lon0": 1.17,
+  "lat0": 12.1,
+  "latc": 12.49,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kantchari",
+  "pcode": "BF600102"
+ },
+ "79300": {
+  "lon0": 1.18,
+  "lat0": 11.39,
+  "latc": 11.59,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Logbou",
+  "pcode": "BF600202"
+ },
+ "79350": {
+  "lon0": 1.49,
+  "lat0": 11.77,
+  "latc": 11.83,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Namouno",
+  "pcode": "BF600203"
+ },
+ "79400": {
+  "lon0": 1.25,
+  "lat0": 11.73,
+  "latc": 11.94,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Partiaga",
+  "pcode": "BF600204"
+ },
+ "79450": {
+  "lon0": 1.25,
+  "lat0": 11.59,
+  "latc": 11.78,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tambaga",
+  "pcode": "BF600205"
+ },
+ "79500": {
+  "lon0": 1.8,
+  "lat0": 11.47,
+  "latc": 11.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tansarga",
+  "pcode": "BF600206"
+ },
+ "80000": {
+  "lon0": -3.74,
+  "lat0": 12.23,
+  "latc": 12.49,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dedougou",
+  "pcode": "BF620302"
+ },
+ "80200": {
+  "lon0": -4.03,
+  "lat0": 11.72,
+  "latc": 11.89,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bondokui",
+  "pcode": "BF620301"
+ },
+ "80250": {
+  "lon0": -3.43,
+  "lat0": 12.36,
+  "latc": 12.53,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Douroula",
+  "pcode": "BF620303"
+ },
+ "80300": {
+  "lon0": -3.57,
+  "lat0": 11.98,
+  "latc": 12.13,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kona",
+  "pcode": "BF620304"
+ },
+ "80350": {
+  "lon0": -3.92,
+  "lat0": 11.97,
+  "latc": 12.14,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouarkoye",
+  "pcode": "BF620305"
+ },
+ "80400": {
+  "lon0": -3.39,
+  "lat0": 11.88,
+  "latc": 12.13,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Safane",
+  "pcode": "BF620306"
+ },
+ "80450": {
+  "lon0": -3.25,
+  "lat0": 12.02,
+  "latc": 12.28,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tcheriba",
+  "pcode": "BF620307"
+ },
+ "81000": {
+  "lon0": -3.15,
+  "lat0": 11.52,
+  "latc": 11.68,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boromo",
+  "pcode": "BF620103"
+ },
+ "81200": {
+  "lon0": -3.42,
+  "lat0": 11.58,
+  "latc": 11.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bagassi",
+  "pcode": "BF620101"
+ },
+ "81250": {
+  "lon0": -3.5,
+  "lat0": 11.88,
+  "latc": 11.94,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bana",
+  "pcode": "BF620102"
+ },
+ "81300": {
+  "lon0": -2.89,
+  "lat0": 11.23,
+  "latc": 11.42,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Fara",
+  "pcode": "BF620104"
+ },
+ "81350": {
+  "lon0": -3.24,
+  "lat0": 11.81,
+  "latc": 11.96,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouri",
+  "pcode": "BF620105"
+ },
+ "81400": {
+  "lon0": -3.43,
+  "lat0": 11.48,
+  "latc": 11.59,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pa",
+  "pcode": "BF620106"
+ },
+ "81450": {
+  "lon0": -3.37,
+  "lat0": 11.79,
+  "latc": 11.89,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Pompoi",
+  "pcode": "BF620107"
+ },
+ "81500": {
+  "lon0": -2.82,
+  "lat0": 11.57,
+  "latc": 11.64,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Poura",
+  "pcode": "BF620108"
+ },
+ "81550": {
+  "lon0": -3.07,
+  "lat0": 11.76,
+  "latc": 11.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Siby",
+  "pcode": "BF620109"
+ },
+ "81600": {
+  "lon0": -3.61,
+  "lat0": 11.7,
+  "latc": 11.82,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yaho",
+  "pcode": "BF620110"
+ },
+ "82000": {
+  "lon0": -4.41,
+  "lat0": 11.92,
+  "latc": 12.18,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Solenzo",
+  "pcode": "BF620205"
+ },
+ "82200": {
+  "lon0": -4.34,
+  "lat0": 12.23,
+  "latc": 12.4,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Balave",
+  "pcode": "BF620201"
+ },
+ "82250": {
+  "lon0": -4.5,
+  "lat0": 11.7,
+  "latc": 11.91,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kouka",
+  "pcode": "BF620202"
+ },
+ "82300": {
+  "lon0": -4.64,
+  "lat0": 12.0,
+  "latc": 12.14,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sami",
+  "pcode": "BF620203"
+ },
+ "82350": {
+  "lon0": -4.0,
+  "lat0": 12.23,
+  "latc": 12.39,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sanaba",
+  "pcode": "BF620204"
+ },
+ "82400": {
+  "lon0": -4.49,
+  "lat0": 12.26,
+  "latc": 12.51,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tansila",
+  "pcode": "BF620206"
+ },
+ "83000": {
+  "lon0": -4.11,
+  "lat0": 12.54,
+  "latc": 12.77,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nouna",
+  "pcode": "BF610109"
+ },
+ "83200": {
+  "lon0": -4.08,
+  "lat0": 12.87,
+  "latc": 13.12,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Barani",
+  "pcode": "BF610101"
+ },
+ "83250": {
+  "lon0": -4.08,
+  "lat0": 12.86,
+  "latc": 12.97,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bomborokui",
+  "pcode": "BF610102"
+ },
+ "83300": {
+  "lon0": -3.92,
+  "lat0": 12.48,
+  "latc": 12.62,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bourasso",
+  "pcode": "BF610103"
+ },
+ "83350": {
+  "lon0": -4.28,
+  "lat0": 12.94,
+  "latc": 13.18,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Djibasso",
+  "pcode": "BF610104"
+ },
+ "83400": {
+  "lon0": -4.19,
+  "lat0": 12.37,
+  "latc": 12.55,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dokui",
+  "pcode": "BF610105"
+ },
+ "83450": {
+  "lon0": -4.24,
+  "lat0": 12.65,
+  "latc": 12.84,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Doumbala",
+  "pcode": "BF610106"
+ },
+ "83500": {
+  "lon0": -4.05,
+  "lat0": 13.29,
+  "latc": 13.4,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kombori",
+  "pcode": "BF610107"
+ },
+ "83550": {
+  "lon0": -4.35,
+  "lat0": 13.03,
+  "latc": 13.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Madouba",
+  "pcode": "BF610108"
+ },
+ "83600": {
+  "lon0": -3.6,
+  "lat0": 12.7,
+  "latc": 12.85,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sono",
+  "pcode": "BF610110"
+ },
+ "84000": {
+  "lon0": -3.01,
+  "lat0": 12.56,
+  "latc": 12.68,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Toma",
+  "pcode": "BF610204"
+ },
+ "84200": {
+  "lon0": -3.45,
+  "lat0": 12.61,
+  "latc": 12.8,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gassan",
+  "pcode": "BF610201"
+ },
+ "84250": {
+  "lon0": -2.97,
+  "lat0": 12.38,
+  "latc": 12.51,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gossina",
+  "pcode": "BF610202"
+ },
+ "84300": {
+  "lon0": -3.17,
+  "lat0": 12.58,
+  "latc": 12.71,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kougny",
+  "pcode": "BF610203"
+ },
+ "84350": {
+  "lon0": -3.06,
+  "lat0": 12.64,
+  "latc": 12.81,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Yaba",
+  "pcode": "BF610205"
+ },
+ "84400": {
+  "lon0": -3.26,
+  "lat0": 12.34,
+  "latc": 12.51,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ye",
+  "pcode": "BF610206"
+ },
+ "85000": {
+  "lon0": -3.21,
+  "lat0": 12.9,
+  "latc": 13.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tougan",
+  "pcode": "BF610308"
+ },
+ "85200": {
+  "lon0": -3.49,
+  "lat0": 13.04,
+  "latc": 13.17,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Di",
+  "pcode": "BF610301"
+ },
+ "85250": {
+  "lon0": -2.98,
+  "lat0": 13.33,
+  "latc": 13.45,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gomboro",
+  "pcode": "BF610302"
+ },
+ "85300": {
+  "lon0": -3.42,
+  "lat0": 12.95,
+  "latc": 13.12,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kassoum",
+  "pcode": "BF610303"
+ },
+ "85350": {
+  "lon0": -2.98,
+  "lat0": 13.11,
+  "latc": 13.28,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kiembara",
+  "pcode": "BF610304"
+ },
+ "85400": {
+  "lon0": -3.48,
+  "lat0": 12.78,
+  "latc": 12.92,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Lanfiera",
+  "pcode": "BF610305"
+ },
+ "85450": {
+  "lon0": -2.66,
+  "lat0": 13.1,
+  "latc": 13.21,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Lankoue",
+  "pcode": "BF610306"
+ },
+ "85500": {
+  "lon0": -3.28,
+  "lat0": 13.26,
+  "latc": 13.49,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Toeni",
+  "pcode": "BF610307"
+ },
+ "90000": {
+  "lon0": -4.59,
+  "lat0": 10.94,
+  "latc": 11.23,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bobo-Dioulasso",
+  "pcode": "BF530102"
+ },
+ "90200": {
+  "lon0": -4.63,
+  "lat0": 11.26,
+  "latc": 11.45,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bama",
+  "pcode": "BF530101"
+ },
+ "90250": {
+  "lon0": -4.61,
+  "lat0": 11.48,
+  "latc": 11.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dande",
+  "pcode": "BF530103"
+ },
+ "90300": {
+  "lon0": -4.72,
+  "lat0": 11.96,
+  "latc": 12.04,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Faramana",
+  "pcode": "BF530104"
+ },
+ "90350": {
+  "lon0": -4.65,
+  "lat0": 11.78,
+  "latc": 11.9,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Fo",
+  "pcode": "BF530105"
+ },
+ "90400": {
+  "lon0": -4.17,
+  "lat0": 10.66,
+  "latc": 10.92,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Karangasso-Vigue",
+  "pcode": "BF530107"
+ },
+ "90450": {
+  "lon0": -4.81,
+  "lat0": 11.02,
+  "latc": 11.24,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Karangasso-Sambla",
+  "pcode": "BF530106"
+ },
+ "90500": {
+  "lon0": -4.67,
+  "lat0": 11.62,
+  "latc": 11.72,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koundougou",
+  "pcode": "BF530108"
+ },
+ "90550": {
+  "lon0": -4.13,
+  "lat0": 11.11,
+  "latc": 11.29,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Lena",
+  "pcode": "BF530109"
+ },
+ "90600": {
+  "lon0": -4.4,
+  "lat0": 11.54,
+  "latc": 11.75,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Padema",
+  "pcode": "BF530110"
+ },
+ "90650": {
+  "lon0": -4.65,
+  "lat0": 10.69,
+  "latc": 10.89,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Peni",
+  "pcode": "BF530111"
+ },
+ "90700": {
+  "lon0": -4.2,
+  "lat0": 11.31,
+  "latc": 11.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Satiri",
+  "pcode": "BF530112"
+ },
+ "90750": {
+  "lon0": -4.77,
+  "lat0": 10.77,
+  "latc": 10.91,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Toussiana",
+  "pcode": "BF530113"
+ },
+ "91000": {
+  "lon0": -5.09,
+  "lat0": 10.85,
+  "latc": 10.99,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Orodara",
+  "pcode": "BF530210"
+ },
+ "91200": {
+  "lon0": -4.93,
+  "lat0": 11.23,
+  "latc": 11.29,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Banzon",
+  "pcode": "BF530201"
+ },
+ "91250": {
+  "lon0": -5.07,
+  "lat0": 11.02,
+  "latc": 11.15,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Djigouera",
+  "pcode": "BF530202"
+ },
+ "91300": {
+  "lon0": -5.39,
+  "lat0": 10.82,
+  "latc": 10.99,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kangala",
+  "pcode": "BF530203"
+ },
+ "91350": {
+  "lon0": -4.84,
+  "lat0": 11.69,
+  "latc": 11.87,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kayan",
+  "pcode": "BF530204"
+ },
+ "91400": {
+  "lon0": -5.49,
+  "lat0": 11.0,
+  "latc": 11.22,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koloko",
+  "pcode": "BF530205"
+ },
+ "91450": {
+  "lon0": -4.9,
+  "lat0": 10.87,
+  "latc": 11.04,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kourinion",
+  "pcode": "BF530206"
+ },
+ "91500": {
+  "lon0": -4.97,
+  "lat0": 11.41,
+  "latc": 11.56,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kourouma",
+  "pcode": "BF530207"
+ },
+ "91550": {
+  "lon0": -5.41,
+  "lat0": 11.68,
+  "latc": 11.84,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Morlaba",
+  "pcode": "BF530208"
+ },
+ "91600": {
+  "lon0": -5.01,
+  "lat0": 11.63,
+  "latc": 11.83,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ndorola",
+  "pcode": "BF530209"
+ },
+ "91650": {
+  "lon0": -5.23,
+  "lat0": 10.78,
+  "latc": 10.96,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Samogoyiri",
+  "pcode": "BF530211"
+ },
+ "91700": {
+  "lon0": -5.16,
+  "lat0": 11.17,
+  "latc": 11.44,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Samogogouan",
+  "pcode": "BF530212"
+ },
+ "91750": {
+  "lon0": -5.3,
+  "lat0": 11.26,
+  "latc": 11.49,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sindo",
+  "pcode": "BF530213"
+ },
+ "92000": {
+  "lon0": -3.91,
+  "lat0": 11.32,
+  "latc": 11.53,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Hounde",
+  "pcode": "BF530305"
+ },
+ "92200": {
+  "lon0": -4.02,
+  "lat0": 11.47,
+  "latc": 11.64,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bekui",
+  "pcode": "BF530301"
+ },
+ "92250": {
+  "lon0": -3.88,
+  "lat0": 11.5,
+  "latc": 11.64,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bereba",
+  "pcode": "BF530302"
+ },
+ "92300": {
+  "lon0": -3.5,
+  "lat0": 11.35,
+  "latc": 11.51,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boni",
+  "pcode": "BF530303"
+ },
+ "92350": {
+  "lon0": -3.45,
+  "lat0": 11.17,
+  "latc": 11.36,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Founzan",
+  "pcode": "BF530304"
+ },
+ "92400": {
+  "lon0": -3.18,
+  "lat0": 11.29,
+  "latc": 11.44,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koti",
+  "pcode": "BF530306"
+ },
+ "92450": {
+  "lon0": -3.89,
+  "lat0": 10.98,
+  "latc": 11.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koumbia",
+  "pcode": "BF530307"
+ },
+ "94000": {
+  "lon0": -4.98,
+  "lat0": 10.38,
+  "latc": 10.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Banfora",
+  "pcode": "BF470101"
+ },
+ "94200": {
+  "lon0": -5.08,
+  "lat0": 9.67,
+  "latc": 10.04,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Niangoloko",
+  "pcode": "BF470105"
+ },
+ "94250": {
+  "lon0": -4.9,
+  "lat0": 10.69,
+  "latc": 10.77,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Beregadougou",
+  "pcode": "BF470102"
+ },
+ "94300": {
+  "lon0": -4.63,
+  "lat0": 9.59,
+  "latc": 9.94,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Mangodara",
+  "pcode": "BF470103"
+ },
+ "94350": {
+  "lon0": -5.09,
+  "lat0": 10.74,
+  "latc": 10.82,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Moussodougou",
+  "pcode": "BF470104"
+ },
+ "94400": {
+  "lon0": -4.29,
+  "lat0": 9.8,
+  "latc": 10.33,
+  "dx": 4,
+  "dy": 5,
+  "commune": "Ouo",
+  "pcode": "BF470106"
+ },
+ "94450": {
+  "lon0": -4.64,
+  "lat0": 10.14,
+  "latc": 10.49,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sideradougou",
+  "pcode": "BF470107"
+ },
+ "94500": {
+  "lon0": -5.16,
+  "lat0": 10.17,
+  "latc": 10.39,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Soubakaniedougou",
+  "pcode": "BF470108"
+ },
+ "94550": {
+  "lon0": -4.74,
+  "lat0": 10.32,
+  "latc": 10.6,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tiefora",
+  "pcode": "BF470109"
+ },
+ "95000": {
+  "lon0": -5.31,
+  "lat0": 10.54,
+  "latc": 10.69,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Sindou",
+  "pcode": "BF470207"
+ },
+ "95200": {
+  "lon0": -5.26,
+  "lat0": 10.28,
+  "latc": 10.43,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dakoro",
+  "pcode": "BF470201"
+ },
+ "95250": {
+  "lon0": -5.15,
+  "lat0": 10.55,
+  "latc": 10.65,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Douna",
+  "pcode": "BF470202"
+ },
+ "95300": {
+  "lon0": -5.39,
+  "lat0": 10.64,
+  "latc": 10.75,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kankalaba",
+  "pcode": "BF470203"
+ },
+ "95350": {
+  "lon0": -5.52,
+  "lat0": 10.41,
+  "latc": 10.57,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Loumana",
+  "pcode": "BF470204"
+ },
+ "95400": {
+  "lon0": -5.51,
+  "lat0": 10.28,
+  "latc": 10.41,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Niankorodougou",
+  "pcode": "BF470205"
+ },
+ "95450": {
+  "lon0": -5.5,
+  "lat0": 10.71,
+  "latc": 10.87,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Oueleni",
+  "pcode": "BF470206"
+ },
+ "95500": {
+  "lon0": -5.08,
+  "lat0": 10.58,
+  "latc": 10.7,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Wolonkoto",
+  "pcode": "BF470208"
+ },
+ "96000": {
+  "lon0": -3.37,
+  "lat0": 10.17,
+  "latc": 10.36,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gaoua",
+  "pcode": "BF570404"
+ },
+ "96200": {
+  "lon0": -3.35,
+  "lat0": 10.41,
+  "latc": 10.52,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Bouroum-Bouroum",
+  "pcode": "BF570401"
+ },
+ "96250": {
+  "lon0": -3.12,
+  "lat0": 10.27,
+  "latc": 10.37,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boussera",
+  "pcode": "BF570402"
+ },
+ "96300": {
+  "lon0": -4.05,
+  "lat0": 9.87,
+  "latc": 10.03,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Djigoue",
+  "pcode": "BF570403"
+ },
+ "96350": {
+  "lon0": -3.15,
+  "lat0": 10.04,
+  "latc": 10.19,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gbomblora",
+  "pcode": "BF570405"
+ },
+ "96400": {
+  "lon0": -3.69,
+  "lat0": 9.84,
+  "latc": 10.07,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kampti",
+  "pcode": "BF570406"
+ },
+ "96450": {
+  "lon0": -3.83,
+  "lat0": 10.08,
+  "latc": 10.38,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Loropeni",
+  "pcode": "BF570407"
+ },
+ "96500": {
+  "lon0": -3.4,
+  "lat0": 10.39,
+  "latc": 10.51,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Malba",
+  "pcode": "BF570408"
+ },
+ "96550": {
+  "lon0": -3.3,
+  "lat0": 10.45,
+  "latc": 10.61,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Nako",
+  "pcode": "BF570409"
+ },
+ "96600": {
+  "lon0": -3.46,
+  "lat0": 10.08,
+  "latc": 10.2,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Perigban",
+  "pcode": "BF570410"
+ },
+ "97000": {
+  "lon0": -3.4,
+  "lat0": 10.75,
+  "latc": 10.92,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Diebougou",
+  "pcode": "BF570102"
+ },
+ "97200": {
+  "lon0": -3.74,
+  "lat0": 10.76,
+  "latc": 10.97,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gbondjigui",
+  "pcode": "BF570101"
+ },
+ "97250": {
+  "lon0": -3.51,
+  "lat0": 10.81,
+  "latc": 10.89,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dolo",
+  "pcode": "BF570103"
+ },
+ "97300": {
+  "lon0": -3.8,
+  "lat0": 10.63,
+  "latc": 10.74,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Iolonioro",
+  "pcode": "BF570104"
+ },
+ "97350": {
+  "lon0": -3.38,
+  "lat0": 10.61,
+  "latc": 10.72,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Tiankoura",
+  "pcode": "BF570105"
+ },
+ "98000": {
+  "lon0": -3.15,
+  "lat0": 10.97,
+  "latc": 11.16,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dano",
+  "pcode": "BF570201"
+ },
+ "98200": {
+  "lon0": -3.15,
+  "lat0": 10.84,
+  "latc": 10.92,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Dissihn",
+  "pcode": "BF570202"
+ },
+ "98250": {
+  "lon0": -3.46,
+  "lat0": 10.97,
+  "latc": 11.1,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Gueguere",
+  "pcode": "BF570203"
+ },
+ "98300": {
+  "lon0": -2.99,
+  "lat0": 10.97,
+  "latc": 11.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Koper",
+  "pcode": "BF570204"
+ },
+ "98350": {
+  "lon0": -2.74,
+  "lat0": 11.05,
+  "latc": 11.14,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Niego",
+  "pcode": "BF570205"
+ },
+ "98400": {
+  "lon0": -3.3,
+  "lat0": 11.19,
+  "latc": 11.28,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Oronkua",
+  "pcode": "BF570206"
+ },
+ "98450": {
+  "lon0": -2.84,
+  "lat0": 11.0,
+  "latc": 11.08,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Ouessa",
+  "pcode": "BF570207"
+ },
+ "98500": {
+  "lon0": -3.2,
+  "lat0": 10.7,
+  "latc": 10.84,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Zambo",
+  "pcode": "BF570208"
+ },
+ "99000": {
+  "lon0": -3.12,
+  "lat0": 9.61,
+  "latc": 9.86,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Batie",
+  "pcode": "BF570301"
+ },
+ "99200": {
+  "lon0": -3.2,
+  "lat0": 9.68,
+  "latc": 9.81,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Boussou-Koula",
+  "pcode": "BF570302"
+ },
+ "99250": {
+  "lon0": -2.95,
+  "lat0": 9.41,
+  "latc": 9.58,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Kpuere",
+  "pcode": "BF570303"
+ },
+ "99300": {
+  "lon0": -2.98,
+  "lat0": 10.01,
+  "latc": 10.11,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Legmoin",
+  "pcode": "BF570304"
+ },
+ "99350": {
+  "lon0": -3.3,
+  "lat0": 9.87,
+  "latc": 10.03,
+  "dx": 4,
+  "dy": 4,
+  "commune": "Midebdo",
+  "pcode": "BF570305"
+ }
+}

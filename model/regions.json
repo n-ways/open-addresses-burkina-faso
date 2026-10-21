@@ -1,0 +1,327 @@
+[
+  {
+    "key": "BO",
+    "iso": "BF-01",
+    "name": "Boucle du Mouhoun",
+    "nameFr": "Boucle du Mouhoun",
+    "nameLocal": "Boucle du Mouhoun",
+    "wikidata": "Q527093",
+    "areaKm2": 34363.4,
+    "box": [
+      -4.6489,
+      11.24085,
+      -2.4414,
+      13.71449
+    ],
+    "buildings": {
+      "openstreetmap": 31761,
+      "ml": 1412429,
+      "total": 1444190
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "CA",
+    "iso": "BF-02",
+    "name": "Waterfalls",
+    "nameFr": "Cascades",
+    "nameLocal": "Cascades",
+    "wikidata": "Q850043",
+    "areaKm2": 18427.0,
+    "box": [
+      -5.51321,
+      9.59157,
+      -3.6731,
+      11.02283
+    ],
+    "buildings": {
+      "openstreetmap": 63972,
+      "ml": 565044,
+      "total": 629016
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "CE",
+    "iso": "BF-03",
+    "name": "Centre",
+    "nameFr": "Centre",
+    "nameLocal": "Centre",
+    "wikidata": "Q515655",
+    "areaKm2": 2871.9,
+    "box": [
+      -1.82685,
+      12.05013,
+      -1.06363,
+      12.68505
+    ],
+    "buildings": {
+      "openstreetmap": 396031,
+      "ml": 1287301,
+      "total": 1683332
+    },
+    "codeLength": {
+      "spot": 7,
+      "building": 6
+    },
+    "needsSubdivision": false
+  },
+  {
+    "key": "CN",
+    "iso": "BF-04",
+    "name": "Central-East",
+    "nameFr": "Centre-Est",
+    "nameLocal": "Centre-Est",
+    "wikidata": "Q543006",
+    "areaKm2": 14695.6,
+    "box": [
+      -0.9119,
+      10.9105,
+      0.58975,
+      12.56067
+    ],
+    "buildings": {
+      "openstreetmap": 13355,
+      "ml": 1043765,
+      "total": 1057120
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "CT",
+    "iso": "BF-05",
+    "name": "Central-North",
+    "nameFr": "Centre-Nord",
+    "nameLocal": "Centre-Nord",
+    "wikidata": "Q850064",
+    "areaKm2": 19662.6,
+    "box": [
+      -1.90515,
+      12.47938,
+      -0.21301,
+      13.99874
+    ],
+    "buildings": {
+      "openstreetmap": 110060,
+      "ml": 1060863,
+      "total": 1170923
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "CR",
+    "iso": "BF-06",
+    "name": "Central-West",
+    "nameFr": "Centre-Ouest",
+    "nameLocal": "Centre-Ouest",
+    "wikidata": "Q850075",
+    "areaKm2": 21763.8,
+    "box": [
+      -2.93171,
+      10.972,
+      -1.3096,
+      12.84173
+    ],
+    "buildings": {
+      "openstreetmap": 64305,
+      "ml": 1161519,
+      "total": 1225824
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "CS",
+    "iso": "BF-07",
+    "name": "Central-South",
+    "nameFr": "Centre-Sud",
+    "nameLocal": "Centre-Sud",
+    "wikidata": "Q853405",
+    "areaKm2": 11441.2,
+    "box": [
+      -2.05144,
+      10.96239,
+      -0.55826,
+      12.20435
+    ],
+    "buildings": {
+      "openstreetmap": 44423,
+      "ml": 557696,
+      "total": 602119
+    },
+    "codeLength": {
+      "spot": 7,
+      "building": 5
+    },
+    "needsSubdivision": false
+  },
+  {
+    "key": "ES",
+    "iso": "BF-08",
+    "name": "East",
+    "nameFr": "Est",
+    "nameLocal": "Est",
+    "wikidata": "Q850088",
+    "areaKm2": 47372.4,
+    "box": [
+      -0.39059,
+      10.93172,
+      2.40897,
+      13.57831
+    ],
+    "buildings": {
+      "openstreetmap": 24716,
+      "ml": 858450,
+      "total": 883166
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "HA",
+    "iso": "BF-09",
+    "name": "Upper-Basins",
+    "nameFr": "Hauts-Bassins",
+    "nameLocal": "Hauts-Bassins",
+    "wikidata": "Q845303",
+    "areaKm2": 25598.1,
+    "box": [
+      -5.48926,
+      10.66978,
+      -2.82878,
+      12.10766
+    ],
+    "buildings": {
+      "openstreetmap": 107532,
+      "ml": 1231408,
+      "total": 1338940
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "NO",
+    "iso": "BF-10",
+    "name": "North",
+    "nameFr": "Nord",
+    "nameLocal": "Nord",
+    "wikidata": "Q502320",
+    "areaKm2": 16433.1,
+    "box": [
+      -2.95249,
+      12.62303,
+      -1.53208,
+      14.29945
+    ],
+    "buildings": {
+      "openstreetmap": 68299,
+      "ml": 1248378,
+      "total": 1316677
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "PL",
+    "iso": "BF-11",
+    "name": "Central-Plateau",
+    "nameFr": "Plateau-Central",
+    "nameLocal": "Plateau-Central",
+    "wikidata": "Q862606",
+    "areaKm2": 8600.0,
+    "box": [
+      -2.08299,
+      11.87382,
+      -0.41131,
+      12.93312
+    ],
+    "buildings": {
+      "openstreetmap": 18718,
+      "ml": 682612,
+      "total": 701330
+    },
+    "codeLength": {
+      "spot": 7,
+      "building": 5
+    },
+    "needsSubdivision": false
+  },
+  {
+    "key": "SA",
+    "iso": "BF-12",
+    "name": "Sahel",
+    "nameFr": "Sahel",
+    "nameLocal": "Sahel",
+    "wikidata": "Q665514",
+    "areaKm2": 35830.7,
+    "box": [
+      -2.10326,
+      12.97012,
+      1.2847,
+      15.084
+    ],
+    "buildings": {
+      "openstreetmap": 56043,
+      "ml": 658200,
+      "total": 714243
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  },
+  {
+    "key": "SU",
+    "iso": "BF-13",
+    "name": "Southwest",
+    "nameFr": "Sud-Ouest",
+    "nameLocal": "Sud-Ouest",
+    "wikidata": "Q429149",
+    "areaKm2": 16339.0,
+    "box": [
+      -3.99998,
+      9.41047,
+      -2.6062,
+      11.36437
+    ],
+    "buildings": {
+      "openstreetmap": 32552,
+      "ml": 513926,
+      "total": 546478
+    },
+    "codeLength": {
+      "spot": 8,
+      "building": 5
+    },
+    "needsSubdivision": true
+  }
+]

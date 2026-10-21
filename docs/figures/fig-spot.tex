@@ -1,0 +1,23 @@
+% Ouagadougou in its spot frame: kilometres east and north of the frame origin (1.69 W, 12.25 N); a spot code
+% counts 10 m cells, so E = 100 x km east. The point is Koulouba 17 76. Data: ouaga-frame.dat.
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{fontspec}\setmainfont{LibertinusSans}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-Italic]
+\usepackage{pgfplots}\pgfplotsset{compat=1.18}
+\usepackage{pgfplotstable}
+\definecolor{ink}{HTML}{A3121C}\definecolor{inkmid}{HTML}{D9584F}\definecolor{inklight}{HTML}{F2B8B3}\definecolor{inkpale}{HTML}{FBE3E1}
+\definecolor{slate}{HTML}{8C9AA6}\definecolor{grid}{HTML}{DADDE0}
+\providecommand{\T}[2]{\ifdefined\paperfr #2\else #1\fi}
+\begin{document}
+\begin{tikzpicture}[font=\footnotesize]
+\begin{axis}[axis equal image, width=9.5cm, xmin=0, xmax=32, ymin=0, ymax=30,
+  xtick={0,5,...,30}, ytick={0,5,...,30},
+  xlabel={\T{km east of the origin}{km à l'est de l'origine} (E\,/\,100)}, ylabel={\T{km north}{km au nord} (N\,/\,100)},
+  grid=both, major grid style={grid}, tick style={draw=none}, axis line style={gray}, unbounded coords=jump]
+\addplot[ink, fill=inkpale, line width=0.7pt, no markers] table[x=e, y=n] {ouaga-frame.dat};
+\addplot[only marks, mark=*, mark size=1.8pt, black] coordinates {(18.85,12.62)};
+\node[anchor=west, fill=white, fill opacity=0.85, text opacity=1, inner sep=1.5pt] at (axis cs:19.6,11.2) {BF-10000 E1885 N1262};
+\addplot[only marks, mark=square*, mark size=1.8pt, black] coordinates {(0,0)};
+\node[anchor=south west] at (axis cs:0.5,0.5) {\T{origin}{origine} $(\lambda_0,\varphi_0)$};
+\end{axis}
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,1588 @@
+[
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-186-6",
+  "Home": "Diurmanko 186",
+  "Written": "Diurmanko 186",
+  "Spot": "BF-95500 E0468 N0770",
+  "Number": 186,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-187-7",
+  "Home": "Diurmanko 187",
+  "Written": "Diurmanko 187",
+  "Spot": "BF-95500 E0468 N0772",
+  "Number": 187,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-188-9",
+  "Home": "Diurmanko 188",
+  "Written": "Diurmanko 188",
+  "Spot": "BF-95500 E0469 N0767",
+  "Number": 188,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-189-0",
+  "Home": "Diurmanko 189",
+  "Written": "Diurmanko 189",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 189,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-163-9",
+  "Home": "Diurmanko 163",
+  "Written": "Diurmanko 163",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 163,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-174-3",
+  "Home": "Diurmanko 174",
+  "Written": "Diurmanko 174",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 174,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-190-0",
+  "Home": "Diurmanko 190",
+  "Written": "Diurmanko 190",
+  "Spot": "BF-95500 E0464 N0770",
+  "Number": 190,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-180-2",
+  "Home": "Diurmanko 180",
+  "Written": "Diurmanko 180",
+  "Spot": "BF-95500 E0467 N0769",
+  "Number": 180,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-191-3",
+  "Home": "Diurmanko 191",
+  "Written": "Diurmanko 191",
+  "Spot": "BF-95500 E0465 N0773",
+  "Number": 191,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-164-7",
+  "Home": "Diurmanko 164",
+  "Written": "Diurmanko 164",
+  "Spot": "BF-95500 E0468 N0766",
+  "Number": 164,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-192-1",
+  "Home": "Diurmanko 192",
+  "Written": "Diurmanko 192",
+  "Spot": "BF-95500 E0468 N0775",
+  "Number": 192,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-193-7",
+  "Home": "Diurmanko 193",
+  "Written": "Diurmanko 193",
+  "Spot": "BF-95500 E0471 N0768",
+  "Number": 193,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-177-0",
+  "Home": "Diurmanko 177",
+  "Written": "Diurmanko 177",
+  "Spot": "BF-95500 E0467 N0770",
+  "Number": 177,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-194-5",
+  "Home": "Diurmanko 194",
+  "Written": "Diurmanko 194",
+  "Spot": "BF-95500 E0464 N0770",
+  "Number": 194,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-195-9",
+  "Home": "Diurmanko 195",
+  "Written": "Diurmanko 195",
+  "Spot": "BF-95500 E0466 N0768",
+  "Number": 195,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-196-8",
+  "Home": "Diurmanko 196",
+  "Written": "Diurmanko 196",
+  "Spot": "BF-95500 E0469 N0766",
+  "Number": 196,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-197-6",
+  "Home": "Diurmanko 197",
+  "Written": "Diurmanko 197",
+  "Spot": "BF-95500 E0467 N0772",
+  "Number": 197,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-175-6",
+  "Home": "Diurmanko 175",
+  "Written": "Diurmanko 175",
+  "Spot": "BF-95500 E0467 N0769",
+  "Number": 175,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-198-4",
+  "Home": "Diurmanko 198",
+  "Written": "Diurmanko 198",
+  "Spot": "BF-95500 E0468 N0765",
+  "Number": 198,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-199-2",
+  "Home": "Diurmanko 199",
+  "Written": "Diurmanko 199",
+  "Spot": "BF-95500 E0465 N0767",
+  "Number": 199,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-200-5",
+  "Home": "Diurmanko 200",
+  "Written": "Diurmanko 200",
+  "Spot": "BF-95500 E0469 N0768",
+  "Number": 200,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-201-8",
+  "Home": "Diurmanko 201",
+  "Written": "Diurmanko 201",
+  "Spot": "BF-95500 E0462 N0767",
+  "Number": 201,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-202-6",
+  "Home": "Diurmanko 202",
+  "Written": "Diurmanko 202",
+  "Spot": "BF-95500 E0466 N0768",
+  "Number": 202,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-203-9",
+  "Home": "Diurmanko 203",
+  "Written": "Diurmanko 203",
+  "Spot": "BF-95500 E0464 N0771",
+  "Number": 203,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-204-7",
+  "Home": "Diurmanko 204",
+  "Written": "Diurmanko 204",
+  "Spot": "BF-95500 E0470 N0768",
+  "Number": 204,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-205-2",
+  "Home": "Diurmanko 205",
+  "Written": "Diurmanko 205",
+  "Spot": "BF-95500 E0470 N0773",
+  "Number": 205,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-206-0",
+  "Home": "Diurmanko 206",
+  "Written": "Diurmanko 206",
+  "Spot": "BF-95500 E0464 N0769",
+  "Number": 206,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-207-1",
+  "Home": "Diurmanko 207",
+  "Written": "Diurmanko 207",
+  "Spot": "BF-95500 E0466 N0768",
+  "Number": 207,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-208-3",
+  "Home": "Diurmanko 208",
+  "Written": "Diurmanko 208",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 208,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-209-4",
+  "Home": "Diurmanko 209",
+  "Written": "Diurmanko 209",
+  "Spot": "BF-95500 E0464 N0765",
+  "Number": 209,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-210-7",
+  "Home": "Diurmanko 210",
+  "Written": "Diurmanko 210",
+  "Spot": "BF-95500 E0471 N0767",
+  "Number": 210,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-211-0",
+  "Home": "Diurmanko 211",
+  "Written": "Diurmanko 211",
+  "Spot": "BF-95500 E0464 N0766",
+  "Number": 211,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-212-9",
+  "Home": "Diurmanko 212",
+  "Written": "Diurmanko 212",
+  "Spot": "BF-95500 E0467 N0766",
+  "Number": 212,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-213-2",
+  "Home": "Diurmanko 213",
+  "Written": "Diurmanko 213",
+  "Spot": "BF-95500 E0464 N0774",
+  "Number": 213,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-214-1",
+  "Home": "Diurmanko 214",
+  "Written": "Diurmanko 214",
+  "Spot": "BF-95500 E0464 N0768",
+  "Number": 214,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-215-5",
+  "Home": "Diurmanko 215",
+  "Written": "Diurmanko 215",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 215,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-216-4",
+  "Home": "Diurmanko 216",
+  "Written": "Diurmanko 216",
+  "Spot": "BF-95500 E0466 N0773",
+  "Number": 216,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-217-8",
+  "Home": "Diurmanko 217",
+  "Written": "Diurmanko 217",
+  "Spot": "BF-95500 E0471 N0768",
+  "Number": 217,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-218-6",
+  "Home": "Diurmanko 218",
+  "Written": "Diurmanko 218",
+  "Spot": "BF-95500 E0464 N0768",
+  "Number": 218,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-219-3",
+  "Home": "Diurmanko 219",
+  "Written": "Diurmanko 219",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 219,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-220-4",
+  "Home": "Diurmanko 220",
+  "Written": "Diurmanko 220",
+  "Spot": "BF-95500 E0467 N0770",
+  "Number": 220,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-221-2",
+  "Home": "Diurmanko 221",
+  "Written": "Diurmanko 221",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 221,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-183-1",
+  "Home": "Diurmanko 183",
+  "Written": "Diurmanko 183",
+  "Spot": "BF-95500 E0467 N0769",
+  "Number": 183,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-222-0",
+  "Home": "Diurmanko 222",
+  "Written": "Diurmanko 222",
+  "Spot": "BF-95500 E0464 N0771",
+  "Number": 222,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-223-6",
+  "Home": "Diurmanko 223",
+  "Written": "Diurmanko 223",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 223,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-224-8",
+  "Home": "Diurmanko 224",
+  "Written": "Diurmanko 224",
+  "Spot": "BF-95500 E0464 N0771",
+  "Number": 224,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-225-7",
+  "Home": "Diurmanko 225",
+  "Written": "Diurmanko 225",
+  "Spot": "BF-95500 E0462 N0772",
+  "Number": 225,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-226-1",
+  "Home": "Diurmanko 226",
+  "Written": "Diurmanko 226",
+  "Spot": "BF-95500 E0467 N0768",
+  "Number": 226,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-227-3",
+  "Home": "Diurmanko 227",
+  "Written": "Diurmanko 227",
+  "Spot": "BF-95500 E0465 N0771",
+  "Number": 227,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-228-5",
+  "Home": "Diurmanko 228",
+  "Written": "Diurmanko 228",
+  "Spot": "BF-95500 E0471 N0772",
+  "Number": 228,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-184-4",
+  "Home": "Diurmanko 184",
+  "Written": "Diurmanko 184",
+  "Spot": "BF-95500 E0467 N0769",
+  "Number": 184,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-229-9",
+  "Home": "Diurmanko 229",
+  "Written": "Diurmanko 229",
+  "Spot": "BF-95500 E0466 N0768",
+  "Number": 229,
+  "Blocks": [
+   [
+    100,
+    229
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-230-1",
+  "Home": "Diurmanko 230",
+  "Written": "Diurmanko 230",
+  "Spot": "BF-95500 E0470 N0769",
+  "Number": 230,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-165-2",
+  "Home": "Diurmanko 165",
+  "Written": "Diurmanko 165",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 165,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-231-7",
+  "Home": "Diurmanko 231",
+  "Written": "Diurmanko 231",
+  "Spot": "BF-95500 E0465 N0767",
+  "Number": 231,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-232-5",
+  "Home": "Diurmanko 232",
+  "Written": "Diurmanko 232",
+  "Spot": "BF-95500 E0461 N0767",
+  "Number": 232,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-233-0",
+  "Home": "Diurmanko 233",
+  "Written": "Diurmanko 233",
+  "Spot": "BF-95500 E0464 N0767",
+  "Number": 233,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-234-9",
+  "Home": "Diurmanko 234",
+  "Written": "Diurmanko 234",
+  "Spot": "BF-95500 E0468 N0773",
+  "Number": 234,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-235-8",
+  "Home": "Diurmanko 235",
+  "Written": "Diurmanko 235",
+  "Spot": "BF-95500 E0461 N0770",
+  "Number": 235,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-236-3",
+  "Home": "Diurmanko 236",
+  "Written": "Diurmanko 236",
+  "Spot": "BF-95500 E0461 N0771",
+  "Number": 236,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-237-4",
+  "Home": "Diurmanko 237",
+  "Written": "Diurmanko 237",
+  "Spot": "BF-95500 E0468 N0767",
+  "Number": 237,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-238-2",
+  "Home": "Diurmanko 238",
+  "Written": "Diurmanko 238",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 238,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-239-6",
+  "Home": "Diurmanko 239",
+  "Written": "Diurmanko 239",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 239,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-185-3",
+  "Home": "Diurmanko 185",
+  "Written": "Diurmanko 185",
+  "Spot": "BF-95500 E0467 N0770",
+  "Number": 185,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-240-0",
+  "Home": "Diurmanko 240",
+  "Written": "Diurmanko 240",
+  "Spot": "BF-95500 E0467 N0771",
+  "Number": 240,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-241-3",
+  "Home": "Diurmanko 241",
+  "Written": "Diurmanko 241",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 241,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-242-1",
+  "Home": "Diurmanko 242",
+  "Written": "Diurmanko 242",
+  "Spot": "BF-95500 E0467 N0769",
+  "Number": 242,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-168-3",
+  "Home": "Diurmanko 168",
+  "Written": "Diurmanko 168",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 168,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-243-7",
+  "Home": "Diurmanko 243",
+  "Written": "Diurmanko 243",
+  "Spot": "BF-95500 E0469 N0771",
+  "Number": 243,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-244-5",
+  "Home": "Diurmanko 244",
+  "Written": "Diurmanko 244",
+  "Spot": "BF-95500 E0467 N0768",
+  "Number": 244,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-245-9",
+  "Home": "Diurmanko 245",
+  "Written": "Diurmanko 245",
+  "Spot": "BF-95500 E0468 N0771",
+  "Number": 245,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-246-8",
+  "Home": "Diurmanko 246",
+  "Written": "Diurmanko 246",
+  "Spot": "BF-95500 E0466 N0774",
+  "Number": 246,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-247-6",
+  "Home": "Diurmanko 247",
+  "Written": "Diurmanko 247",
+  "Spot": "BF-95500 E0466 N0766",
+  "Number": 247,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-171-9",
+  "Home": "Diurmanko 171",
+  "Written": "Diurmanko 171",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 171,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-248-4",
+  "Home": "Diurmanko 248",
+  "Written": "Diurmanko 248",
+  "Spot": "BF-95500 E0468 N0769",
+  "Number": 248,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-249-2",
+  "Home": "Diurmanko 249",
+  "Written": "Diurmanko 249",
+  "Spot": "BF-95500 E0470 N0772",
+  "Number": 249,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-169-4",
+  "Home": "Diurmanko 169",
+  "Written": "Diurmanko 169",
+  "Spot": "BF-95500 E0466 N0769",
+  "Number": 169,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-250-6",
+  "Home": "Diurmanko 250",
+  "Written": "Diurmanko 250",
+  "Spot": "BF-95500 E0469 N0771",
+  "Number": 250,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-251-1",
+  "Home": "Diurmanko 251",
+  "Written": "Diurmanko 251",
+  "Spot": "BF-95500 E0467 N0772",
+  "Number": 251,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-252-2",
+  "Home": "Diurmanko 252",
+  "Written": "Diurmanko 252",
+  "Spot": "BF-95500 E0466 N0772",
+  "Number": 252,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "",
+  "Machine": "",
+  "Home": "",
+  "Written": "",
+  "Spot": "",
+  "Number": 0,
+  "Blocks": null,
+  "Err": "homecode_far"
+ },
+ {
+  "Zone": "95500-009",
+  "Machine": "BF-95500-V009-240-7",
+  "Home": "Turka 240",
+  "Written": "Turka 240",
+  "Spot": "BF-95500 E1417 N2402",
+  "Number": 240,
+  "Blocks": [
+   [
+    100,
+    309
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4336-7",
+  "Home": "Wolonkoto 4336",
+  "Written": "Wolonkoto 43 36",
+  "Spot": "BF-95500 E0865 N0384",
+  "Number": 4336,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4337-2",
+  "Home": "Wolonkoto 4337",
+  "Written": "Wolonkoto 43 37",
+  "Spot": "BF-95500 E0942 N0806",
+  "Number": 4337,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4338-0",
+  "Home": "Wolonkoto 4338",
+  "Written": "Wolonkoto 43 38",
+  "Spot": "BF-95500 E1036 N0431",
+  "Number": 4338,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4339-5",
+  "Home": "Wolonkoto 4339",
+  "Written": "Wolonkoto 43 39",
+  "Spot": "BF-95500 E0620 N0495",
+  "Number": 4339,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4340-5",
+  "Home": "Wolonkoto 4340",
+  "Written": "Wolonkoto 43 40",
+  "Spot": "BF-95500 E0717 N0817",
+  "Number": 4340,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4341-8",
+  "Home": "Wolonkoto 4341",
+  "Written": "Wolonkoto 43 41",
+  "Spot": "BF-95500 E0900 N1322",
+  "Number": 4341,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-007",
+  "Machine": "BF-95500-V007-2100-4",
+  "Home": "Malon 2100",
+  "Written": "Malon 21 00",
+  "Spot": "BF-95500 E0962 N2085",
+  "Number": 2100,
+  "Blocks": [
+   [
+    1280,
+    2509
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-002",
+  "Machine": "BF-95500-V002-1976-7",
+  "Home": "Kokora 1976",
+  "Written": "Kokora 19 76",
+  "Spot": "BF-95500 E0840 N2245",
+  "Number": 1976,
+  "Blocks": [
+   [
+    1890,
+    2019
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-007",
+  "Machine": "BF-95500-V007-2101-2",
+  "Home": "Malon 2101",
+  "Written": "Malon 21 01",
+  "Spot": "BF-95500 E0835 N1700",
+  "Number": 2101,
+  "Blocks": [
+   [
+    1280,
+    2509
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4342-6",
+  "Home": "Wolonkoto 4342",
+  "Written": "Wolonkoto 43 42",
+  "Spot": "BF-95500 E1300 N1358",
+  "Number": 4342,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4343-9",
+  "Home": "Wolonkoto 4343",
+  "Written": "Wolonkoto 43 43",
+  "Spot": "BF-95500 E0904 N1154",
+  "Number": 4343,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4344-7",
+  "Home": "Wolonkoto 4344",
+  "Written": "Wolonkoto 43 44",
+  "Spot": "BF-95500 E0790 N0969",
+  "Number": 4344,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-005",
+  "Machine": "BF-95500-V005-133-8",
+  "Home": "Konbili 133",
+  "Written": "Konbili 133",
+  "Spot": "BF-95500 E0673 N1501",
+  "Number": 133,
+  "Blocks": [
+   [
+    100,
+    149
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-007",
+  "Machine": "BF-95500-V007-2102-0",
+  "Home": "Malon 2102",
+  "Written": "Malon 21 02",
+  "Spot": "BF-95500 E0852 N1739",
+  "Number": 2102,
+  "Blocks": [
+   [
+    1280,
+    2509
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4345-2",
+  "Home": "Wolonkoto 4345",
+  "Written": "Wolonkoto 43 45",
+  "Spot": "BF-95500 E1319 N1557",
+  "Number": 4345,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-253-3",
+  "Home": "Diurmanko 253",
+  "Written": "Diurmanko 253",
+  "Spot": "BF-95500 E0422 N1159",
+  "Number": 253,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-006",
+  "Machine": "BF-95500-V006-151-9",
+  "Home": "Konbili 151",
+  "Written": "Konbili 151",
+  "Spot": "BF-95500 E0299 N2202",
+  "Number": 151,
+  "Blocks": [
+   [
+    150,
+    169
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-007",
+  "Machine": "BF-95500-V007-1993-8",
+  "Home": "Malon 1993",
+  "Written": "Malon 19 93",
+  "Spot": "BF-95500 E0948 N2111",
+  "Number": 1993,
+  "Blocks": [
+   [
+    1280,
+    2509
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4346-0",
+  "Home": "Wolonkoto 4346",
+  "Written": "Wolonkoto 43 46",
+  "Spot": "BF-95500 E0759 N0257",
+  "Number": 4346,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-4347-1",
+  "Home": "Wolonkoto 4347",
+  "Written": "Wolonkoto 43 47",
+  "Spot": "BF-95500 E0838 N0952",
+  "Number": 4347,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-009",
+  "Machine": "BF-95500-V009-241-0",
+  "Home": "Turka 241",
+  "Written": "Turka 241",
+  "Spot": "BF-95500 E1159 N2022",
+  "Number": 241,
+  "Blocks": [
+   [
+    100,
+    309
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-001",
+  "Machine": "BF-95500-V001-254-0",
+  "Home": "Diurmanko 254",
+  "Written": "Diurmanko 254",
+  "Spot": "BF-95500 E0443 N0991",
+  "Number": 254,
+  "Blocks": [
+   [
+    100,
+    229
+   ],
+   [
+    230,
+    469
+   ]
+  ]
+ },
+ {
+  "Zone": "95500-010",
+  "Machine": "BF-95500-V010-3728-9",
+  "Home": "Wolonkoto 3728",
+  "Written": "Wolonkoto 37 28",
+  "Spot": "BF-95500 E0828 N1230",
+  "Number": 3728,
+  "Blocks": [
+   [
+    1910,
+    5549
+   ]
+  ]
+ }
+]

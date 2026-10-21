@@ -1,0 +1,371 @@
+{
+ "source": "model/stats/area-compounds.csv (the register's areas with the compounds grouped at first issue, 20 October 2026)",
+ "normalisation": "bf_engine.name_key of the plate name",
+ "plateRule": {
+  "maxChars": 12,
+  "maxWords": 2,
+  "lang": "fr",
+  "tool": "engine/reference/plate_names.py"
+ },
+ "spare": 0.1,
+ "villageAreas": 17518,
+ "genericLabels": 0,
+ "genericCompounds": 0,
+ "namedAreas": 17518,
+ "plates": {
+  "officialOverChars": 1132,
+  "officialOverWords": 292,
+  "officialOverLimit": 1346,
+  "byRule": {
+   "abbreviated": 1,
+   "as-is": 14557,
+   "cleaned": 1767,
+   "council": 945,
+   "distinctive": 242,
+   "known": 2,
+   "renamed": 4
+  },
+  "autoShortened": {
+   "cleaned": 1767,
+   "abbreviated": 1,
+   "known": 2,
+   "distinctive": 242
+  },
+  "needsCouncilChoice": 945,
+  "needsCouncilChoiceByReason": {
+   "a hyphenated name: every short form drops one of its parts": 290,
+   "no run of whole words fits 12 characters and 2 words": 270,
+   "every short form drops a qualifier (Centre, Nord, Nouveau...)": 129,
+   "the short form has a number, a bare generic word or another town's name: the commune's name until it chooses": 112,
+   "another place of the same commune has this name": 64,
+   "equals a well-known town elsewhere": 43,
+   "no clear choice": 27,
+   "the short form drops a number of the official name": 9,
+   "the short form is the commune's own name": 4,
+   "too short to be a name on its own": 1
+  },
+  "stillOverLimit": 270,
+  "stillOverLimitWithDigit": 0,
+  "aliases": 805,
+  "droppedAliases": 8,
+  "longestVillageCode": {
+   "text": "Diakoumafindougou 20 19",
+   "length": 23,
+   "official": "Diakoumafindougou"
+  },
+  "longestVillageCodeNotFlagged": {
+   "text": "Bendougousso 53 829",
+   "length": 19,
+   "official": "Bendougousso"
+  },
+  "longestTownWord": "Namissiguima-Sanmatenga",
+  "longestTownWordNotFlagged": "Bartiebougou",
+  "longestSecteurCode": "Secteur 55 Namissiguima-Sanmatenga · 99 999",
+  "longestSecteurCodeNotFlagged": "Secteur 55 Bartiebougou · 99 999"
+ },
+ "beforePlateRule": {
+  "names": 12745,
+  "repeatedNames": 2634,
+  "areasUnderRepeatedNames": 7407,
+  "mostAreas": [
+   [
+    "Q-Natenga",
+    72
+   ],
+   [
+    "Douré",
+    43
+   ],
+   [
+    "Tanghin",
+    37
+   ],
+   [
+    "Yargo",
+    37
+   ],
+   [
+    "Q-Nabitenga",
+    28
+   ],
+   [
+    "Tanguen",
+    27
+   ],
+   [
+    "Q-Goghin",
+    24
+   ],
+   [
+    "Q Nayiri",
+    23
+   ],
+   [
+    "Q-Ipala",
+    22
+   ],
+   [
+    "Q-Souka",
+    22
+   ]
+  ],
+  "largestSharedRange": {
+   "name": "Nagarin",
+   "key": "NAGARIN",
+   "areas": 2,
+   "compounds": 25686,
+   "blocksUsed": 51380,
+   "digits": 5,
+   "range": [
+    10000,
+    99999
+   ]
+  },
+  "repeatedByDigits": {
+   "3": 866,
+   "4": 1602,
+   "5": 166
+  },
+  "areasByDigits": {
+   "3": 8777,
+   "4": 7238,
+   "5": 1304
+  },
+  "compoundShareByDigits": {
+   "3": 0.162,
+   "4": 0.539,
+   "5": 0.299
+  }
+ },
+ "names": 12344,
+ "repeatedNames": 2755,
+ "areasUnderRepeatedNames": 7929,
+ "mostAreas": [
+  [
+   "Natenga",
+   74
+  ],
+  [
+   "Boussouma",
+   50
+  ],
+  [
+   "Douré",
+   43
+  ],
+  [
+   "Tanghin",
+   38
+  ],
+  [
+   "Yargo",
+   37
+  ],
+  [
+   "Korsimoro",
+   30
+  ],
+  [
+   "Nabitenga",
+   28
+  ],
+  [
+   "Tanguen",
+   27
+  ],
+  [
+   "Goghin",
+   24
+  ],
+  [
+   "Souka",
+   24
+  ]
+ ],
+ "largestSharedRange": {
+  "name": "Kaya",
+  "key": "KAYA",
+  "areas": 11,
+  "compounds": 34758,
+  "blocksUsed": 69550,
+  "digits": 5,
+  "range": [
+   10000,
+   99999
+  ]
+ },
+ "repeatedByDigits": {
+  "3": 893,
+  "4": 1677,
+  "5": 184
+ },
+ "areasByDigits": {
+  "3": 8477,
+  "4": 7352,
+  "5": 1490
+ },
+ "compoundShareByDigits": {
+  "3": 0.156,
+  "4": 0.533,
+  "5": 0.311
+ },
+ "raisedByRule": 4788,
+ "splitBeforeIssue": [],
+ "qualified": [],
+ "townNodes": 0,
+ "townCompounds": 0,
+ "townWords": {
+  "communes": 351,
+  "byRule": {
+   "as-is": 330,
+   "council": 18,
+   "known": 3
+  },
+  "needsCouncilChoice": {
+   "10250": {
+    "official": "Tanguen-Dassouri",
+    "provisional": "Dassouri",
+    "candidates": [
+     "Dassouri",
+     "Tanguen"
+    ],
+    "reason": "a hyphenated name: every short form drops one of its parts"
+   },
+   "20400": {
+    "official": "Ourgou-Manega",
+    "provisional": "Manega",
+    "candidates": [
+     "Manega",
+     "Ourgou"
+    ],
+    "reason": "a hyphenated name: every short form drops one of its parts"
+   },
+   "30350": {
+    "official": "Gomboussougou",
+    "provisional": "Gomboussougou",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "40850": {
+    "official": "Thiou",
+    "provisional": "Thiou-Boulkiemdé",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "42300": {
+    "official": "Nebielianayou",
+    "provisional": "Nebielianayou",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "50250": {
+    "official": "Boussouma",
+    "provisional": "Boussouma-Sanmatenga",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "50450": {
+    "official": "Namissiguima",
+    "provisional": "Namissiguima-Sanmatenga",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "55450": {
+    "official": "Namissiguima",
+    "provisional": "Namissiguima-Yatenga",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "55700": {
+    "official": "Thiou",
+    "provisional": "Thiou-Yatenga",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "63350": {
+    "official": "Tankougounadie",
+    "provisional": "Tankougounadie",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "70500": {
+    "official": "Boussouma",
+    "provisional": "Boussouma-Boulgou",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "72500": {
+    "official": "Tensobentenga",
+    "provisional": "Tensobentenga",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "90400": {
+    "official": "Karangasso-Vigue",
+    "provisional": "Vigue",
+    "candidates": [
+     "Vigue",
+     "Karangasso"
+    ],
+    "reason": "a hyphenated name: every short form drops one of its parts"
+   },
+   "90450": {
+    "official": "Karangasso-Sambla",
+    "provisional": "Sambla",
+    "candidates": [
+     "Sambla",
+     "Karangasso"
+    ],
+    "reason": "a hyphenated name: every short form drops one of its parts"
+   },
+   "94500": {
+    "official": "Soubakaniedougou",
+    "provisional": "Soubakaniedougou",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "95400": {
+    "official": "Niankorodougou",
+    "provisional": "Niankorodougou",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "96200": {
+    "official": "Bouroum-Bouroum",
+    "provisional": "Bouroum-Bouroum",
+    "candidates": [],
+    "reason": "no run of whole words fits 12 characters and 2 words"
+   },
+   "99200": {
+    "official": "Boussou-Koula",
+    "provisional": "Koula",
+    "candidates": [
+     "Koula"
+    ],
+    "reason": "a hyphenated name: every short form drops one of its parts"
+   }
+  },
+  "stillOverLimit": [
+   "Bouroum-Bouroum",
+   "Boussouma-Boulgou",
+   "Boussouma-Sanmatenga",
+   "Gomboussougou",
+   "Namissiguima-Sanmatenga",
+   "Namissiguima-Yatenga",
+   "Nebielianayou",
+   "Niankorodougou",
+   "Soubakaniedougou",
+   "Tankougounadie",
+   "Tensobentenga",
+   "Thiou-Boulkiemdé",
+   "Thiou-Yatenga"
+  ],
+  "droppedAliases": []
+ },
+ "renamedAfterIssue": {
+  "date": "2026-10-21",
+  "Ouaga 2000": "Ouaga",
+  "1200 Logements": "Logements",
+  "see": "model/areas/renames.json"
+ }
+}

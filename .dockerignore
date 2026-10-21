@@ -1,0 +1,15 @@
+.git
+docs
+tools
+model/areas
+model/stats
+model/units/*.geojson
+model/units/*.csv
+**/__pycache__
+**/*.pyc
+server/testdata
+server/tests
+server/.env
+data
+*.sqlite
+*.sqlite-*

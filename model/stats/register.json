@@ -1,0 +1,38 @@
+{
+ "areas": 17518,
+ "areasWithCompounds": 17319,
+ "compounds": 8369987,
+ "ouagadougou": {
+  "areas": 159,
+  "compounds": 755775
+ },
+ "boboDioulasso": {
+  "areas": 72,
+  "compounds": 247757
+ },
+ "nameKeys": 12344,
+ "sharedNames": 2755,
+ "areasInSharedNames": 7929,
+ "areasByDigits": {
+  "3": 8477,
+  "4": 7352,
+  "5": 1490
+ },
+ "compoundsByDigits": {
+  "3": 1301260,
+  "4": 4451135,
+  "5": 2617592
+ },
+ "provisionalNames": 945,
+ "compoundsWithProvisionalNames": 387212,
+ "largestArea": {
+  "key": "90000-058",
+  "name": "Samogan",
+  "compounds": 38168
+ },
+ "renamed": {
+  "date": "2026-10-21",
+  "areas": 4,
+  "see": "model/areas/renames.json"
+ }
+}

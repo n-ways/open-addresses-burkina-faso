@@ -1,0 +1,56 @@
+{
+ "codes": 8369987,
+ "uniqueMachine": true,
+ "uniqueRemembered": true,
+ "writtenLength": {
+  "min": 6,
+  "median": 13,
+  "p99": 19,
+  "max": 23,
+  "mean": 13.14,
+  "atMost16": 0.9164
+ },
+ "digits": {
+  "3": 1301260,
+  "4": 4451135,
+  "5": 2617592
+ },
+ "decoding": {
+  "sample": 20000,
+  "written": 1.0,
+  "plainLower": 1.0,
+  "ungrouped": 1.0
+ },
+ "spotMaxMetres": 7.04,
+ "spotMissingInSample": 0,
+ "spotMissing": 0,
+ "spotEdgeInSample": 0,
+ "spotEdgeCells": 8,
+ "spotEdgeMaxMetres": 139.7,
+ "checkDigit": {
+  "single": {
+   "tested": 344655,
+   "detected": 344655,
+   "rate": 1.0
+  },
+  "adjacent": {
+   "tested": 30453,
+   "detected": 30453,
+   "rate": 1.0
+  },
+  "twin": {
+   "tested": 52578,
+   "detected": 47208,
+   "rate": 0.89787
+  },
+  "jump": {
+   "tested": 28264,
+   "detected": 25097,
+   "rate": 0.88795
+  }
+ },
+ "counterfactual": {
+  "codesInSharedNames": 3694477,
+  "wouldCollide": 1600311
+ }
+}

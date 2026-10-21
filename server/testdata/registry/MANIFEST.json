@@ -1,0 +1,15 @@
+{
+  "byUnit": {
+    "95500": 2931
+  },
+  "codes": 2931,
+  "country": "BF",
+  "credit": "N-Ways Addressing for Burkina Faso, © N-WAYS LIMITED (nways.ng)",
+  "engine": "internal/addressing/bf (SPEC v1.0)",
+  "exported": "2026-10-21T00:13:29Z",
+  "licence": "ODbL 1.0 (LICENSE-DATA)",
+  "sha256": {
+    "95500.csv": "2972a360bfed628947360b6acc4d492ad35d62c295c3abd7ac640b31993e0aec",
+    "areas.csv": "3ed05b6292fbac65c78d1eebe44fb5247e2a8244121fea7f2fff793a468741b4"
+  }
+}

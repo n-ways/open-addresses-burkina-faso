@@ -1,0 +1,58 @@
+{
+ "placeKinds": [
+  "suburb",
+  "quarter",
+  "neighbourhood",
+  "village",
+  "hamlet"
+ ],
+ "places": 65,
+ "areasUsed": 43,
+ "compoundRatio": 0.546,
+ "compoundsPerArea": {
+  "p10": 58,
+  "p50": 5625,
+  "p90": 45993,
+  "max": 83232
+ },
+ "areasFitting": {
+  "3 digits (<=450)": 11,
+  "4 digits (<=4500)": 8,
+  "5 digits (<=45000)": 19,
+  "over": 5
+ },
+ "largest": [
+  [
+   "Tampouy",
+   83232
+  ],
+  [
+   "Tabtenga",
+   71623
+  ],
+  [
+   "Boassa",
+   52017
+  ],
+  [
+   "Kamboincé",
+   47880
+  ],
+  [
+   "Somgande",
+   45993
+  ],
+  [
+   "Yagma",
+   40961
+  ],
+  [
+   "kouritinga",
+   27885
+  ],
+  [
+   "Gounghin Nord",
+   26501
+  ]
+ ]
+}

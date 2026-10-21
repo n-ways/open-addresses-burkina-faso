@@ -1,0 +1,2195 @@
+{
+"10000": {
+"word": "Ouaga",
+"official": "Ouagadougou",
+"aliases": [
+"Ouagadougou"
+],
+"plateRule": "known",
+"source": "https://en.wikipedia.org/wiki/Ouagadougou (\"The city's name is often shortened to Ouaga\")"
+},
+"10200": {
+"word": "Saaba",
+"official": "Saaba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"10250": {
+"word": "Dassouri",
+"official": "Tanguen-Dassouri",
+"aliases": [
+"Tanguen-Dassouri"
+],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [
+"Dassouri",
+"Tanguen"
+],
+"plateReason": "a hyphenated name: every short form drops one of its parts"
+},
+"10300": {
+"word": "Pabre",
+"official": "Pabre",
+"aliases": [],
+"plateRule": "as-is"
+},
+"10350": {
+"word": "Komki-Ipala",
+"official": "Komki-Ipala",
+"aliases": [],
+"plateRule": "as-is"
+},
+"10400": {
+"word": "Koubri",
+"official": "Koubri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"10990": {
+"word": "Komsilga",
+"official": "Komsilga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"20000": {
+"word": "Ziniare",
+"official": "Ziniare",
+"aliases": [],
+"plateRule": "as-is"
+},
+"20200": {
+"word": "Ambsouya",
+"official": "Ambsouya",
+"aliases": [],
+"plateRule": "as-is"
+},
+"20250": {
+"word": "Dapeolgo",
+"official": "Dapeolgo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"20300": {
+"word": "Loumbila",
+"official": "Loumbila",
+"aliases": [],
+"plateRule": "as-is"
+},
+"20350": {
+"word": "Nagreongo",
+"official": "Nagreongo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"20400": {
+"word": "Manega",
+"official": "Ourgou-Manega",
+"aliases": [
+"Ourgou-Manega"
+],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [
+"Manega",
+"Ourgou"
+],
+"plateReason": "a hyphenated name: every short form drops one of its parts"
+},
+"20450": {
+"word": "Zitenga",
+"official": "Zitenga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21000": {
+"word": "Zorgho",
+"official": "Zorgho",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21200": {
+"word": "Boudri",
+"official": "Boudri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21250": {
+"word": "Kogho",
+"official": "Kogho",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21300": {
+"word": "Megue",
+"official": "Megue",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21350": {
+"word": "Mogtedo",
+"official": "Mogtedo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21400": {
+"word": "Saolgo",
+"official": "Saolgo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21450": {
+"word": "Zam",
+"official": "Zam",
+"aliases": [],
+"plateRule": "as-is"
+},
+"21500": {
+"word": "Zoungou",
+"official": "Zoungou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"22000": {
+"word": "Bousse",
+"official": "Bousse",
+"aliases": [],
+"plateRule": "as-is"
+},
+"22200": {
+"word": "Laye",
+"official": "Laye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"22250": {
+"word": "Niou",
+"official": "Niou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"22300": {
+"word": "Sourgoubila",
+"official": "Sourgoubila",
+"aliases": [],
+"plateRule": "as-is"
+},
+"22350": {
+"word": "Toeguen",
+"official": "Toeguen",
+"aliases": [],
+"plateRule": "as-is"
+},
+"30000": {
+"word": "Manga",
+"official": "Manga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"30200": {
+"word": "Bere",
+"official": "Bere",
+"aliases": [],
+"plateRule": "as-is"
+},
+"30250": {
+"word": "Binde",
+"official": "Binde",
+"aliases": [],
+"plateRule": "as-is"
+},
+"30300": {
+"word": "Gogo",
+"official": "Gogo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"30350": {
+"word": "Gomboussougou",
+"official": "Gomboussougou",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"30400": {
+"word": "Guiba",
+"official": "Guiba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"30450": {
+"word": "Nobere",
+"official": "Nobere",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31000": {
+"word": "Kombissiri",
+"official": "Kombissiri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31200": {
+"word": "Doulougou",
+"official": "Doulougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31250": {
+"word": "Gaongo",
+"official": "Gaongo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31300": {
+"word": "Ipelse",
+"official": "Ipelse",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31350": {
+"word": "Kayao",
+"official": "Kayao",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31400": {
+"word": "Sapone",
+"official": "Sapone",
+"aliases": [],
+"plateRule": "as-is"
+},
+"31450": {
+"word": "Toece",
+"official": "Toece",
+"aliases": [],
+"plateRule": "as-is"
+},
+"32000": {
+"word": "Po",
+"official": "Po",
+"aliases": [],
+"plateRule": "as-is"
+},
+"32200": {
+"word": "Guiaro",
+"official": "Guiaro",
+"aliases": [],
+"plateRule": "as-is"
+},
+"32250": {
+"word": "Tiebele",
+"official": "Tiebele",
+"aliases": [],
+"plateRule": "as-is"
+},
+"32300": {
+"word": "Zecco",
+"official": "Zecco",
+"aliases": [],
+"plateRule": "as-is"
+},
+"32350": {
+"word": "Ziou",
+"official": "Ziou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40000": {
+"word": "Koudougou",
+"official": "Koudougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40200": {
+"word": "Bingo",
+"official": "Bingo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40250": {
+"word": "Imasgho",
+"official": "Imasgho",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40300": {
+"word": "Kindi",
+"official": "Kindi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40350": {
+"word": "Kokologo",
+"official": "Kokologo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40400": {
+"word": "Nanoro",
+"official": "Nanoro",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40450": {
+"word": "Nandiala",
+"official": "Nandiala",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40500": {
+"word": "Pella",
+"official": "Pella",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40550": {
+"word": "Poa",
+"official": "Poa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40600": {
+"word": "Ramongo",
+"official": "Ramongo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40650": {
+"word": "Sabou",
+"official": "Sabou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40700": {
+"word": "Sigle",
+"official": "Sigle",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40750": {
+"word": "Soa",
+"official": "Soa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40800": {
+"word": "Sourgou",
+"official": "Sourgou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"40850": {
+"word": "Thiou-Boulkiemdé",
+"official": "Thiou",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"41000": {
+"word": "Reo",
+"official": "Reo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41200": {
+"word": "Dassa",
+"official": "Dassa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41250": {
+"word": "Didyr",
+"official": "Didyr",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41300": {
+"word": "Godyr",
+"official": "Godyr",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41350": {
+"word": "Kordie",
+"official": "Kordie",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41400": {
+"word": "Kyon",
+"official": "Kyon",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41450": {
+"word": "Pouni",
+"official": "Pouni",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41500": {
+"word": "Tenado",
+"official": "Tenado",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41550": {
+"word": "Zamo",
+"official": "Zamo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"41600": {
+"word": "Zawara",
+"official": "Zawara",
+"aliases": [],
+"plateRule": "as-is"
+},
+"42000": {
+"word": "Leo",
+"official": "Leo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"42200": {
+"word": "Bieha",
+"official": "Bieha",
+"aliases": [],
+"plateRule": "as-is"
+},
+"42250": {
+"word": "Boura",
+"official": "Boura",
+"aliases": [],
+"plateRule": "as-is"
+},
+"42300": {
+"word": "Nebielianayou",
+"official": "Nebielianayou",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"42350": {
+"word": "Niabouri",
+"official": "Niabouri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"42400": {
+"word": "Silly",
+"official": "Silly",
+"aliases": [],
+"plateRule": "as-is"
+},
+"42450": {
+"word": "To",
+"official": "To",
+"aliases": [],
+"plateRule": "as-is"
+},
+"43000": {
+"word": "Sapouy",
+"official": "Sapouy",
+"aliases": [],
+"plateRule": "as-is"
+},
+"43200": {
+"word": "Bakata",
+"official": "Bakata",
+"aliases": [],
+"plateRule": "as-is"
+},
+"43250": {
+"word": "Bougnounou",
+"official": "Bougnounou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"43300": {
+"word": "Kassou",
+"official": "Kassou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"43350": {
+"word": "Dalo",
+"official": "Dalo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"43400": {
+"word": "Gao",
+"official": "Gao",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50000": {
+"word": "Kaya",
+"official": "Kaya",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50200": {
+"word": "Barsalogho",
+"official": "Barsalogho",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50250": {
+"word": "Boussouma-Sanmatenga",
+"official": "Boussouma",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"50300": {
+"word": "Dablo",
+"official": "Dablo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50350": {
+"word": "Korsimoro",
+"official": "Korsimoro",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50400": {
+"word": "Mane",
+"official": "Mane",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50450": {
+"word": "Namissiguima-Sanmatenga",
+"official": "Namissiguima",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"50500": {
+"word": "Pensa",
+"official": "Pensa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50550": {
+"word": "Pibaore",
+"official": "Pibaore",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50600": {
+"word": "Pissila",
+"official": "Pissila",
+"aliases": [],
+"plateRule": "as-is"
+},
+"50650": {
+"word": "Ziga",
+"official": "Ziga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51000": {
+"word": "Kongoussi",
+"official": "Kongoussi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51200": {
+"word": "Bourzanga",
+"official": "Bourzanga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51250": {
+"word": "Guibare",
+"official": "Guibare",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51300": {
+"word": "Nassere",
+"official": "Nassere",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51350": {
+"word": "Rollo",
+"official": "Rollo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51400": {
+"word": "Rouko",
+"official": "Rouko",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51450": {
+"word": "Sabse",
+"official": "Sabse",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51500": {
+"word": "Tikare",
+"official": "Tikare",
+"aliases": [],
+"plateRule": "as-is"
+},
+"51550": {
+"word": "Zimtanga",
+"official": "Zimtanga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52000": {
+"word": "Boulsa",
+"official": "Boulsa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52200": {
+"word": "Boala",
+"official": "Boala",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52250": {
+"word": "Bouroum",
+"official": "Bouroum",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52300": {
+"word": "Dargo",
+"official": "Dargo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52350": {
+"word": "Nagbingou",
+"official": "Nagbingou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52400": {
+"word": "Tougouri",
+"official": "Tougouri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52450": {
+"word": "Yalgo",
+"official": "Yalgo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"52500": {
+"word": "Zeguedeguen",
+"official": "Zeguedeguen",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55000": {
+"word": "Ouahigouya",
+"official": "Ouahigouya",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55200": {
+"word": "Barga",
+"official": "Barga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55250": {
+"word": "Kain",
+"official": "Kain",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55300": {
+"word": "Kalsaka",
+"official": "Kalsaka",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55350": {
+"word": "Kossouka",
+"official": "Kossouka",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55400": {
+"word": "Koumbri",
+"official": "Koumbri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55450": {
+"word": "Namissiguima-Yatenga",
+"official": "Namissiguima",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"55500": {
+"word": "Oula",
+"official": "Oula",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55550": {
+"word": "Rambo",
+"official": "Rambo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55600": {
+"word": "Senguenega",
+"official": "Senguenega",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55650": {
+"word": "Tangaye",
+"official": "Tangaye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"55700": {
+"word": "Thiou-Yatenga",
+"official": "Thiou",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"55750": {
+"word": "Zogore",
+"official": "Zogore",
+"aliases": [],
+"plateRule": "as-is"
+},
+"56000": {
+"word": "Titao",
+"official": "Titao",
+"aliases": [],
+"plateRule": "as-is"
+},
+"56200": {
+"word": "Bahn",
+"official": "Bahn",
+"aliases": [],
+"plateRule": "as-is"
+},
+"56250": {
+"word": "Ouindigui",
+"official": "Ouindigui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"56300": {
+"word": "Solle",
+"official": "Solle",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57000": {
+"word": "Yako",
+"official": "Yako",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57200": {
+"word": "Arbolle",
+"official": "Arbolle",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57250": {
+"word": "Bagare",
+"official": "Bagare",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57300": {
+"word": "Boken",
+"official": "Boken",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57350": {
+"word": "Gomponsom",
+"official": "Gomponsom",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57400": {
+"word": "Kirsi",
+"official": "Kirsi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57450": {
+"word": "La-Toden",
+"official": "La-Toden",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57500": {
+"word": "Pilimpikou",
+"official": "Pilimpikou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"57550": {
+"word": "Samba",
+"official": "Samba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"58000": {
+"word": "Goursi",
+"official": "Goursi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"58200": {
+"word": "Bassi",
+"official": "Bassi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"58250": {
+"word": "Boussou",
+"official": "Boussou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"58300": {
+"word": "Leba",
+"official": "Leba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"58350": {
+"word": "Tougo",
+"official": "Tougo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"60000": {
+"word": "Dori",
+"official": "Dori",
+"aliases": [],
+"plateRule": "as-is"
+},
+"60200": {
+"word": "Bani",
+"official": "Bani",
+"aliases": [],
+"plateRule": "as-is"
+},
+"60250": {
+"word": "Falagountou",
+"official": "Falagountou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"60300": {
+"word": "Gorgadji",
+"official": "Gorgadji",
+"aliases": [],
+"plateRule": "as-is"
+},
+"60350": {
+"word": "Sampelga",
+"official": "Sampelga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"60400": {
+"word": "Seytenga",
+"official": "Seytenga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"61000": {
+"word": "Gorom-Gorom",
+"official": "Gorom-Gorom",
+"aliases": [],
+"plateRule": "as-is"
+},
+"61200": {
+"word": "Deou",
+"official": "Deou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"61250": {
+"word": "Markoye",
+"official": "Markoye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"61300": {
+"word": "Oursi",
+"official": "Oursi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"61350": {
+"word": "Tin-Akoff",
+"official": "Tin-Akoff",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62000": {
+"word": "Djibo",
+"official": "Djibo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62200": {
+"word": "Arbinda",
+"official": "Arbinda",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62250": {
+"word": "Baraboule",
+"official": "Baraboule",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62300": {
+"word": "Diguel",
+"official": "Diguel",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62350": {
+"word": "Kelbo",
+"official": "Kelbo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62400": {
+"word": "Koutougou",
+"official": "Koutougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62450": {
+"word": "Nassoumbou",
+"official": "Nassoumbou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62500": {
+"word": "Pobe-Mengao",
+"official": "Pobe-Mengao",
+"aliases": [],
+"plateRule": "as-is"
+},
+"62550": {
+"word": "Tongomayel",
+"official": "Tongomayel",
+"aliases": [],
+"plateRule": "as-is"
+},
+"63000": {
+"word": "Sebba",
+"official": "Sebba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"63200": {
+"word": "Boundore",
+"official": "Boundore",
+"aliases": [],
+"plateRule": "as-is"
+},
+"63250": {
+"word": "Mansila",
+"official": "Mansila",
+"aliases": [],
+"plateRule": "as-is"
+},
+"63300": {
+"word": "Solhan",
+"official": "Solhan",
+"aliases": [],
+"plateRule": "as-is"
+},
+"63350": {
+"word": "Tankougounadie",
+"official": "Tankougounadie",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"63400": {
+"word": "Titabe",
+"official": "Titabe",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70000": {
+"word": "Tenkodogo",
+"official": "Tenkodogo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70200": {
+"word": "Garango",
+"official": "Garango",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70250": {
+"word": "Bitou",
+"official": "Bitou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70300": {
+"word": "Bagre",
+"official": "Bagre",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70350": {
+"word": "Bane",
+"official": "Bane",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70400": {
+"word": "Beguedo",
+"official": "Beguedo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70450": {
+"word": "Bissiga",
+"official": "Bissiga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70500": {
+"word": "Boussouma-Boulgou",
+"official": "Boussouma",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"70600": {
+"word": "Komtoega",
+"official": "Komtoega",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70650": {
+"word": "Niaogho",
+"official": "Niaogho",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70700": {
+"word": "Zabre",
+"official": "Zabre",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70750": {
+"word": "Zoaga",
+"official": "Zoaga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"70800": {
+"word": "Zonse",
+"official": "Zonse",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71000": {
+"word": "Ouargaye",
+"official": "Ouargaye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71200": {
+"word": "Komin-Yanga",
+"official": "Komin-Yanga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71250": {
+"word": "Dourtenga",
+"official": "Dourtenga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71300": {
+"word": "Lalgaye",
+"official": "Lalgaye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71350": {
+"word": "Sangha",
+"official": "Sangha",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71400": {
+"word": "Soudougui",
+"official": "Soudougui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71450": {
+"word": "Yargatenga",
+"official": "Yargatenga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"71500": {
+"word": "Yonde",
+"official": "Yonde",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72000": {
+"word": "Koupela",
+"official": "Koupela",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72200": {
+"word": "Pouytenga",
+"official": "Pouytenga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72250": {
+"word": "Andemtenga",
+"official": "Andemtenga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72300": {
+"word": "Baskoure",
+"official": "Baskoure",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72350": {
+"word": "Dialgaye",
+"official": "Dialgaye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72400": {
+"word": "Gounguen",
+"official": "Gounguen",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72450": {
+"word": "Kando",
+"official": "Kando",
+"aliases": [],
+"plateRule": "as-is"
+},
+"72500": {
+"word": "Tensobentenga",
+"official": "Tensobentenga",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"72550": {
+"word": "Yargo",
+"official": "Yargo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"75000": {
+"word": "Fada",
+"official": "Fada-Ngourma",
+"aliases": [
+"Fada-Ngourma"
+],
+"plateRule": "known",
+"source": "https://fr.wikipedia.org/wiki/Fada_N%27Gourma (\"les colonisateurs l'appelèrent « Fada »\")"
+},
+"75200": {
+"word": "Diabo",
+"official": "Diabo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"75250": {
+"word": "Diapangou",
+"official": "Diapangou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"75300": {
+"word": "Matiakoali",
+"official": "Matiakoali",
+"aliases": [],
+"plateRule": "as-is"
+},
+"75350": {
+"word": "Tibga",
+"official": "Tibga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"75400": {
+"word": "Yamba",
+"official": "Yamba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76000": {
+"word": "Bogande",
+"official": "Bogande",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76200": {
+"word": "Bilanga",
+"official": "Bilanga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76250": {
+"word": "Koala",
+"official": "Koala",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76300": {
+"word": "Liptougou",
+"official": "Liptougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76350": {
+"word": "Mani",
+"official": "Mani",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76400": {
+"word": "Piela",
+"official": "Piela",
+"aliases": [],
+"plateRule": "as-is"
+},
+"76450": {
+"word": "Thion",
+"official": "Thion",
+"aliases": [],
+"plateRule": "as-is"
+},
+"77000": {
+"word": "Gayeri",
+"official": "Gayeri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"77200": {
+"word": "Bartiebougou",
+"official": "Bartiebougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"77250": {
+"word": "Foutouri",
+"official": "Foutouri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"78000": {
+"word": "Pama",
+"official": "Pama",
+"aliases": [],
+"plateRule": "as-is"
+},
+"78200": {
+"word": "Kompienga",
+"official": "Kompienga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"78250": {
+"word": "Madjoari",
+"official": "Madjoari",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79000": {
+"word": "Diapaga",
+"official": "Diapaga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79200": {
+"word": "Botou",
+"official": "Botou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79250": {
+"word": "Kantchari",
+"official": "Kantchari",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79300": {
+"word": "Logbou",
+"official": "Logbou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79350": {
+"word": "Namouno",
+"official": "Namouno",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79400": {
+"word": "Partiaga",
+"official": "Partiaga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79450": {
+"word": "Tambaga",
+"official": "Tambaga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"79500": {
+"word": "Tansarga",
+"official": "Tansarga",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80000": {
+"word": "Dedougou",
+"official": "Dedougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80200": {
+"word": "Bondokui",
+"official": "Bondokui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80250": {
+"word": "Douroula",
+"official": "Douroula",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80300": {
+"word": "Kona",
+"official": "Kona",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80350": {
+"word": "Ouarkoye",
+"official": "Ouarkoye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80400": {
+"word": "Safane",
+"official": "Safane",
+"aliases": [],
+"plateRule": "as-is"
+},
+"80450": {
+"word": "Tcheriba",
+"official": "Tcheriba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81000": {
+"word": "Boromo",
+"official": "Boromo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81200": {
+"word": "Bagassi",
+"official": "Bagassi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81250": {
+"word": "Bana",
+"official": "Bana",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81300": {
+"word": "Fara",
+"official": "Fara",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81350": {
+"word": "Ouri",
+"official": "Ouri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81400": {
+"word": "Pa",
+"official": "Pa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81450": {
+"word": "Pompoi",
+"official": "Pompoi",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81500": {
+"word": "Poura",
+"official": "Poura",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81550": {
+"word": "Siby",
+"official": "Siby",
+"aliases": [],
+"plateRule": "as-is"
+},
+"81600": {
+"word": "Yaho",
+"official": "Yaho",
+"aliases": [],
+"plateRule": "as-is"
+},
+"82000": {
+"word": "Solenzo",
+"official": "Solenzo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"82200": {
+"word": "Balave",
+"official": "Balave",
+"aliases": [],
+"plateRule": "as-is"
+},
+"82250": {
+"word": "Kouka",
+"official": "Kouka",
+"aliases": [],
+"plateRule": "as-is"
+},
+"82300": {
+"word": "Sami",
+"official": "Sami",
+"aliases": [],
+"plateRule": "as-is"
+},
+"82350": {
+"word": "Sanaba",
+"official": "Sanaba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"82400": {
+"word": "Tansila",
+"official": "Tansila",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83000": {
+"word": "Nouna",
+"official": "Nouna",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83200": {
+"word": "Barani",
+"official": "Barani",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83250": {
+"word": "Bomborokui",
+"official": "Bomborokui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83300": {
+"word": "Bourasso",
+"official": "Bourasso",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83350": {
+"word": "Djibasso",
+"official": "Djibasso",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83400": {
+"word": "Dokui",
+"official": "Dokui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83450": {
+"word": "Doumbala",
+"official": "Doumbala",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83500": {
+"word": "Kombori",
+"official": "Kombori",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83550": {
+"word": "Madouba",
+"official": "Madouba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"83600": {
+"word": "Sono",
+"official": "Sono",
+"aliases": [],
+"plateRule": "as-is"
+},
+"84000": {
+"word": "Toma",
+"official": "Toma",
+"aliases": [],
+"plateRule": "as-is"
+},
+"84200": {
+"word": "Gassan",
+"official": "Gassan",
+"aliases": [],
+"plateRule": "as-is"
+},
+"84250": {
+"word": "Gossina",
+"official": "Gossina",
+"aliases": [],
+"plateRule": "as-is"
+},
+"84300": {
+"word": "Kougny",
+"official": "Kougny",
+"aliases": [],
+"plateRule": "as-is"
+},
+"84350": {
+"word": "Yaba",
+"official": "Yaba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"84400": {
+"word": "Ye",
+"official": "Ye",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85000": {
+"word": "Tougan",
+"official": "Tougan",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85200": {
+"word": "Di",
+"official": "Di",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85250": {
+"word": "Gomboro",
+"official": "Gomboro",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85300": {
+"word": "Kassoum",
+"official": "Kassoum",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85350": {
+"word": "Kiembara",
+"official": "Kiembara",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85400": {
+"word": "Lanfiera",
+"official": "Lanfiera",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85450": {
+"word": "Lankoue",
+"official": "Lankoue",
+"aliases": [],
+"plateRule": "as-is"
+},
+"85500": {
+"word": "Toeni",
+"official": "Toeni",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90000": {
+"word": "Bobo",
+"official": "Bobo-Dioulasso",
+"aliases": [
+"Bobo-Dioulasso"
+],
+"plateRule": "known",
+"source": "https://en.wikipedia.org/wiki/Bobo_people (\"Bobo is also a shortened name of the second-largest city in Burkina Faso, Bobo-Dioulasso\")"
+},
+"90200": {
+"word": "Bama",
+"official": "Bama",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90250": {
+"word": "Dande",
+"official": "Dande",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90300": {
+"word": "Faramana",
+"official": "Faramana",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90350": {
+"word": "Fo",
+"official": "Fo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90400": {
+"word": "Vigue",
+"official": "Karangasso-Vigue",
+"aliases": [
+"Karangasso-Vigue"
+],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [
+"Vigue",
+"Karangasso"
+],
+"plateReason": "a hyphenated name: every short form drops one of its parts"
+},
+"90450": {
+"word": "Sambla",
+"official": "Karangasso-Sambla",
+"aliases": [
+"Karangasso-Sambla"
+],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [
+"Sambla",
+"Karangasso"
+],
+"plateReason": "a hyphenated name: every short form drops one of its parts"
+},
+"90500": {
+"word": "Koundougou",
+"official": "Koundougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90550": {
+"word": "Lena",
+"official": "Lena",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90600": {
+"word": "Padema",
+"official": "Padema",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90650": {
+"word": "Peni",
+"official": "Peni",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90700": {
+"word": "Satiri",
+"official": "Satiri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"90750": {
+"word": "Toussiana",
+"official": "Toussiana",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91000": {
+"word": "Orodara",
+"official": "Orodara",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91200": {
+"word": "Banzon",
+"official": "Banzon",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91250": {
+"word": "Djigouera",
+"official": "Djigouera",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91300": {
+"word": "Kangala",
+"official": "Kangala",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91350": {
+"word": "Kayan",
+"official": "Kayan",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91400": {
+"word": "Koloko",
+"official": "Koloko",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91450": {
+"word": "Kourinion",
+"official": "Kourinion",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91500": {
+"word": "Kourouma",
+"official": "Kourouma",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91550": {
+"word": "Morlaba",
+"official": "Morlaba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91600": {
+"word": "Ndorola",
+"official": "Ndorola",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91650": {
+"word": "Samogoyiri",
+"official": "Samogoyiri",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91700": {
+"word": "Samogogouan",
+"official": "Samogogouan",
+"aliases": [],
+"plateRule": "as-is"
+},
+"91750": {
+"word": "Sindo",
+"official": "Sindo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92000": {
+"word": "Hounde",
+"official": "Hounde",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92200": {
+"word": "Bekui",
+"official": "Bekui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92250": {
+"word": "Bereba",
+"official": "Bereba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92300": {
+"word": "Boni",
+"official": "Boni",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92350": {
+"word": "Founzan",
+"official": "Founzan",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92400": {
+"word": "Koti",
+"official": "Koti",
+"aliases": [],
+"plateRule": "as-is"
+},
+"92450": {
+"word": "Koumbia",
+"official": "Koumbia",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94000": {
+"word": "Banfora",
+"official": "Banfora",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94200": {
+"word": "Niangoloko",
+"official": "Niangoloko",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94250": {
+"word": "Beregadougou",
+"official": "Beregadougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94300": {
+"word": "Mangodara",
+"official": "Mangodara",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94350": {
+"word": "Moussodougou",
+"official": "Moussodougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94400": {
+"word": "Ouo",
+"official": "Ouo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94450": {
+"word": "Sideradougou",
+"official": "Sideradougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"94500": {
+"word": "Soubakaniedougou",
+"official": "Soubakaniedougou",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"94550": {
+"word": "Tiefora",
+"official": "Tiefora",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95000": {
+"word": "Sindou",
+"official": "Sindou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95200": {
+"word": "Dakoro",
+"official": "Dakoro",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95250": {
+"word": "Douna",
+"official": "Douna",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95300": {
+"word": "Kankalaba",
+"official": "Kankalaba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95350": {
+"word": "Loumana",
+"official": "Loumana",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95400": {
+"word": "Niankorodougou",
+"official": "Niankorodougou",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"95450": {
+"word": "Oueleni",
+"official": "Oueleni",
+"aliases": [],
+"plateRule": "as-is"
+},
+"95500": {
+"word": "Wolonkoto",
+"official": "Wolonkoto",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96000": {
+"word": "Gaoua",
+"official": "Gaoua",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96200": {
+"word": "Bouroum-Bouroum",
+"official": "Bouroum-Bouroum",
+"aliases": [],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [],
+"plateReason": "no run of whole words fits 12 characters and 2 words"
+},
+"96250": {
+"word": "Boussera",
+"official": "Boussera",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96300": {
+"word": "Djigoue",
+"official": "Djigoue",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96350": {
+"word": "Gbomblora",
+"official": "Gbomblora",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96400": {
+"word": "Kampti",
+"official": "Kampti",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96450": {
+"word": "Loropeni",
+"official": "Loropeni",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96500": {
+"word": "Malba",
+"official": "Malba",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96550": {
+"word": "Nako",
+"official": "Nako",
+"aliases": [],
+"plateRule": "as-is"
+},
+"96600": {
+"word": "Perigban",
+"official": "Perigban",
+"aliases": [],
+"plateRule": "as-is"
+},
+"97000": {
+"word": "Diebougou",
+"official": "Diebougou",
+"aliases": [],
+"plateRule": "as-is"
+},
+"97200": {
+"word": "Gbondjigui",
+"official": "Gbondjigui",
+"aliases": [],
+"plateRule": "as-is"
+},
+"97250": {
+"word": "Dolo",
+"official": "Dolo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"97300": {
+"word": "Iolonioro",
+"official": "Iolonioro",
+"aliases": [],
+"plateRule": "as-is"
+},
+"97350": {
+"word": "Tiankoura",
+"official": "Tiankoura",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98000": {
+"word": "Dano",
+"official": "Dano",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98200": {
+"word": "Dissihn",
+"official": "Dissihn",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98250": {
+"word": "Gueguere",
+"official": "Gueguere",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98300": {
+"word": "Koper",
+"official": "Koper",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98350": {
+"word": "Niego",
+"official": "Niego",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98400": {
+"word": "Oronkua",
+"official": "Oronkua",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98450": {
+"word": "Ouessa",
+"official": "Ouessa",
+"aliases": [],
+"plateRule": "as-is"
+},
+"98500": {
+"word": "Zambo",
+"official": "Zambo",
+"aliases": [],
+"plateRule": "as-is"
+},
+"99000": {
+"word": "Batie",
+"official": "Batie",
+"aliases": [],
+"plateRule": "as-is"
+},
+"99200": {
+"word": "Koula",
+"official": "Boussou-Koula",
+"aliases": [
+"Boussou-Koula"
+],
+"plateRule": "council",
+"needsCouncilChoice": true,
+"plateCandidates": [
+"Koula"
+],
+"plateReason": "a hyphenated name: every short form drops one of its parts"
+},
+"99250": {
+"word": "Kpuere",
+"official": "Kpuere",
+"aliases": [],
+"plateRule": "as-is"
+},
+"99300": {
+"word": "Legmoin",
+"official": "Legmoin",
+"aliases": [],
+"plateRule": "as-is"
+},
+"99350": {
+"word": "Midebdo",
+"official": "Midebdo",
+"aliases": [],
+"plateRule": "as-is"
+}
+}

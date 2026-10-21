@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this model, its data or its papers, please cite them as below."
+title: "N-Ways Addressing for Burkina Faso: a code for every compound"
+type: dataset
+authors:
+  - name: "The N-Ways Addressing Group"
+    affiliation: "N-WAYS LIMITED"
+    email: "hello@nways.ng"
+date-released: 2026-10-20
+url: "https://github.com/n-ways/open-addresses-burkina-faso"
+repository-code: "https://github.com/n-ways/open-addresses-burkina-faso"
+license:
+  - Apache-2.0
+  - ODbL-1.0
+  - CC-BY-4.0
+keywords:
+  - addressing
+  - Burkina Faso
+  - geocoding
+  - postcodes
+  - Hilbert curve
+  - Damm check digit
+  - open data
+abstract: >-
+  An address model, reference engine, registry and registry server for Burkina Faso: every one of
+  8,369,987 compounds has a code made of the name of a quarter or village people already say and a
+  number of three to five digits, unique in the country on its own, with the official address shown
+  first wherever a commune has given one.
+preferred-citation:
+  type: report
+  title: "N-Ways Addressing for Burkina Faso: a code for every compound"
+  authors:
+    - name: "The N-Ways Addressing Group"
+  institution:
+    name: "N-WAYS LIMITED"
+  year: 2026
+  month: 10
+  url: "https://github.com/n-ways/open-addresses-burkina-faso/blob/main/docs/paper.md"
+  languages:
+    - en
+    - fr

@@ -1,0 +1,890 @@
+{
+ "country": "BF",
+ "name": "Burkina Faso",
+ "model": "Adresse N-Ways Burkina",
+ "status": "issued 2026-10-20; public",
+ "date": "2026-10-18",
+ "notShared": "Own model, own engine, own reference code.",
+ "criteria": [
+  "easy to remember and easy to get (first)",
+  "compound is the unit, gate is the entrance",
+  "stable codes",
+  "official addresses first: use the commune's door addresses where they exist; postcode as pointer; parcels as cross-references",
+  "offline, open method",
+  "privacy and safety"
+ ],
+ "existing": {
+  "verdict": "coarse official postal codes (commune / urban zone level), not door-level",
+  "postcode": {
+   "operator": "La Poste Burkina Faso",
+   "format": "5 digits",
+   "structure": "d1 region, d1-2 province, d3-4 quartier/commune/agency, d5 type (0 commune or quartier, 1-8 agency)",
+   "communesCoded": 351,
+   "ouagadougouZones": [
+    "10000",
+    "10010",
+    "10020",
+    "10030",
+    "10040",
+    "10050"
+   ],
+   "boboZones": [
+    "90000",
+    "90010",
+    "90020",
+    "90030"
+   ],
+   "table": "model/units/laposte-postcodes.json",
+   "matchToCommunes": "model/units/communes.csv (294 exact, 55 spelling to verify, 1 manual, Komsilga none)"
+  },
+  "streetAddressing": "Ouagadougou/Bobo street codes 'Rue <secteur>.<order>' + metric door numbers; AMB/EU/PASIU renewal since 2021",
+  "parcels": "Décret 2012-1006 section/îlot/parcelle, digits only; DGI eCadastre / SyC@D (sif.bf)",
+  "detail": "docs/existing-systems.md"
+ },
+ "format": {
+  "remembered": {
+   "town": "Secteur <n> <town word> · <number>",
+   "village": "<village name> <number>",
+   "examples": [
+    "Secteur 15 Ouaga · 48 217",
+    "Nabadogo 41 17",
+    "Bissiga 18 07",
+    "Bissiga 41 17"
+   ],
+   "contains": "place words people already use + 3-5 digits; no letters to learn; unique in the whole country on its own (no position, no town after a comma)",
+   "withCheck": "optional where written: 'Bissiga 41 17-2', 'Secteur 15 Ouaga · 48 217-6'",
+   "grouping": "4 digits 'AB CD'; 5 digits 'AB CDE'; 3 digits 'ABC'",
+   "spokenFr": "pairs from the left as phone numbers: 41 17 'quarante-et-un dix-sept'; town form 'secteur quinze, Ouaga, quarante-huit deux cent dix-sept'"
+  },
+  "machine": {
+   "pattern": "BF-<postcode 5d>-<S<secteur 2d>|V<village 3d>>-<number 3-5d>-<Damm>",
+   "regex": "^BF-(\\d{5})-([SV])(\\d{2,3})-([1-9]\\d{2,4})-(\\d)$",
+   "examples": [
+    "BF-10000-S15-48217-6",
+    "BF-40650-V021-4117-5",
+    "BF-40650-V002-1807-9",
+    "BF-57450-V002-4117-2"
+   ],
+   "checkInput": "village: nameId (5 digits, frozen national id of the normalised name) + postcode + kindDigit(2) + index + number; secteur: postcode + kindDigit(1) + secteur + number (the postcode is the town word)",
+   "note": "secteur numbers in examples are illustrative until secteur maps are obtained",
+   "validity": "a village code is valid only if its number lies in one of that village's blocks of its name's range"
+  },
+  "plate": {
+   "large": "remembered form (SECTEUR 15 OUAGA · 48 217 / BISSIGA 41 17)",
+   "small": "machine form",
+   "qr": "https://nways.ng/ link to the gate",
+   "where": "only where no official address exists"
+  },
+  "structure": "<compound>.<n> (e.g. Secteur 15 Ouaga · 48 217 .2) — rarely needed",
+  "entrance": "<compound>/<n>; /1 = the gate (default)",
+  "spot": {
+   "pattern": "BF-<postcode> E<east> N<north>",
+   "unit": "10 m",
+   "digits": "4 per axis; 5 on an axis wider than 99.99 km (Matiakoali, Tin-Akoff, Ouo, Pama)",
+   "frame": "per commune: origin = SW box corner floored to 0.01 deg; reference latitude = box centre rounded to 0.01 deg; local equirectangular metres (110574 m/deg lat, 111320 cos(latc) m/deg lon); frozen in model/units/frames.json",
+   "why": "Burkina spans UTM 30 and 31; a commune-local metric grid reference is readable on paper maps"
+  }
+ },
+ "nationalNames": {
+  "villages": {
+   "rule": "all villages/hamlets whose PLATE name has the same normalised key draw from ONE national range for that name, one frozen block per village",
+   "normalisation": "NFKD accents and case folded; leading Q/Quartier/Hameau/Village de and articles le/la/les/l' dropped; spaces, hyphens, apostrophes, dots dropped; tch=c, dj=j, gh=g, ph=f, ou=w=u, gu before i/e=g; doubled letters single; official qualifiers kept (Bissiga-Peulh != Bissiga); engine: bf_engine.name_key",
+   "block": "compounds x 2 rounded up to a multiple of 10, minimum 20; laid in register order (postcode, index) at first issue",
+   "digits": "per name: smallest of 3,4,5 whose range holds all blocks with the top tenth spare",
+   "spare": 0.1,
+   "generic": "labels that are not names (village, Campement d'éleveurs, Site de recasement...) are renamed with the commune before issue; no block",
+   "tooLargeAlone": "a village whose block exceeds a 5-digit range is split by named quartiers/secteurs before issue",
+   "qualifier": "if a name's blocks together exceed 5 digits: bare name for the blocks that fit in register order, commune as qualifier for the others ('Yargo-Kaya'), decided once and listed in model/areas/name-ranges.json; split quartier areas named by a common quarter word (Natenga, Nayiri, Tanghin, Zongo) take the village as qualifier ('Boassa-Zongo')",
+   "qualifiedToday": [],
+   "data": "model/areas/name-ranges.json (built by tools/name-ranges.py from model/stats/area-compounds.csv); aliasKeys map official names to plate names"
+  },
+  "secteurs": {
+   "rule": "the town word is part of the code by rule: 'Secteur 15 Ouaga · 48 217' != 'Secteur 15 Bobo · 48 217'",
+   "why": "every urban commune numbers secteurs from 1; a shared 'Secteur 1' range would hold one block per town (an average Ouagadougou secteur alone needs 22,420 numbers; 183 other communes hold ~1.25 M compounds around town nodes): over 5 digits",
+   "townWord": "commune name under the plate rule; documented short forms Ouaga (10000, en.wikipedia.org/wiki/Ouagadougou), Bobo (90000, en.wikipedia.org/wiki/Bobo_people), Fada (75000, fr.wikipedia.org/wiki/Fada_N'Gourma); full names are aliases; 18 town words over the limit or ambiguous are flagged needsCouncilChoice",
+   "qualifiedTownWords": [
+    "Thiou-Boulkiemdé",
+    "Boussouma-Sanmatenga",
+    "Namissiguima-Sanmatenga",
+    "Namissiguima-Yatenga",
+    "Thiou-Yatenga",
+    "Boussouma-Boulgou"
+   ],
+   "data": "model/areas/town-words.json",
+   "townWordsNeedingCouncil": {
+    "10250": {
+     "official": "Tanguen-Dassouri",
+     "provisional": "Dassouri",
+     "candidates": [
+      "Dassouri",
+      "Tanguen"
+     ]
+    },
+    "20400": {
+     "official": "Ourgou-Manega",
+     "provisional": "Manega",
+     "candidates": [
+      "Manega",
+      "Ourgou"
+     ]
+    },
+    "30350": {
+     "official": "Gomboussougou",
+     "provisional": "Gomboussougou",
+     "candidates": []
+    },
+    "40850": {
+     "official": "Thiou",
+     "provisional": "Thiou-Boulkiemdé",
+     "candidates": []
+    },
+    "42300": {
+     "official": "Nebielianayou",
+     "provisional": "Nebielianayou",
+     "candidates": []
+    },
+    "50250": {
+     "official": "Boussouma",
+     "provisional": "Boussouma-Sanmatenga",
+     "candidates": []
+    },
+    "50450": {
+     "official": "Namissiguima",
+     "provisional": "Namissiguima-Sanmatenga",
+     "candidates": []
+    },
+    "55450": {
+     "official": "Namissiguima",
+     "provisional": "Namissiguima-Yatenga",
+     "candidates": []
+    },
+    "55700": {
+     "official": "Thiou",
+     "provisional": "Thiou-Yatenga",
+     "candidates": []
+    },
+    "63350": {
+     "official": "Tankougounadie",
+     "provisional": "Tankougounadie",
+     "candidates": []
+    },
+    "70500": {
+     "official": "Boussouma",
+     "provisional": "Boussouma-Boulgou",
+     "candidates": []
+    },
+    "72500": {
+     "official": "Tensobentenga",
+     "provisional": "Tensobentenga",
+     "candidates": []
+    },
+    "90400": {
+     "official": "Karangasso-Vigue",
+     "provisional": "Vigue",
+     "candidates": [
+      "Vigue",
+      "Karangasso"
+     ]
+    },
+    "90450": {
+     "official": "Karangasso-Sambla",
+     "provisional": "Sambla",
+     "candidates": [
+      "Sambla",
+      "Karangasso"
+     ]
+    },
+    "94500": {
+     "official": "Soubakaniedougou",
+     "provisional": "Soubakaniedougou",
+     "candidates": []
+    },
+    "95400": {
+     "official": "Niankorodougou",
+     "provisional": "Niankorodougou",
+     "candidates": []
+    },
+    "96200": {
+     "official": "Bouroum-Bouroum",
+     "provisional": "Bouroum-Bouroum",
+     "candidates": []
+    },
+    "99200": {
+     "official": "Boussou-Koula",
+     "provisional": "Koula",
+     "candidates": [
+      "Koula"
+     ]
+    }
+   }
+  },
+  "check": "Damm over nameId + postcode + kind + index + number (village), postcode + kind + secteur + number (secteur); out-of-block numbers invalid; optional check on the remembered form",
+  "stability": "blocks frozen at issue, never renumbered; new same-named village = new block from the name's spare; full block = extension block from the spare; spare used up = commune qualifier; renamed village keeps its block, new name is an alias",
+  "counts": {
+   "source": "model/stats/area-compounds.csv (design register villages + OSM town nodes; 10% national footprint sample x 10 x 0.546)",
+   "villageAreas": 7952,
+   "genericLabels": 98,
+   "namedAreas": 7854,
+   "names": 6862,
+   "repeatedNames": 707,
+   "areasUnderRepeatedNames": 1695,
+   "mostAreas": [
+    [
+     "Douré",
+     10
+    ],
+    [
+     "Goghin",
+     10
+    ],
+    [
+     "Rapadama",
+     9
+    ],
+    [
+     "Tanguin",
+     9
+    ],
+    [
+     "Watinoma",
+     7
+    ],
+    [
+     "Yargo",
+     7
+    ]
+   ],
+   "largestSharedRange": {
+    "name": "Barogo",
+    "areas": 2,
+    "compounds": 17505,
+    "blocksUsed": 35010,
+    "digits": 5
+   },
+   "repeatedNamesByDigits": {
+    "3": 96,
+    "4": 563,
+    "5": 48
+   },
+   "villagesByDigits": {
+    "3": 3386,
+    "4": 4137,
+    "5": 265
+   },
+   "compoundShareByDigits": {
+    "3": 0.12,
+    "4": 0.703,
+    "5": 0.177
+   },
+   "villagesByDigitsBeforeRule": {
+    "3": 4274,
+    "4": 3426,
+    "5": 88
+   },
+   "compoundShareByDigitsBeforeRule": {
+    "3": 0.17,
+    "4": 0.704,
+    "5": 0.127
+   },
+   "villagesOneDigitLonger": 1012,
+   "splitBeforeIssue": [
+    "Boassa",
+    "Kamboincé",
+    "Tabtenga",
+    "Yagma"
+   ],
+   "namesNeedingQualifier": 0,
+   "villagesByDigitsOnOfficialNames": {
+    "3": 3442,
+    "4": 4114,
+    "5": 232
+   },
+   "onOfficialNames": {
+    "names": 6954,
+    "repeatedNames": 646,
+    "areasUnderRepeatedNames": 1542
+   }
+  },
+  "example": {
+   "name": "Bissiga",
+   "digits": 4,
+   "blocks": {
+    "Kombissiri": "1000-1589",
+    "Sabou": "1590-2219",
+    "Kaya": "2220-3139",
+    "La-Toden": "3140-5139",
+    "Bissiga": "5140-7109",
+    "Bissiga-Yarcé (plate Bissiga, provisional)": "7110-7299"
+   },
+   "spare": "7300-9999",
+   "decode": {
+    "Bissiga 18 07": "BF-40650-V002-1807-9 (Sabou)",
+    "Bissiga 41 17": "BF-57450-V002-4117-2 (La-Toden)"
+   }
+  },
+  "rule": "the remembered code must be unique nationally on its own: village names repeat across the country, and context (position, town after a comma) is rejected because a code must work when said aloud to someone elsewhere"
+ },
+ "plateNames": {
+  "limit": "plate name at most 12 characters (NFC; letters, spaces, hyphens, apostrophes count one) and at most 2 words (linking words de/du/des/la/le/l'/et/sur/en/au/aux/à and Tamasheq n not counted; a hyphen separates words); no digit",
+  "names": "officialName (small print, never required) + plateName (in the code); typing the official name decodes when it maps to one plate name (alias); an alias claimed by two plate names or equal to another plate name is dropped and listed",
+  "derivation": "documented short form with source; else clean (brackets, after slash, generic words Q/Quartier/Lieu-dit/Village de/Cité/Lotissement/Zone/Secteur/Hameau/Campement); else St/Ste abbreviation; else most distinctive run of whole words; never a word cut",
+  "burkinaRules": [
+   "ethnic/status qualifiers (Peulh, Foulbé, Mossi, Silmi, Rimaïbé, Yarcé, Gourmantché, Bella, Traditionnel, Nouveau), Mooré Yiri/Tenga/Naba, Fulfuldé Ouro/Wouro are weak: never a plate alone; a short form dropping one goes to the commune",
+   "a short form dropping a number goes to the commune",
+   "a hyphenated name too long goes to the commune with its parts as candidates",
+   "no short form equal to a commune, province, region or big city of the region; nor the area's own commune or another place of the same commune"
+  ],
+  "council": "needsCouncilChoice + plateCandidates (<= 3) + plateReason; first candidate provisional; the commune confirms before first issue; names with no fitting candidate cannot be issued (engine refuses)",
+  "engine": "engine/reference/plate_names.py; bf_engine.plate_ok",
+  "counts": {
+   "namedVillages": 7854,
+   "officialOverChars": 474,
+   "officialOverWords": 58,
+   "byRule": {
+    "abbreviated": 1,
+    "as-is": 7277,
+    "cleaned": 19,
+    "council": 413,
+    "distinctive": 144
+   },
+   "needsCouncilChoice": 413,
+   "stillOverLimit": 189,
+   "aliases": 377,
+   "droppedAliases": 1,
+   "townWordsByRule": {
+    "as-is": 329,
+    "council": 18,
+    "known": 3
+   },
+   "townWordsStillOverLimit": 13
+  },
+  "examples": {
+   "Soussougou Yamako": "Yamako",
+   "Debere Boulga": "Boulga (shares the Boulga range with Boulga, Pensa; decodes apart by block)",
+   "Saint-Camille": "St-Camille",
+   "Ouro Tambella": "Tambella",
+   "Gambo (moulin)": "Gambo (flagged: another Gambo in the commune)",
+   "Baskoudré-Peulh": "flagged, candidate Baskoudré"
+  },
+  "data": "model/areas/register.json (plate fields per village), model/areas/town-words.json, model/stats/name-stats.json",
+  "rule": "the name in the code is short (at most 12 characters, 2 words) so that it can be said, written and painted on a gate"
+ },
+ "check": {
+  "algorithm": "Damm (quasigroup of order 10)",
+  "detects": "every single-digit error, every adjacent transposition",
+  "shownOn": "plates, forms, machine form only"
+ },
+ "optionsEvaluated": [
+  {
+   "option": "alphanumeric per commune",
+   "example": "10000-7HQ2X",
+   "verdict": "rejected: letters"
+  },
+  {
+   "option": "digits per commune",
+   "example": "10000 · 4 821 734",
+   "verdict": "rejected: 7 digits in Ouagadougou (616,565 compounds x2)"
+  },
+  {
+   "option": "digits per La Poste zone",
+   "example": "10040 · 482 173",
+   "verdict": "rejected: 6 digits, zone codes not known by heart"
+  },
+  {
+   "option": "parcel number",
+   "verdict": "cross-reference only: lotissement plots only, ~434k of ~1.26M digitised"
+  },
+  {
+   "option": "official street + door",
+   "verdict": "used as the address where it exists, shown first; the N-Ways code sits beside it"
+  },
+  {
+   "option": "place word + 3-5 digits",
+   "verdict": "chosen"
+  }
+ ],
+ "codeAreas": {
+  "urban": {
+   "unit": "secteur",
+   "index": "S01-S99",
+   "source": "commune secteur maps (2009) or PASIU database — not yet obtained",
+   "digits": "5 in Ouagadougou (616,565 compounds / 55 secteurs = 11,210; x2 = 22,420 <= 90,000); 4 or 5 in Bobo-Dioulasso (176,300 / 33 = 5,343)"
+  },
+  "rural": {
+   "unit": "village or hamlet",
+   "index": "V001-V999 per commune (machine form only); numbers come from the village's block in its name's national range",
+   "source": "OpenStreetMap and GeoNames named places (model/areas/register.json); the INSD village list will add official names as aliases",
+   "digitsEvidence": {
+    "areas": {
+     "3": 7264,
+     "4": 3447,
+     "5": 177,
+     "6+": 5
+    },
+    "compoundShare": {
+     "3": 0.168,
+     "4": 0.538,
+     "5": 0.254,
+     "6+": 0.04
+    },
+    "medianCompoundsPerArea": 257,
+    "underNationalNames": {
+     "villages": {
+      "3": 3442,
+      "4": 4114,
+      "5": 232
+     },
+     "compoundShare": {
+      "3": 0.122,
+      "4": 0.709,
+      "5": 0.169
+     },
+     "source": "model/stats/name-stats.json"
+    }
+   }
+  },
+  "split": "an area with compounds x 2 > its range is split by named quartiers before issue; longer number only if no names",
+  "frozen": "area polygons, indices and name blocks frozen at first issue; renames and renumbering update aliases only",
+  "capacityRule": "secteur: compounds x 2 <= 9 x 10^(digits-1); village: compounds x 2 <= block, name blocks <= 0.9 x 9 x 10^(digits-1)"
+ },
+ "numbering": {
+  "order": "Hilbert curve, order 16, over the code area's box, on compound centroids (area-weighted)",
+  "range": "secteur: 10^(d-1) .. 10^d - 1; village: its frozen block [lo, hi] in its name's national range",
+  "tailReserve": "top third of the range or block",
+  "step": "floor(mainRange / (N x 1.5)), min 1",
+  "newCompound": "free number between Hilbert neighbours closest to the midpoint, else lowest free tail number; full village block -> extension block from the name's spare",
+  "never": "reused; demolished = retired; split = larger part keeps; merge = oldest survives, other becomes alias"
+ },
+ "compound": {
+  "unit": "concession / cour / plot (walled or not), one primary gate",
+  "grouping": [
+   {
+    "rule": "enclosure",
+    "test": "centroid inside closed OSM barrier=wall|fence|hedge <= 6000 m2",
+    "confidence": 0.85
+   },
+   {
+    "rule": "annex",
+    "test": "structure < 25 m2 joins nearest >= 25 m2 within 8 m gap",
+    "confidence": 0.6
+   },
+   {
+    "rule": "hut-cluster",
+    "test": "structures < 40 m2 within 3 m chain, max 25",
+    "confidence": 0.5
+   },
+   {
+    "rule": "single",
+    "confidence": 0.4
+   },
+   {
+    "rule": "people",
+    "test": "'these buildings are one home', 'this is the gate' by residents, confirmed by arrivals",
+    "confidence": "0.9+"
+   }
+  ],
+  "estates": "walled areas > 6000 m2 with many compounds = estate/cité/camp: estate gate -> compound gate",
+  "reverseCases": [
+   "cour commune / célibatorium: one compound, multi-household",
+   "immeuble: one compound, flats not coded",
+   "front-wall boutiques: extra entrances or own compound",
+   "cité behind one gate: estate level"
+  ],
+  "profile": {
+   "class": [
+    "residential-one-household",
+    "residential-multi-household",
+    "residential-multi-storey",
+    "mixed",
+    "commercial",
+    "institutional",
+    "industrial",
+    "unclassified"
+   ],
+   "fields": [
+    "code",
+    "area",
+    "number",
+    "gates[]",
+    "entrances[]",
+    "plotAreaM2",
+    "plotSource",
+    "structures[]",
+    "structureCount",
+    "floorAreaM2",
+    "class",
+    "classConfidence",
+    "crossRefs{laposteZone,agency,street,doorNumber,section,ilot,parcelle,titre}",
+    "status",
+    "provisional",
+    "firstIssued",
+    "lastConfirmed",
+    "aliases[]"
+   ]
+  },
+  "ouagadougouV0": {
+   "structures": 1129524,
+   "compounds": 616565,
+   "structuresPerCompound": {
+    "3-5": 70788,
+    "6-10": 18220,
+    "2": 115027,
+    "1": 405817,
+    "11+": 6713
+   },
+   "byRule": {
+    "annex": 96733,
+    "hut-cluster": 21253,
+    "annex-host": 92205,
+    "single": 405606,
+    "enclosure": 768
+   },
+   "class": {
+    "residential-one-household": 416901,
+    "residential-multi-household": 104692,
+    "other": 83078,
+    "commercial": 5429,
+    "industrial": 3705,
+    "institutional": 2307,
+    "mixed": 375,
+    "residential-multi-storey": 78
+   },
+   "mappedEnclosureAreaM2": {
+    "p10": 171.0,
+    "p25": 274.0,
+    "p50": 428.0,
+    "p75": 1165.0,
+    "p90": 2879.0
+   },
+   "compoundFloorAreaM2": {
+    "p10": 25.4,
+    "p25": 42.0,
+    "p50": 73.0,
+    "p75": 129.7,
+    "p90": 217.5
+   }
+  }
+ },
+ "building": {
+  "schema": {
+   "id": "stable structure id (compound code + .n)",
+   "footprint": "polygon",
+   "footprintM2": "geodesic",
+   "perimeterM": "geodesic",
+   "heightM": "OSM height | ML h",
+   "floors": "OSM building:levels | max(1, round((h-1.5)/3)) | 1",
+   "floorAreaM2": "footprint x floors",
+   "class": "taxonomy",
+   "subclass": "local form",
+   "classConfidence": "0-1",
+   "name": "businesses and public buildings only",
+   "status": "existing|under_construction|ruin|demolished",
+   "entrances": "[]",
+   "sources": "per attribute: osm|google|microsoft|places|people|partner + date",
+   "lastConfirmed": "date"
+  },
+  "inference": [
+   {
+    "evidence": "OSM building=*",
+    "confidence": 0.85
+   },
+   {
+    "evidence": "OSM amenity/shop/office/tourism/healthcare on the building",
+    "confidence": 0.75
+   },
+   {
+    "evidence": "N-Ways place inside footprint",
+    "confidence": 0.65
+   },
+   {
+    "evidence": "OSM landuse",
+    "confidence": 0.5
+   },
+   {
+    "evidence": "size < 6 m2 annex; > 2500 m2 industrial",
+    "confidence": "0.40/0.30"
+   },
+   {
+    "evidence": "default residential",
+    "confidence": "0.45 (0.55 in residential landuse)"
+   },
+   {
+    "bonus": "+0.05 per agreeing source; residential + commercial -> mixed 0.6"
+   }
+  ],
+  "taxonomy": {
+   "residential": [
+    "cour/concession urbaine",
+    "yiri/zaka (rural compound of round huts)",
+    "case ronde",
+    "cour commune",
+    "célibatorium",
+    "villa",
+    "immeuble R+n",
+    "habitat spontané (non-loti)"
+   ],
+   "annex": [
+    "cuisine",
+    "douche/latrine",
+    "magasin",
+    "grenier",
+    "poulailler"
+   ],
+   "commercial": [
+    "boutique",
+    "kiosque",
+    "marché (yaar)",
+    "magasin/entrepôt",
+    "station-service",
+    "maquis"
+   ],
+   "government": [
+    "mairie",
+    "préfecture",
+    "poste",
+    "commissariat",
+    "gendarmerie",
+    "caserne"
+   ],
+   "education": [
+    "école",
+    "CEG",
+    "lycée",
+    "université",
+    "école coranique"
+   ],
+   "health": [
+    "CSPS",
+    "CMA",
+    "CHR/CHU",
+    "pharmacie",
+    "clinique"
+   ],
+   "religious": [
+    "mosquée",
+    "église",
+    "temple"
+   ],
+   "industrial": [
+    "usine",
+    "atelier",
+    "entrepôt"
+   ],
+   "hospitality": [
+    "hôtel",
+    "auberge"
+   ],
+   "transport": [
+    "gare routière",
+    "parking",
+    "garage"
+   ],
+   "agricultural": [
+    "grenier",
+    "parc à bétail",
+    "hangar agricole"
+   ],
+   "other": [
+    "under construction",
+    "ruin",
+    "unknown"
+   ]
+  },
+  "ouagadougouV0": {
+   "footprintM2": {
+    "p10": 12.7,
+    "p25": 17.5,
+    "p50": 28.0,
+    "p75": 52.4,
+    "p90": 105.1
+   },
+   "perimeterM": {
+    "p10": 14.4,
+    "p25": 17.1,
+    "p50": 22.1,
+    "p75": 30.8,
+    "p90": 43.7
+   },
+   "heightM": {
+    "p10": 3.8,
+    "p25": 4.4,
+    "p50": 5.2,
+    "p75": 6.1,
+    "p90": 6.6
+   },
+   "withHeight": 0.7173,
+   "floors": {
+    "1": 886197,
+    "2": 243215,
+    "3": 50,
+    "4": 33,
+    "6": 19,
+    "5": 10
+   },
+   "sizeBands": {
+    "10-30": 586578,
+    "<10": 19676,
+    "30-80": 356493,
+    "80-200": 139088,
+    "1000+": 820,
+    "200-1000": 26869
+   },
+   "classMix": {
+    "residential": 1104704,
+    "commercial": 8049,
+    "industrial": 4528,
+    "annex": 3876,
+    "under_construction": 3481,
+    "agricultural": 1552,
+    "government": 1301,
+    "education": 872,
+    "religious": 442,
+    "office": 300,
+    "health": 139,
+    "transport": 119,
+    "hospitality": 111,
+    "leisure": 35,
+    "ruin": 8,
+    "mixed": 7
+   },
+   "classEvidence": {
+    "default": 1103290,
+    "osm:landuse": 14782,
+    "osm:building": 5738,
+    "size": 3647,
+    "places:inside": 1787,
+    "osm:poi-tag": 273,
+    "agreement": 7
+   },
+   "meanClassConfidence": 0.526,
+   "floorAreaTotalM2": 66150015,
+   "footprintAreaTotalM2": 54986483
+  }
+ },
+ "addMyHome": {
+  "steps": [
+   "stand at gate: GPS averaged a few seconds + one gate photo",
+   "outline: tap corners on imagery | AR walk inside the wall (ARKit/ARCore, anchored by averaged GPS, checked vs imagery/footprints) | import survey plan or lotissement parcel (beacons typed or photographed)",
+   "describe: households (count), structures, floors, use",
+   "provisional code = next reserved number in the area",
+   "confirmed by arrivals/deliveries, no dispute, or new imagery"
+  ],
+  "safeguards": [
+   "an address is not a land title",
+   "overlaps flagged, not issued",
+   "gate on outline, plausible size, closed loop, GPS vs AR agreement",
+   "privacy: outline + gate photo only",
+   "offline: spot code at once; compound code at next connection"
+  ],
+  "legal": {
+   "land": "Loi 034-2012 RAF, Décret 2014-481; Loi 034-2009 rural",
+   "titles": "PUH, attestation d'attribution, titre foncier",
+   "surveyors": "cadastre or géomètre-expert (Ordre des Géomètres-Experts du Burkina)",
+   "norms": "Décret 2012-444: markers <= 7 cm; sketches in non-developed zones <= 3 m",
+   "parcelNumbering": "Décret 2012-1006 section/îlot/parcelle, digits only",
+   "datum": "référentiel national (not named in text; to confirm with IGB; IGB GNSS-CORS 13 stations)"
+  }
+ },
+ "privacy": {
+  "law": "Loi 001-2021/AN",
+  "authority": "CIL (cil.bf): prior declaration before publication",
+  "public": [
+   "code areas",
+   "every compound code with its entrance, spot code and building profile",
+   "structure footprints and profiles",
+   "business and public building names",
+   "cross-references to official addresses"
+  ],
+  "private": [
+   "who lives where",
+   "household counts (kept as class only)",
+   "Add-my-home photos (gate photo shown only to people navigating there, never published in open data)",
+   "phone numbers",
+   "provisional disputes"
+  ],
+  "travelAdvisory": "the area table marks communes under the UK FCDO's advice against all travel (alert_zone) as context; every code is published; displaced-people sites are never published"
+ },
+ "distribution": [
+  "N-Ways app: 'Mon adresse', one-tap share (WhatsApp/SMS link)",
+  "plates and stickers with QR",
+  "Ajouter ma maison",
+  "partner lookup (couriers, companies)"
+ ],
+ "notOffered": [
+  "USSD",
+  "SMS lookup service (possible later option only)"
+ ],
+ "governance": {
+  "partners": [
+   "La Poste Burkina Faso",
+   "Commune de Ouagadougou",
+   "Commune de Bobo-Dioulasso",
+   "AMB / PASIU",
+   "IGB",
+   "DGI cadastre",
+   "INSD",
+   "ANPTIC",
+   "CIL",
+   "BNSP (18)",
+   "Police (17)",
+   "couriers"
+  ],
+  "doc": "GOVERNANCE.md"
+ },
+ "emergency": {
+  "police": "17",
+  "pompiers": "18"
+ },
+ "sources": "SOURCES.md",
+ "coverage": [
+  {
+   "area": "Readdressed arrondissements of Ouagadougou (1, 2, 5, 12; 2023 pilot arrondissements)",
+   "official": "commune street code 'Rue <secteur>.<order>' + door number (AMB/EU, PASIU)",
+   "data": "PASIU platforms 'Easy Geo', 'Webmapping grand Ouaga data'; not open; request from Commune de Ouagadougou + AMB under a data-sharing agreement",
+   "nways": "import, show exactly as written, keep in sync; add gate, building profile, spot code; no N-Ways number or plate"
+  },
+  {
+   "area": "Readdressed parts of Bobo-Dioulasso",
+   "official": "same scheme (from Apr 2022)",
+   "data": "Commune de Bobo-Dioulasso / PASIU; not open",
+   "nways": "same"
+  },
+  {
+   "area": "Non-loti zones, secteurs not readdressed, other towns, villages",
+   "official": "none at door level",
+   "data": "-",
+   "nways": "N-Ways address (this model)"
+  },
+  {
+   "area": "Everywhere",
+   "official": "La Poste postcode (commune/zone; not an address)",
+   "data": "public lookup; harvested table model/units/laposte-postcodes.json",
+   "nways": "pointer: machine prefix; attribute of official addresses"
+  },
+  {
+   "area": "Lotissement plots",
+   "official": "section/îlot/parcelle (DGI)",
+   "data": "SyC@D, eCadastre; not open",
+   "nways": "cross-reference only"
+  }
+ ],
+ "officialImport": {
+  "source": "communal address databases (PASIU) under agreement",
+  "fields": [
+   "street code",
+   "street name if named",
+   "door number",
+   "arrondissement",
+   "secteur",
+   "source",
+   "version date"
+  ],
+  "display": "exactly as officially written, e.g. 'Rue 15.123, porte 45, Ouagadougou'",
+  "sync": "re-import on each communal release (or monthly feed); diff; official changes win; N-Ways never edits official records, only reports suspected errors to the commune",
+  "whenReaddressedLater": "N-Ways code issued before becomes an alias of the official address; plates replaced by the commune's"
+ },
+ "officialFirst": {
+  "applies": "wherever a commune has given an address, that official address is shown first, exactly as written; the compound keeps its N-Ways code beside it, with the gate position, building profile and spot code. Postcodes and P.O. boxes are not addresses but stay as pointers.",
+  "rule": "where the State has given an address, it is used as written and shown first; nothing competes with it"
+ }
+}

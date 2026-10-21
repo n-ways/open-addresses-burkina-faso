@@ -1,0 +1,7 @@
+{
+ "note": "Plate names chosen after first issue (tools/rename-areas.py). The official names stay aliases.",
+ "renames": [
+  {"plate": "Ouaga", "areas": ["10000-087", "10000-088"], "official": "Ouaga 2000", "effective": "2026-10-21", "why": "the district's own name without its number; Ouaga folds to the same name key as the village Waaga, so they share one range"},
+  {"plate": "Logements", "areas": ["10000-001", "10000-002"], "official": "1200 Logements", "effective": "2026-10-21", "why": "the district's own name without its number; no other area has it"}
+ ]
+}

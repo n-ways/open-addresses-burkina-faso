@@ -1,0 +1,15 @@
+% Burkina Faso: red over green, the national flag's two bands in order; headings in a deep red.
+\definecolor{flagA}{HTML}{EF2B2D}
+\definecolor{flagB}{HTML}{009E49}
+\definecolor{paperink}{HTML}{A3121C}
+\newcommand{\flagband}{\begin{tikzpicture}[remember picture,overlay]
+  \fill[flagA] (0,0) rectangle (\paperwidth,-2.2mm);
+  \fill[flagB] (0,-2.2mm) rectangle (\paperwidth,-4.4mm);
+\end{tikzpicture}}
+\newcommand{\papershort}{}
+% The running head and the table label follow the paper's language.
+\makeatletter
+\newcommand{\papershort@french}{L'adressage N-Ways du Burkina Faso}
+\renewcommand{\papershort}{\@ifundefined{papershort@\languagename}{N-Ways Addressing for Burkina Faso}{\@nameuse{papershort@\languagename}}}
+\AtBeginDocument{\@ifundefined{captionsfrench}{}{\def\tablename{Tableau}}}
+\makeatother

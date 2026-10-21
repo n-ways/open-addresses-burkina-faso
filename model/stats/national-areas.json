@@ -1,0 +1,97 @@
+{
+ "placeKinds": [
+  "village",
+  "hamlet",
+  "quarter",
+  "neighbourhood",
+  "suburb",
+  "town",
+  "city",
+  "locality"
+ ],
+ "placePoints": 11053,
+ "areasWithBuildings": 10893,
+ "compoundRatio": 0.546,
+ "estCompounds": 7317066,
+ "compoundsPerArea": {
+  "p10": 44,
+  "p50": 257,
+  "p90": 1321,
+  "p99": 6618,
+  "max": 82959
+ },
+ "areasByDigits": {
+  "3": 7264,
+  "4": 3447,
+  "5": 177,
+  "6+": 5
+ },
+ "compoundShareByDigits": {
+  "3": 0.168,
+  "4": 0.538,
+  "5": 0.254,
+  "6+": 0.04
+ },
+ "largest": [
+  [
+   "Tampouy",
+   "suburb",
+   82959
+  ],
+  [
+   "Tabtenga",
+   "village",
+   62310
+  ],
+  [
+   "Boassa",
+   "village",
+   52012
+  ],
+  [
+   "Kamboincé",
+   "village",
+   49970
+  ],
+  [
+   "Pouytenga",
+   "town",
+   47158
+  ],
+  [
+   "Bobo-Dioulasso",
+   "city",
+   44270
+  ],
+  [
+   "Somgande",
+   "neighbourhood",
+   42959
+  ],
+  [
+   "Yagma",
+   "village",
+   42577
+  ],
+  [
+   "Saonré",
+   "village",
+   42140
+  ],
+  [
+   "Fada N'Gourma",
+   "city",
+   39989
+  ],
+  [
+   "Tenkodogo",
+   "city",
+   38105
+  ],
+  [
+   "Saaba",
+   "town",
+   34398
+  ]
+ ]
+}

@@ -1,0 +1,24 @@
+% Koulouba (Ouagadougou): its 2,683 compounds at their entrance points, shaded by number; the thin line joins
+% consecutive numbers, i.e. it follows the Hilbert curve. Data: koulouba.dat (tools/paper-figures.py).
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{fontspec}\setmainfont{LibertinusSans}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-Italic]
+\usepackage{pgfplots}\pgfplotsset{compat=1.18}
+\usepackage{pgfplotstable}
+\definecolor{ink}{HTML}{A3121C}\definecolor{inkmid}{HTML}{D9584F}\definecolor{inklight}{HTML}{F2B8B3}\definecolor{inkpale}{HTML}{FBE3E1}
+\definecolor{slate}{HTML}{8C9AA6}\definecolor{grid}{HTML}{DADDE0}
+\providecommand{\T}[2]{\ifdefined\paperfr #2\else #1\fi}
+\begin{document}
+\begin{tikzpicture}[font=\footnotesize]
+\begin{axis}[axis equal image, width=10.5cm, xmin=0, xmax=1811, ymin=0, ymax=2387,
+  xlabel={\T{metres east of the frame's corner}{mètres à l'est du coin du cadre}}, ylabel={\T{metres north}{mètres au nord}},
+  colormap={ink}{rgb255=(251,227,225) rgb255=(236,152,144) rgb255=(185,34,42) rgb255=(74,5,9)},
+  colorbar, colorbar style={ylabel={\T{number}{numéro}}, width=3mm, yticklabel style={/pgf/number format/.cd,1000 sep={}}},
+  tick style={draw=none}, axis line style={gray}, xticklabel style={/pgf/number format/.cd,1000 sep={\,}}, yticklabel style={/pgf/number format/.cd,1000 sep={\,}}]
+\addplot[gray!55, line width=0.15pt, no markers] table[x=x, y=y] {koulouba.dat};
+\addplot[scatter, only marks, mark=*, mark size=0.9pt, scatter/use mapped color={draw opacity=0, fill=mapped color}, point meta=\thisrow{n}] table[x=x, y=y] {koulouba.dat};
+\node[draw=black, circle, inner sep=2.2pt, line width=0.6pt] (p) at (axis cs:326.3,724.0) {};
+\node[anchor=west, fill=white, fill opacity=0.8, text opacity=1, inner sep=1.5pt] at (axis cs:480,520) {Koulouba 17\,76};
+\draw[black, line width=0.4pt] (p) -- (axis cs:480,560);
+\end{axis}
+\end{tikzpicture}
+\end{document}

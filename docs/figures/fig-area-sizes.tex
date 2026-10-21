@@ -1,0 +1,25 @@
+% Number of code areas by size (compounds at issue), split by the digit count of the area's name.
+% Data: area-sizes.dat (tools/paper-figures.py). \paperfr (fig-area-sizes.fr.tex) gives French labels.
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{fontspec}\setmainfont{LibertinusSans}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-Italic]
+\usepackage{pgfplots}\pgfplotsset{compat=1.18}
+\usepackage{pgfplotstable}
+\definecolor{ink}{HTML}{A3121C}\definecolor{inkmid}{HTML}{D9584F}\definecolor{inklight}{HTML}{F2B8B3}\definecolor{inkpale}{HTML}{FBE3E1}
+\definecolor{slate}{HTML}{8C9AA6}\definecolor{grid}{HTML}{DADDE0}
+\providecommand{\T}[2]{\ifdefined\paperfr #2\else #1\fi}
+\begin{document}
+\begin{tikzpicture}[font=\footnotesize]
+\begin{axis}[ybar stacked, bar width=15pt, width=12cm, height=6.2cm,
+  xtick=data, xticklabels from table={area-sizes.dat}{label}, ymin=0,
+  xlabel={\T{Compounds in the area at issue}{Concessions de l'aire à l'émission}}, ylabel={\T{Code areas}{Aires de code}},
+  axis lines*=left, ymajorgrids, grid style={grid}, tick style={draw=none},
+  legend style={draw=none, at={(0.98,0.95)}, anchor=north east, cells={anchor=west}},
+  scaled y ticks=false, yticklabel style={/pgf/number format/.cd, 1000 sep={\,}},
+  enlarge x limits=0.07]
+\addplot[fill=inklight, draw=white] table[x=bin, y=d3] {area-sizes.dat};
+\addplot[fill=inkmid, draw=white] table[x=bin, y=d4] {area-sizes.dat};
+\addplot[fill=ink, draw=white] table[x=bin, y=d5] {area-sizes.dat};
+\legend{\T{3-digit name}{nom à 3 chiffres}, \T{4-digit name}{nom à 4 chiffres}, \T{5-digit name}{nom à 5 chiffres}}
+\end{axis}
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,23 @@
+% Building footprints per region by source: OpenStreetMap, and the Google Open Buildings and Microsoft
+% footprints added where OpenStreetMap has none. Data: sources.dat (tools/paper-figures.py).
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{fontspec}\setmainfont{LibertinusSans}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-Italic]
+\usepackage{pgfplots}\pgfplotsset{compat=1.18}
+\usepackage{pgfplotstable}
+\definecolor{ink}{HTML}{A3121C}\definecolor{inkmid}{HTML}{D9584F}\definecolor{inklight}{HTML}{F2B8B3}\definecolor{inkpale}{HTML}{FBE3E1}
+\definecolor{slate}{HTML}{8C9AA6}\definecolor{grid}{HTML}{DADDE0}
+\providecommand{\T}[2]{\ifdefined\paperfr #2\else #1\fi}
+\begin{document}
+\begin{tikzpicture}[font=\footnotesize]
+\begin{axis}[xbar stacked, bar width=7pt, width=11cm, height=8.4cm, xmin=0,
+  ytick=data, yticklabels from table={sources.dat}{region}, y dir=normal,
+  xlabel={\T{building footprints (thousands)}{empreintes de bâtiments (milliers)}},
+  axis lines*=left, xmajorgrids, grid style={grid}, tick style={draw=none},
+  xticklabel style={/pgf/number format/.cd,1000 sep={\,}},
+  legend style={draw=none, at={(0.98,0.03)}, anchor=south east, cells={anchor=west}}, enlarge y limits=0.04]
+\addplot[fill=ink, draw=white] table[y=i, x=osm] {sources.dat};
+\addplot[fill=slate, draw=white] table[y=i, x=other] {sources.dat};
+\legend{OpenStreetMap, Google Open Buildings \T{and}{et} Microsoft}
+\end{axis}
+\end{tikzpicture}
+\end{document}

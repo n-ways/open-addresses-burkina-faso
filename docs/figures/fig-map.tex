@@ -1,0 +1,24 @@
+% Burkina Faso's 351 communes shaded by issued compounds per square kilometre.
+% \paperfr (set by fig-map.fr.tex) switches the labels to French.
+% Data: communes-map.dat and communes-cities.dat (tools/paper-figures.py).
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{fontspec}\setmainfont{LibertinusSans}[Extension=.otf,UprightFont=*-Regular,BoldFont=*-Bold]
+\definecolor{d0}{HTML}{FCEDEC}\definecolor{d1}{HTML}{F6C9C5}\definecolor{d2}{HTML}{EC9890}
+\definecolor{d3}{HTML}{D9584F}\definecolor{d4}{HTML}{B8222A}\definecolor{d5}{HTML}{6E0A10}
+\tikzset{dens0/.style={fill=d0,draw=white,line width=0.2pt},dens1/.style={fill=d1,draw=white,line width=0.2pt},
+  dens2/.style={fill=d2,draw=white,line width=0.2pt},dens3/.style={fill=d3,draw=white,line width=0.2pt},
+  dens4/.style={fill=d4,draw=white,line width=0.2pt},dens5/.style={fill=d5,draw=white,line width=0.2pt}}
+\providecommand{\T}[2]{\ifdefined\paperfr #2\else #1\fi}
+\begin{document}
+\begin{tikzpicture}[font=\footnotesize]
+\input{communes-map.dat}
+\foreach \x/\y/\n in {5.980/4.532/Ouagadougou,1.908/2.741/Bobo-Dioulasso,4.744/4.354/Koudougou,4.659/6.349/Ouahigouya,6.618/5.613/Kaya,8.733/4.067/Fada N'Gourma,8.157/7.028/Dori,1.229/1.925/Banfora}
+  {\fill[black] (\x,\y) circle (0.7pt); \node[anchor=south west,inner sep=1pt,fill=white,fill opacity=0.7,text opacity=1] at (\x+0.05,\y+0.02) {\n};}
+\begin{scope}[shift={(12.1,0.3)}]
+  \node[anchor=west] at (0,3.15) {\bfseries \T{Compounds}{Concessions}}; \node[anchor=west] at (0,2.75) {\bfseries \T{per km\textsuperscript{2}}{par km\textsuperscript{2}}};
+  \foreach \c/\l [count=\i from 0] in {d0/\T{under 5}{moins de 5},d1/5--10,d2/10--20,d3/20--50,d4/50--200,d5/\T{200 or more}{200 et plus}}
+    {\fill[\c] (0,2.25-\i*0.4) rectangle +(0.45,0.3); \node[anchor=west] at (0.55,2.4-\i*0.4) {\l};}
+\end{scope}
+\draw[thick] (0.3,0.2) -- +(1.3566,0) node[midway,below] {100 km};
+\end{tikzpicture}
+\end{document}

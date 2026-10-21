@@ -1,0 +1,99 @@
+{
+  "country": "BF",
+  "name": "Burkina Faso",
+  "languages": [
+    "fr"
+  ],
+  "alphabet": "23456789CFGHJMPQRVWX",
+  "cellMetres": 3.0,
+  "buildingHeadroom": 2.0,
+  "regionLevel": "first-level division (ISO 3166-2)",
+  "regions": 13,
+  "buildings": 13313358,
+  "spotCodeLengths": [
+    7,
+    8
+  ],
+  "buildingCodeLengths": [
+    5,
+    6
+  ],
+  "regionsToSubdivide": [
+    "BF-01",
+    "BF-02",
+    "BF-04",
+    "BF-05",
+    "BF-06",
+    "BF-08",
+    "BF-09",
+    "BF-10",
+    "BF-12",
+    "BF-13"
+  ],
+  "spoken": {
+    "fr": {
+      "2": "deux",
+      "3": "trois",
+      "4": "quatre",
+      "5": "cinq",
+      "6": "six",
+      "7": "sept",
+      "8": "huit",
+      "9": "neuf",
+      "C": "cé",
+      "F": "effe",
+      "G": "gé",
+      "H": "ache",
+      "J": "ji",
+      "M": "emme",
+      "P": "pé",
+      "Q": "ku",
+      "R": "erre",
+      "V": "vé",
+      "W": "double vé",
+      "X": "ixe"
+    }
+  },
+  "existing": {
+    "system": "No national postcode or digital address system in practical use. La Poste Burkina Faso uses P.O. boxes in the form '01 BP 617 Ouagadougou 01' (box, then city and postal zone). Ouagadougou has coded street names in the form 'Rue 54.160' (often replaced by names) and municipal door numbers; Bobo-Dioulasso has a similar scheme.",
+    "status": "Re-checked 2026-10-17: urban addressing is being renewed city by city with EU funding. The AMBF/EU campaign (launched 22 Nov 2021) aims to code 16,000+ streets and number every door in Ouagadougou and Bobo-Dioulasso; Ouagadougou readdressed arrondissements 1 and 2, then from 2 Apr 2025 arrondissements 5 and 12 (2,277 streets, 43,000 doors, c. 240,000 people), to fix numbering broken by the 2009 redistricting into 12 arrondissements. Door numbers are painted on site; a municipal database is planned for utilities, post, fire service and cadastre. No public lookup site, API, open data or national format was found, and no national digital address (what3words/Plus Codes style) programme.",
+    "format": "Street code 'Rue AA.BBB' (e.g. 'Rue 54.160') plus door number; P.O. box 'NN BP NNNN Ville NN'",
+    "coverage": "Door-level in parts of Ouagadougou and Bobo-Dioulasso only; elsewhere landmarks and quarter (secteur/arrondissement) names.",
+    "openData": "None found. Street names and some addr:* tags exist in OpenStreetMap (ODbL).",
+    "openAlgorithm": "Open Location Code (Plus Codes) is open (Apache-2.0) and works offline.",
+    "recommendation": "Use coordinates plus Plus Codes as the shareable address (nways.ng/p/<Plus Code>), with OSM street names/codes where present and quarter + landmark descriptions ('Ouaga 2000, près de la SONABHY'). Accept 'Rue 12.34'-style codes as free text. Watch the Ouagadougou municipal address database for an open release.",
+    "lastChecked": "2026-10-17",
+    "sources": [
+      {
+        "url": "https://burkina24.com/2025/04/02/ouagadougou-modernise-son-adressage-pour-faciliter-la-localisation/",
+        "kind": "press",
+        "note": "Burkina24, 2 Apr 2025: EU-funded readdressing of Ouagadougou arrondissements 5 and 12 (2,277 streets, 43,000 doors) after arrondissements 1 and 2; updates numbering changed since the 2009 redistricting"
+      },
+      {
+        "url": "https://burkina24.com/2021/11/22/burkina-faso-la-campagne-dadressage-urbain-de-ouaga-et-de-bobo-lancee/",
+        "kind": "press",
+        "note": "Burkina24, 22 Nov 2021: AMBF/EU urban addressing campaign for Ouagadougou and Bobo-Dioulasso (16,000+ streets, a number on every door, free)"
+      },
+      {
+        "url": "https://burkina24.com/2021/06/12/burkina-faso-la-rue-54-160-rebaptisee-rue-pape-benoit-xvi/",
+        "kind": "press",
+        "note": "Example of Ouagadougou coded street name 'Rue 54.160' later given a name (Jun 2021)"
+      },
+      {
+        "url": "https://www.asce-lc.bf/",
+        "kind": "official",
+        "note": "ASCE-LC homepage (read 2026-10-17): numéro vert 80 00 11 02 (Mon-Thu 07:30-16:00, Fri 07:30-16:30), denunciation line +226 25 37 40 60, tel +226 25 37 40 56, info@asce-lc.bf, Avenue Pascal Zagré, Ouaga 2000"
+      },
+      {
+        "url": "https://github.com/google/open-location-code",
+        "kind": "other",
+        "note": "Open Location Code, Apache-2.0"
+      }
+    ]
+  },
+  "sources": {
+    "regions": "N-Ways regions (OpenStreetMap administrative boundaries, ODbL)",
+    "buildings": "OpenStreetMap (ODbL); Google Open Buildings (CC BY 4.0) and Microsoft building footprints (ODbL) via Overture Maps",
+    "existing": "N-Ways country research (docs/existing-systems.md)"
+  }
+}

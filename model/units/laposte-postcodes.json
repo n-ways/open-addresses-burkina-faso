@@ -1,0 +1,5240 @@
+[
+{
+"code": "10000",
+"type": "commune",
+"name": "OUAGADOUGOU",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "BILBALOGO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "CITE AN 3",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "CITE AN III",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "DAPOYA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "GOUNGHIN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "KAMSONGUEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "KOULOUBA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "NEMNIN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "PASPANGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "SAMADEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "ZONE MARCHE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "ZONE MINISTERIELLE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10000",
+"type": "quartier",
+"name": "ZONE ZACA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10001",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10002",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10003",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10004",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10005",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10006",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10007",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10008",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10010",
+"type": "quartier",
+"name": "CISSIN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10010",
+"type": "quartier",
+"name": "KOURITENGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10010",
+"type": "quartier",
+"name": "NAGRIN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10010",
+"type": "quartier",
+"name": "OUAGA 2000",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10010",
+"type": "quartier",
+"name": "PATTE D'OIE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10011",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10012",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10013",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10014",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10015",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10016",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10017",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10018",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "1200 LOGEMENTS",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "BALKUI",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "BENDOGO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "DASSASGHO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "DAYONGO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "GOUDREN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "KARPALA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "SAN-YIRI",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "TABTENGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "WAYALGEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "WEMTENGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "WIDTENGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "YAMTENGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "ZAD",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "ZAD ANNEXE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "ZOGONA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "ZONE 1",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10020",
+"type": "quartier",
+"name": "ZONE DU BOIS",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10021",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10022",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10023",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10024",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10025",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10026",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10027",
+"type": "agency",
+"name": "OUAGADOUGOU (agence)",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10030",
+"type": "quartier",
+"name": "KOSSODO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10030",
+"type": "quartier",
+"name": "ROUMTENGA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10030",
+"type": "quartier",
+"name": "SOGUEDEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10030",
+"type": "quartier",
+"name": "SOMGANDE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10030",
+"type": "quartier",
+"name": "TANGHEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "BASSINKO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "HAMDALAYE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "KAMBOINSIN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "KILWEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "KOLOGONABA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "LARLE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "NONSIN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "OUIDI",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "PAZANNI",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "POEDOGO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "RIMKIETA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "SAKOULA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "TAMPOUY",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "WATINOOMA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10040",
+"type": "quartier",
+"name": "YAGMA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "BAONORE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "BOANSA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "BOASSA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "BONHEUR VILLE",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "BOULMIOUGOU",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "CAMP LAMIZANA",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "KIENBONGUEN",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "PISSY",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "ZAGTOULI",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10050",
+"type": "quartier",
+"name": "ZONGO",
+"commune": "OUAGADOUGOU",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "10200",
+"type": "commune",
+"name": "SAABA",
+"commune": "SAABA",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "10201",
+"type": "agency",
+"name": "SAABA (agence)",
+"commune": "SAABA",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "10250",
+"type": "commune",
+"name": "TANGHIN-DASSOURI",
+"commune": "TANGHIN-DASSOURI",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "10251",
+"type": "agency",
+"name": "TANGHIN-DASSOURI (agence)",
+"commune": "TANGHIN-DASSOURI",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "10300",
+"type": "commune",
+"name": "PABRE",
+"commune": "PABRE",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "10350",
+"type": "commune",
+"name": "KOMKI IPALA",
+"commune": "KOMKI IPALA",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "10400",
+"type": "commune",
+"name": "KOUBRI",
+"commune": "KOUBRI",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "10401",
+"type": "agency",
+"name": "KOUBRI (agence)",
+"commune": "KOUBRI",
+"province": "KADIOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "20000",
+"type": "commune",
+"name": "ZINIARE",
+"commune": "ZINIARE",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "20001",
+"type": "agency",
+"name": "ZINIARE (agence)",
+"commune": "ZINIARE",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "20200",
+"type": "commune",
+"name": "ABSOUYA",
+"commune": "ABSOUYA",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=A"
+},
+{
+"code": "20250",
+"type": "commune",
+"name": "DAPELOGO",
+"commune": "DAPELOGO",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "20300",
+"type": "commune",
+"name": "LOUMBILA",
+"commune": "LOUMBILA",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "20350",
+"type": "commune",
+"name": "NAGREONGO",
+"commune": "NAGREONGO",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "20400",
+"type": "commune",
+"name": "OURGOU-MANEGA",
+"commune": "OURGOU-MANEGA",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "20450",
+"type": "commune",
+"name": "ZITENGA",
+"commune": "ZITENGA",
+"province": "OUBRITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "21000",
+"type": "commune",
+"name": "ZORGHO",
+"commune": "ZORGHO",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "21001",
+"type": "agency",
+"name": "ZORGHO (agence)",
+"commune": "ZORGHO",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "21200",
+"type": "commune",
+"name": "BOUDRY",
+"commune": "BOUDRY",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "21250",
+"type": "commune",
+"name": "KOGO",
+"commune": "KOGO",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "21300",
+"type": "commune",
+"name": "MEGUET",
+"commune": "MEGUET",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "21350",
+"type": "commune",
+"name": "MOGTEDO",
+"commune": "MOGTEDO",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "21400",
+"type": "commune",
+"name": "SALOGO",
+"commune": "SALOGO",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "21450",
+"type": "commune",
+"name": "ZAM",
+"commune": "ZAM",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "21500",
+"type": "commune",
+"name": "ZOUNGOU",
+"commune": "ZOUNGOU",
+"province": "GANZOURGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "22000",
+"type": "commune",
+"name": "BOUSSE",
+"commune": "BOUSSE",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "22001",
+"type": "agency",
+"name": "BOUSSE (agence)",
+"commune": "BOUSSE",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "22200",
+"type": "commune",
+"name": "LAYE",
+"commune": "LAYE",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "22250",
+"type": "commune",
+"name": "NIOU",
+"commune": "NIOU",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "22300",
+"type": "commune",
+"name": "SOURGOUBILA",
+"commune": "SOURGOUBILA",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "22301",
+"type": "agency",
+"name": "SOURGOUBILA (agence)",
+"commune": "SOURGOUBILA",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "22350",
+"type": "commune",
+"name": "TOEGHIN",
+"commune": "TOEGHIN",
+"province": "KOURWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "30000",
+"type": "commune",
+"name": "MANGA",
+"commune": "MANGA",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "30001",
+"type": "agency",
+"name": "MANGA (agence)",
+"commune": "MANGA",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "30200",
+"type": "commune",
+"name": "BERE",
+"commune": "BERE",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "30250",
+"type": "commune",
+"name": "BINDE",
+"commune": "BINDE",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "30300",
+"type": "commune",
+"name": "GOGO",
+"commune": "GOGO",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "30350",
+"type": "commune",
+"name": "GOMBOUSSOUGOU",
+"commune": "GOMBOUSSOUGOU",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "30400",
+"type": "commune",
+"name": "GUIBA",
+"commune": "GUIBA",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "30450",
+"type": "commune",
+"name": "NOBERE",
+"commune": "NOBERE",
+"province": "ZOUNDWEOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "31000",
+"type": "commune",
+"name": "KOMBISSIRI",
+"commune": "KOMBISSIRI",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "31001",
+"type": "agency",
+"name": "KOMBISSIRI (agence)",
+"commune": "KOMBISSIRI",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "31200",
+"type": "commune",
+"name": "DOULOUGOU",
+"commune": "DOULOUGOU",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "31201",
+"type": "agency",
+"name": "SAPONE (agence)",
+"commune": "SAPONE",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "31250",
+"type": "commune",
+"name": "GAONGO",
+"commune": "GAONGO",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "31300",
+"type": "commune",
+"name": "IPELCE",
+"commune": "IPELCE",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=I"
+},
+{
+"code": "31350",
+"type": "commune",
+"name": "KAYAO",
+"commune": "KAYAO",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "31400",
+"type": "commune",
+"name": "SAPONE",
+"commune": "SAPONE",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "31450",
+"type": "commune",
+"name": "TOECE",
+"commune": "TOECE",
+"province": "BAZEGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "32000",
+"type": "commune",
+"name": "PO",
+"commune": "PO",
+"province": "NAHOURI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "32001",
+"type": "agency",
+"name": "PO (agence)",
+"commune": "PO",
+"province": "NAHOURI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "32200",
+"type": "commune",
+"name": "GUIARO",
+"commune": "GUIARO",
+"province": "NAHOURI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "32250",
+"type": "commune",
+"name": "TIEBELE",
+"commune": "TIEBELE",
+"province": "NAHOURI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "32300",
+"type": "commune",
+"name": "ZECCO",
+"commune": "ZECCO",
+"province": "NAHOURI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "32350",
+"type": "commune",
+"name": "ZIOU",
+"commune": "ZIOU",
+"province": "NAHOURI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "40000",
+"type": "commune",
+"name": "KOUDOUGOU",
+"commune": "KOUDOUGOU",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "40001",
+"type": "agency",
+"name": "KOUDOUGOU (agence)",
+"commune": "KOUDOUGOU",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "40200",
+"type": "commune",
+"name": "BINGO",
+"commune": "BINGO",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "40250",
+"type": "commune",
+"name": "IMASGO",
+"commune": "IMASGO",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=I"
+},
+{
+"code": "40300",
+"type": "commune",
+"name": "KINDI",
+"commune": "KINDI",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "40301",
+"type": "agency",
+"name": "KINDI (agence)",
+"commune": "KINDI",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "40350",
+"type": "commune",
+"name": "KOKOLOGO",
+"commune": "KOKOLOGO",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "40400",
+"type": "commune",
+"name": "NANORO",
+"commune": "NANORO",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "40450",
+"type": "commune",
+"name": "NIANDALA",
+"commune": "NIANDALA",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "40500",
+"type": "commune",
+"name": "PELLA",
+"commune": "PELLA",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "40550",
+"type": "commune",
+"name": "POA",
+"commune": "POA",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "40600",
+"type": "commune",
+"name": "RAMONGO",
+"commune": "RAMONGO",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=R"
+},
+{
+"code": "40650",
+"type": "commune",
+"name": "SABOU",
+"commune": "SABOU",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "40651",
+"type": "agency",
+"name": "SABOU (agence)",
+"commune": "SABOU",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "40700",
+"type": "commune",
+"name": "SIGLE",
+"commune": "SIGLE",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "40750",
+"type": "commune",
+"name": "SOAW",
+"commune": "SOAW",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "40800",
+"type": "commune",
+"name": "SOURGOU",
+"commune": "SOURGOU",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "40850",
+"type": "commune",
+"name": "THYOU",
+"commune": "THYOU",
+"province": "BOULKIEMDE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "41000",
+"type": "commune",
+"name": "REO",
+"commune": "REO",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=R"
+},
+{
+"code": "41001",
+"type": "agency",
+"name": "REO (agence)",
+"commune": "REO",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=R"
+},
+{
+"code": "41200",
+"type": "commune",
+"name": "DASSA",
+"commune": "DASSA",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "41250",
+"type": "commune",
+"name": "DIDYR",
+"commune": "DIDYR",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "41300",
+"type": "commune",
+"name": "GODYR",
+"commune": "GODYR",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "41350",
+"type": "commune",
+"name": "KORDIE",
+"commune": "KORDIE",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "41400",
+"type": "commune",
+"name": "KYON",
+"commune": "KYON",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "41450",
+"type": "commune",
+"name": "POUNI",
+"commune": "POUNI",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "41500",
+"type": "commune",
+"name": "TENADO",
+"commune": "TENADO",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "41550",
+"type": "commune",
+"name": "ZAMO",
+"commune": "ZAMO",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "41600",
+"type": "commune",
+"name": "ZAWARA",
+"commune": "ZAWARA",
+"province": "SANGUIE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "42000",
+"type": "commune",
+"name": "LEO",
+"commune": "LEO",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "42001",
+"type": "agency",
+"name": "LEO (agence)",
+"commune": "LEO",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "42200",
+"type": "commune",
+"name": "BIEHA",
+"commune": "BIEHA",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "42250",
+"type": "commune",
+"name": "BOURA",
+"commune": "BOURA",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "42300",
+"type": "commune",
+"name": "NEBIELIANAYOU",
+"commune": "NEBIELIANAYOU",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "42350",
+"type": "commune",
+"name": "NIAMBOURI",
+"commune": "NIAMBOURI",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "42400",
+"type": "commune",
+"name": "SILLY",
+"commune": "SILLY",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_ville.php?Loc=4"
+},
+{
+"code": "42450",
+"type": "commune",
+"name": "TÔ",
+"commune": "TÔ",
+"province": "SISSILI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "43000",
+"type": "commune",
+"name": "SAPOUY",
+"commune": "SAPOUY",
+"province": "ZIRO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "43200",
+"type": "commune",
+"name": "BAKATA",
+"commune": "BAKATA",
+"province": "ZIRO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "43250",
+"type": "commune",
+"name": "BOUGNOUNOU",
+"commune": "BOUGNOUNOU",
+"province": "ZIRO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "43300",
+"type": "commune",
+"name": "CASSOU",
+"commune": "CASSOU",
+"province": "ZIRO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=C"
+},
+{
+"code": "43350",
+"type": "commune",
+"name": "DALO",
+"commune": "DALO",
+"province": "ZIRO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "43400",
+"type": "commune",
+"name": "GAO",
+"commune": "GAO",
+"province": "ZIRO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "50000",
+"type": "commune",
+"name": "KAYA",
+"commune": "KAYA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "50001",
+"type": "agency",
+"name": "KAYA (agence)",
+"commune": "KAYA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "50200",
+"type": "commune",
+"name": "BARSALOGHO",
+"commune": "BARSALOGHO",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "50250",
+"type": "commune",
+"name": "BOUSSOUMA",
+"commune": "BOUSSOUMA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "50300",
+"type": "commune",
+"name": "DABLO",
+"commune": "DABLO",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "50350",
+"type": "commune",
+"name": "KORSIMORO",
+"commune": "KORSIMORO",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "50351",
+"type": "agency",
+"name": "KORSIMORO (agence)",
+"commune": "KORSIMORO",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "50400",
+"type": "commune",
+"name": "MANE",
+"commune": "MANE",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "50450",
+"type": "commune",
+"name": "NAMISSIGUIMA",
+"commune": "NAMISSIGUIMA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "50500",
+"type": "commune",
+"name": "PENSA",
+"commune": "PENSA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "50550",
+"type": "commune",
+"name": "PIBAORE",
+"commune": "PIBAORE",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "50600",
+"type": "commune",
+"name": "PISSILA",
+"commune": "PISSILA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "50601",
+"type": "agency",
+"name": "PISSILA (agence)",
+"commune": "PISSILA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "50650",
+"type": "commune",
+"name": "ZIGA",
+"commune": "ZIGA",
+"province": "SANMATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "51000",
+"type": "commune",
+"name": "KONGOUSSI",
+"commune": "KONGOUSSI",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "51001",
+"type": "agency",
+"name": "KONGOUSSI (agence)",
+"commune": "KONGOUSSI",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "51200",
+"type": "commune",
+"name": "BOURZANGA",
+"commune": "BOURZANGA",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "51250",
+"type": "commune",
+"name": "GUIBARE",
+"commune": "GUIBARE",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "51300",
+"type": "commune",
+"name": "NASSERE",
+"commune": "NASSERE",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "51350",
+"type": "commune",
+"name": "ROLLO",
+"commune": "ROLLO",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=R"
+},
+{
+"code": "51400",
+"type": "commune",
+"name": "ROUKO",
+"commune": "ROUKO",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=R"
+},
+{
+"code": "51450",
+"type": "commune",
+"name": "SABSE",
+"commune": "SABSE",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "51500",
+"type": "commune",
+"name": "TIKARE",
+"commune": "TIKARE",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "51501",
+"type": "agency",
+"name": "TIKARE (agence)",
+"commune": "TIKARE",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "51550",
+"type": "commune",
+"name": "ZIMTENGA",
+"commune": "ZIMTENGA",
+"province": "BAM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "52000",
+"type": "commune",
+"name": "BOULSA",
+"commune": "BOULSA",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "52001",
+"type": "agency",
+"name": "BOULSA (agence)",
+"commune": "BOULSA",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "52200",
+"type": "commune",
+"name": "BOALA",
+"commune": "BOALA",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "52250",
+"type": "commune",
+"name": "BOUROUM",
+"commune": "BOUROUM",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "52300",
+"type": "commune",
+"name": "DARGHO",
+"commune": "DARGHO",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "52350",
+"type": "commune",
+"name": "NAGBINGOU",
+"commune": "NAGBINGOU",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "52400",
+"type": "commune",
+"name": "TOUGOURI",
+"commune": "TOUGOURI",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "52450",
+"type": "commune",
+"name": "YALGO",
+"commune": "YALGO",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "52500",
+"type": "commune",
+"name": "ZEGUEDEGUIN",
+"commune": "ZEGUEDEGUIN",
+"province": "NAMENTENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "55000",
+"type": "commune",
+"name": "OUAHIGOUYA",
+"commune": "OUAHIGOUYA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "55001",
+"type": "agency",
+"name": "OUAHIGOUYA (agence)",
+"commune": "OUAHIGOUYA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "55002",
+"type": "agency",
+"name": "OUAHIGOUYA (agence)",
+"commune": "OUAHIGOUYA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "55200",
+"type": "commune",
+"name": "BARGA",
+"commune": "BARGA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "55250",
+"type": "commune",
+"name": "KAIN",
+"commune": "KAIN",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "55300",
+"type": "commune",
+"name": "KALSAGA",
+"commune": "KALSAGA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "55350",
+"type": "commune",
+"name": "KOSSOUKA",
+"commune": "KOSSOUKA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "55400",
+"type": "commune",
+"name": "KOUMBRI",
+"commune": "KOUMBRI",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "55450",
+"type": "commune",
+"name": "NAMISSIGUIMA",
+"commune": "NAMISSIGUIMA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "55500",
+"type": "commune",
+"name": "OULA",
+"commune": "OULA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "55550",
+"type": "commune",
+"name": "RAMBO",
+"commune": "RAMBO",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=R"
+},
+{
+"code": "55600",
+"type": "commune",
+"name": "SEGUENAGA",
+"commune": "SEGUENAGA",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "55650",
+"type": "commune",
+"name": "TANGAYE",
+"commune": "TANGAYE",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "55700",
+"type": "commune",
+"name": "THIOU",
+"commune": "THIOU",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "55750",
+"type": "commune",
+"name": "ZOGORE",
+"commune": "ZOGORE",
+"province": "YATENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "56000",
+"type": "commune",
+"name": "TITAO",
+"commune": "TITAO",
+"province": "LOROUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "56001",
+"type": "agency",
+"name": "TITAO (agence)",
+"commune": "TITAO",
+"province": "LOROUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "56200",
+"type": "commune",
+"name": "BANH",
+"commune": "BANH",
+"province": "LOROUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "56250",
+"type": "commune",
+"name": "OUIDIGUI",
+"commune": "OUIDIGUI",
+"province": "LOROUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "56300",
+"type": "commune",
+"name": "SOLLE",
+"commune": "SOLLE",
+"province": "LOROUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "57000",
+"type": "commune",
+"name": "YAKO",
+"commune": "YAKO",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "57001",
+"type": "agency",
+"name": "YAKO (agence)",
+"commune": "YAKO",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "57200",
+"type": "commune",
+"name": "ARBOLE",
+"commune": "ARBOLE",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=A"
+},
+{
+"code": "57250",
+"type": "commune",
+"name": "BAGARE",
+"commune": "BAGARE",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "57300",
+"type": "commune",
+"name": "BOKIN",
+"commune": "BOKIN",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "57350",
+"type": "commune",
+"name": "GOMPONSOM",
+"commune": "GOMPONSOM",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "57400",
+"type": "commune",
+"name": "KIRSI",
+"commune": "KIRSI",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "57450",
+"type": "commune",
+"name": "LÂ-TODIN",
+"commune": "LÂ-TODIN",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "57500",
+"type": "commune",
+"name": "PILIMPIKOU",
+"commune": "PILIMPIKOU",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "57550",
+"type": "commune",
+"name": "SAMBA",
+"commune": "SAMBA",
+"province": "PASSORE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "58000",
+"type": "commune",
+"name": "GOURCY",
+"commune": "GOURCY",
+"province": "ZANDOMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "58001",
+"type": "agency",
+"name": "GOURCY (agence)",
+"commune": "GOURCY",
+"province": "ZANDOMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "58200",
+"type": "commune",
+"name": "BASSI",
+"commune": "BASSI",
+"province": "ZANDOMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "58250",
+"type": "commune",
+"name": "BOUSSOU",
+"commune": "BOUSSOU",
+"province": "ZANDOMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "58300",
+"type": "commune",
+"name": "LEBA",
+"commune": "LEBA",
+"province": "ZANDOMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "58350",
+"type": "commune",
+"name": "TOUGO",
+"commune": "TOUGO",
+"province": "ZANDOMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "60000",
+"type": "commune",
+"name": "DORI",
+"commune": "DORI",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "60001",
+"type": "agency",
+"name": "DORI (agence)",
+"commune": "DORI",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "60200",
+"type": "commune",
+"name": "BANI",
+"commune": "BANI",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "60250",
+"type": "commune",
+"name": "FALANGOUTOU",
+"commune": "FALANGOUTOU",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "60300",
+"type": "commune",
+"name": "GORGADJI",
+"commune": "GORGADJI",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "60350",
+"type": "commune",
+"name": "SAMPELGA",
+"commune": "SAMPELGA",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "60400",
+"type": "commune",
+"name": "SEYTENGA",
+"commune": "SEYTENGA",
+"province": "SENO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "61000",
+"type": "commune",
+"name": "GOROM-GOROM",
+"commune": "GOROM-GOROM",
+"province": "OUDALAN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "61001",
+"type": "agency",
+"name": "GOROM-GOROM (agence)",
+"commune": "GOROM-GOROM",
+"province": "OUDALAN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "61200",
+"type": "commune",
+"name": "DEOU",
+"commune": "DEOU",
+"province": "OUDALAN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "61250",
+"type": "commune",
+"name": "MARKOYE",
+"commune": "MARKOYE",
+"province": "OUDALAN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "61300",
+"type": "commune",
+"name": "OURSI",
+"commune": "OURSI",
+"province": "OUDALAN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "61350",
+"type": "commune",
+"name": "TINAKOFF",
+"commune": "TINAKOFF",
+"province": "OUDALAN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "62000",
+"type": "commune",
+"name": "DJIBO",
+"commune": "DJIBO",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "62001",
+"type": "agency",
+"name": "DJIBO (agence)",
+"commune": "DJIBO",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "62200",
+"type": "commune",
+"name": "ARBINDA",
+"commune": "ARBINDA",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=A"
+},
+{
+"code": "62201",
+"type": "agency",
+"name": "ARBINDA (agence)",
+"commune": "ARBINDA",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=A"
+},
+{
+"code": "62250",
+"type": "commune",
+"name": "BARABOULE",
+"commune": "BARABOULE",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "62300",
+"type": "commune",
+"name": "DJIGUEL",
+"commune": "DJIGUEL",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "62350",
+"type": "commune",
+"name": "KELBO",
+"commune": "KELBO",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "62400",
+"type": "commune",
+"name": "KOUTOUGOU",
+"commune": "KOUTOUGOU",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "62450",
+"type": "commune",
+"name": "NASSOUMBOU",
+"commune": "NASSOUMBOU",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "62500",
+"type": "commune",
+"name": "POBE-MENGAO",
+"commune": "POBE-MENGAO",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "62550",
+"type": "commune",
+"name": "TONGOMAYEL",
+"commune": "TONGOMAYEL",
+"province": "SOUM",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "63000",
+"type": "commune",
+"name": "SEBBA",
+"commune": "SEBBA",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "63001",
+"type": "agency",
+"name": "SEBBA (agence)",
+"commune": "SEBBA",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "63200",
+"type": "commune",
+"name": "BOUNDORE",
+"commune": "BOUNDORE",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "63250",
+"type": "commune",
+"name": "MANSILA",
+"commune": "MANSILA",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "63300",
+"type": "commune",
+"name": "SOLHAN",
+"commune": "SOLHAN",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "63350",
+"type": "commune",
+"name": "TANKOUGOUNADIE",
+"commune": "TANKOUGOUNADIE",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "63400",
+"type": "commune",
+"name": "TITABE",
+"commune": "TITABE",
+"province": "YAGHA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "70000",
+"type": "commune",
+"name": "TENKODOGO",
+"commune": "TENKODOGO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "70001",
+"type": "agency",
+"name": "TENKODOGO (agence)",
+"commune": "TENKODOGO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "70200",
+"type": "commune",
+"name": "GARANGO",
+"commune": "GARANGO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "70201",
+"type": "agency",
+"name": "GARANGO (agence)",
+"commune": "GARANGO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "70250",
+"type": "commune",
+"name": "BITOU",
+"commune": "BITOU",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70251",
+"type": "agency",
+"name": "BITOU (agence)",
+"commune": "BITOU",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70300",
+"type": "commune",
+"name": "BAGRE",
+"commune": "BAGRE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70301",
+"type": "agency",
+"name": "BAGRE (agence)",
+"commune": "BAGRE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70350",
+"type": "commune",
+"name": "BANE",
+"commune": "BANE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70400",
+"type": "commune",
+"name": "BEGUEDO",
+"commune": "BEGUEDO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70401",
+"type": "agency",
+"name": "BEGUEDO (agence)",
+"commune": "BEGUEDO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70450",
+"type": "commune",
+"name": "BISSIGA",
+"commune": "BISSIGA",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70500",
+"type": "commune",
+"name": "BOUSSOUMA",
+"commune": "BOUSSOUMA",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "70550",
+"type": "commune",
+"name": "CINKANSE",
+"commune": "CINKANSE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=C"
+},
+{
+"code": "70551",
+"type": "agency",
+"name": "CINKANSE (agence)",
+"commune": "CINKANSE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=C"
+},
+{
+"code": "70600",
+"type": "commune",
+"name": "KOMTOEGA",
+"commune": "KOMTOEGA",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "70650",
+"type": "commune",
+"name": "NIAOGHO",
+"commune": "NIAOGHO",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "70700",
+"type": "commune",
+"name": "ZABRE",
+"commune": "ZABRE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "70701",
+"type": "agency",
+"name": "ZABRE (agence)",
+"commune": "ZABRE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "70750",
+"type": "commune",
+"name": "ZOAGA",
+"commune": "ZOAGA",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "70800",
+"type": "commune",
+"name": "ZONSE",
+"commune": "ZONSE",
+"province": "BOULGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "71000",
+"type": "commune",
+"name": "OUARGAYE",
+"commune": "OUARGAYE",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "71001",
+"type": "agency",
+"name": "OUARGAYE (agence)",
+"commune": "OUARGAYE",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "71200",
+"type": "commune",
+"name": "COMIN-YANGA",
+"commune": "COMIN-YANGA",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=C"
+},
+{
+"code": "71250",
+"type": "commune",
+"name": "DOURTENGA",
+"commune": "DOURTENGA",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "71300",
+"type": "commune",
+"name": "LALGAYE",
+"commune": "LALGAYE",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "71350",
+"type": "commune",
+"name": "SANGHA",
+"commune": "SANGHA",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "71400",
+"type": "commune",
+"name": "SOUDOUGUI",
+"commune": "SOUDOUGUI",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "71450",
+"type": "commune",
+"name": "YARATENGA",
+"commune": "YARATENGA",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "71500",
+"type": "commune",
+"name": "YONDE",
+"commune": "YONDE",
+"province": "KOULPELOGO",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "72000",
+"type": "commune",
+"name": "KOUPELA",
+"commune": "KOUPELA",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "72001",
+"type": "agency",
+"name": "KOUPELA (agence)",
+"commune": "KOUPELA",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "72200",
+"type": "commune",
+"name": "POUYTENGA",
+"commune": "POUYTENGA",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "72201",
+"type": "agency",
+"name": "POUYTENGA (agence)",
+"commune": "POUYTENGA",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "72250",
+"type": "commune",
+"name": "AMDENTENGA",
+"commune": "AMDENTENGA",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=A"
+},
+{
+"code": "72300",
+"type": "commune",
+"name": "BASKOURE",
+"commune": "BASKOURE",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "72350",
+"type": "commune",
+"name": "DIALGAYE",
+"commune": "DIALGAYE",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "72400",
+"type": "commune",
+"name": "GOUNGHIN",
+"commune": "GOUNGHIN",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "72450",
+"type": "commune",
+"name": "KANDO",
+"commune": "KANDO",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "72500",
+"type": "commune",
+"name": "TENSOBENTENGA",
+"commune": "TENSOBENTENGA",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "72550",
+"type": "commune",
+"name": "YARGO",
+"commune": "YARGO",
+"province": "KOURITENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "75000",
+"type": "commune",
+"name": "FADA N'GOURMA",
+"commune": "FADA N'GOURMA",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "75001",
+"type": "agency",
+"name": "FADA N'GOURMA (agence)",
+"commune": "FADA N'GOURMA",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "75200",
+"type": "commune",
+"name": "DIABO",
+"commune": "DIABO",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "75250",
+"type": "commune",
+"name": "DIAPANGOU",
+"commune": "DIAPANGOU",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "75300",
+"type": "commune",
+"name": "MATIACOALI",
+"commune": "MATIACOALI",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "75350",
+"type": "commune",
+"name": "TIBGA",
+"commune": "TIBGA",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "75400",
+"type": "commune",
+"name": "YAMBA",
+"commune": "YAMBA",
+"province": "GOURMA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "76000",
+"type": "commune",
+"name": "BOGANDE",
+"commune": "BOGANDE",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "76001",
+"type": "agency",
+"name": "BOGANDE (agence)",
+"commune": "BOGANDE",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "76200",
+"type": "commune",
+"name": "BILANGA",
+"commune": "BILANGA",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "76250",
+"type": "commune",
+"name": "COALLA",
+"commune": "COALLA",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=C"
+},
+{
+"code": "76300",
+"type": "commune",
+"name": "LIPTOUGOU",
+"commune": "LIPTOUGOU",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "76350",
+"type": "commune",
+"name": "MANI",
+"commune": "MANI",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "76351",
+"type": "agency",
+"name": "MANI (agence)",
+"commune": "MANI",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "76400",
+"type": "commune",
+"name": "PIELA",
+"commune": "PIELA",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "76450",
+"type": "commune",
+"name": "THION",
+"commune": "THION",
+"province": "GNAGNA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "77000",
+"type": "commune",
+"name": "GAYERI",
+"commune": "GAYERI",
+"province": "KOMANDJARI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "77001",
+"type": "agency",
+"name": "GAYERI (agence)",
+"commune": "GAYERI",
+"province": "KOMANDJARI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "77200",
+"type": "commune",
+"name": "BATIEBOUGOU",
+"commune": "BATIEBOUGOU",
+"province": "KOMANDJARI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "77250",
+"type": "commune",
+"name": "FOUTOURI",
+"commune": "FOUTOURI",
+"province": "KOMANDJARI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "78000",
+"type": "commune",
+"name": "PAMA",
+"commune": "PAMA",
+"province": "KOMPIENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "78001",
+"type": "agency",
+"name": "PAMA (agence)",
+"commune": "PAMA",
+"province": "KOMPIENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "78200",
+"type": "commune",
+"name": "KOMPIENGA",
+"commune": "KOMPIENGA",
+"province": "KOMPIENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "78250",
+"type": "commune",
+"name": "MADJOARI",
+"commune": "MADJOARI",
+"province": "KOMPIENGA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "79000",
+"type": "commune",
+"name": "DIAPAGA",
+"commune": "DIAPAGA",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "79001",
+"type": "agency",
+"name": "DIAPAGA (agence)",
+"commune": "DIAPAGA",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "79200",
+"type": "commune",
+"name": "BOTOU",
+"commune": "BOTOU",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "79250",
+"type": "commune",
+"name": "KANTCHARI",
+"commune": "KANTCHARI",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "79251",
+"type": "agency",
+"name": "KANTCHARI (agence)",
+"commune": "KANTCHARI",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "79300",
+"type": "commune",
+"name": "LOGOBOU",
+"commune": "LOGOBOU",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "79350",
+"type": "commune",
+"name": "NAMOUNOU",
+"commune": "NAMOUNOU",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "79351",
+"type": "agency",
+"name": "NAMOUNOU (agence)",
+"commune": "NAMOUNOU",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "79400",
+"type": "commune",
+"name": "PARTAGA",
+"commune": "PARTAGA",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "79450",
+"type": "commune",
+"name": "TAMBAGA",
+"commune": "TAMBAGA",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "79500",
+"type": "commune",
+"name": "TANSARGA",
+"commune": "TANSARGA",
+"province": "TAPOA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "80000",
+"type": "commune",
+"name": "DEDOUGOU",
+"commune": "DEDOUGOU",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "80001",
+"type": "agency",
+"name": "DEDOUGOU (agence)",
+"commune": "DEDOUGOU",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "80200",
+"type": "commune",
+"name": "BONDOKUY",
+"commune": "BONDOKUY",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "80201",
+"type": "agency",
+"name": "BONDOKUY (agence)",
+"commune": "BONDOKUY",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "80250",
+"type": "commune",
+"name": "DOUROULA",
+"commune": "DOUROULA",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "80300",
+"type": "commune",
+"name": "KONA",
+"commune": "KONA",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "80350",
+"type": "commune",
+"name": "OUARKOYE",
+"commune": "OUARKOYE",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "80400",
+"type": "commune",
+"name": "SAFANE",
+"commune": "SAFANE",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "80401",
+"type": "agency",
+"name": "SAFANE (agence)",
+"commune": "SAFANE",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "80450",
+"type": "commune",
+"name": "TCHERIBA",
+"commune": "TCHERIBA",
+"province": "MOUHOUN",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "81000",
+"type": "commune",
+"name": "BOROMO",
+"commune": "BOROMO",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "81001",
+"type": "agency",
+"name": "BOROMO (agence)",
+"commune": "BOROMO",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "81200",
+"type": "commune",
+"name": "BAGASSI",
+"commune": "BAGASSI",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "81250",
+"type": "commune",
+"name": "BANA",
+"commune": "BANA",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "81300",
+"type": "commune",
+"name": "FARA",
+"commune": "FARA",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "81350",
+"type": "commune",
+"name": "OURY",
+"commune": "OURY",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "81400",
+"type": "commune",
+"name": "PA",
+"commune": "PA",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "81450",
+"type": "commune",
+"name": "POMPOÏ",
+"commune": "POMPOÏ",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "81500",
+"type": "commune",
+"name": "POURA",
+"commune": "POURA",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "81501",
+"type": "agency",
+"name": "POURA (agence)",
+"commune": "POURA",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "81550",
+"type": "commune",
+"name": "SIBY",
+"commune": "SIBY",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "81600",
+"type": "commune",
+"name": "YAHO",
+"commune": "YAHO",
+"province": "BALE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "82000",
+"type": "commune",
+"name": "SOLENZO",
+"commune": "SOLENZO",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "82001",
+"type": "agency",
+"name": "SOLENZO (agence)",
+"commune": "SOLENZO",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "82200",
+"type": "commune",
+"name": "BALAVE",
+"commune": "BALAVE",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "82250",
+"type": "commune",
+"name": "KOUKA",
+"commune": "KOUKA",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "82251",
+"type": "agency",
+"name": "KOUKA (agence)",
+"commune": "KOUKA",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "82300",
+"type": "commune",
+"name": "SAMI",
+"commune": "SAMI",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "82350",
+"type": "commune",
+"name": "SANABA",
+"commune": "SANABA",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "82400",
+"type": "commune",
+"name": "TANSILA",
+"commune": "TANSILA",
+"province": "BANWA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "83000",
+"type": "commune",
+"name": "NOUNA",
+"commune": "NOUNA",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "83001",
+"type": "agency",
+"name": "NOUNA (agence)",
+"commune": "NOUNA",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "83200",
+"type": "commune",
+"name": "BARANI",
+"commune": "BARANI",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "83250",
+"type": "commune",
+"name": "BOMBOROKUY",
+"commune": "BOMBOROKUY",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "83300",
+"type": "commune",
+"name": "BOURASSO",
+"commune": "BOURASSO",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "83350",
+"type": "commune",
+"name": "DJIBASSO",
+"commune": "DJIBASSO",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "83351",
+"type": "agency",
+"name": "DJIBASSO (agence)",
+"commune": "DJIBASSO",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "83400",
+"type": "commune",
+"name": "DOKUY",
+"commune": "DOKUY",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "83450",
+"type": "commune",
+"name": "DOUMBALA",
+"commune": "DOUMBALA",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "83500",
+"type": "commune",
+"name": "KOMBORI",
+"commune": "KOMBORI",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "83550",
+"type": "commune",
+"name": "MADOUBA",
+"commune": "MADOUBA",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "83600",
+"type": "commune",
+"name": "SONO",
+"commune": "SONO",
+"province": "KOSSI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "84000",
+"type": "commune",
+"name": "TOMA",
+"commune": "TOMA",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "84001",
+"type": "agency",
+"name": "TOMA (agence)",
+"commune": "TOMA",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "84200",
+"type": "commune",
+"name": "GASSAM",
+"commune": "GASSAM",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "84201",
+"type": "agency",
+"name": "GASSAM (agence)",
+"commune": "GASSAM",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "84250",
+"type": "commune",
+"name": "GOSSINA",
+"commune": "GOSSINA",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "84300",
+"type": "commune",
+"name": "KOUGNY",
+"commune": "KOUGNY",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "84350",
+"type": "commune",
+"name": "YABA",
+"commune": "YABA",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "84400",
+"type": "commune",
+"name": "YE",
+"commune": "YE",
+"province": "NAYALA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Y"
+},
+{
+"code": "85000",
+"type": "commune",
+"name": "TOUGAN",
+"commune": "TOUGAN",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "85001",
+"type": "agency",
+"name": "TOUGAN (agence)",
+"commune": "TOUGAN",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "85200",
+"type": "commune",
+"name": "DI",
+"commune": "DI",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "85250",
+"type": "commune",
+"name": "GOMBORO",
+"commune": "GOMBORO",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "85300",
+"type": "commune",
+"name": "KASSOUM",
+"commune": "KASSOUM",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "85350",
+"type": "commune",
+"name": "KIEMBARA",
+"commune": "KIEMBARA",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "85351",
+"type": "agency",
+"name": "KIEMBARA (agence)",
+"commune": "KIEMBARA",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "85400",
+"type": "commune",
+"name": "LANFIERA",
+"commune": "LANFIERA",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "85450",
+"type": "commune",
+"name": "LANKOUE",
+"commune": "LANKOUE",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "85500",
+"type": "commune",
+"name": "TOENI",
+"commune": "TOENI",
+"province": "SOUROU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "90000",
+"type": "commune",
+"name": "BOBO DIOULASSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "ACCART VILLE SUD",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "BOLMAKOTE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "HAMDALAYE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "KOKO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "SAINT ETIENNE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "SIKASSO-CIRA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "TOUNOUMA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "ZONE RESIDENTIELLE A",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90000",
+"type": "quartier",
+"name": "ZONE RESIDENTIELLE B",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90001",
+"type": "agency",
+"name": "BOBO DIOULASSO (agence)",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90002",
+"type": "agency",
+"name": "BOBO DIOULASSO (agence)",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90003",
+"type": "agency",
+"name": "BOBO DIOULASSO (agence)",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90004",
+"type": "agency",
+"name": "BOBO DIOULASSO (agence)",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90005",
+"type": "agency",
+"name": "BOBO DIOULASSO (agence)",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90006",
+"type": "agency",
+"name": "BOBO DIOULASSO (agence)",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "BARE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "BINDOUGOUSSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "BORODOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "DOGONA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "FARAKAN",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "KEKELESSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "KOTEDOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "KOUENTOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "LEGUEMA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "MOUSSOBADOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "NIAMADOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "NIENETA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "NOUMOUSSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "OUEZZIN VILLE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "SOGOSSAGASSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "TONDOGOSSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90010",
+"type": "quartier",
+"name": "YEGUERESSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "ACCART VILLE NORD",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "BANA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "BELLE VILLE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "COLMA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "COLSAMA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "DAFINSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "DIARRADOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "DINDERESSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "DOUFIGUISSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "KIMIDOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "KOKOROWE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "MEDINA COURA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "MOUKOMA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "NASSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "OUOLOKOTO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "PANAMASSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "SANTIDOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90020",
+"type": "quartier",
+"name": "YEGUERE",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "DARSALAMY",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "FARAKOBA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "KODENI",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "KOUMI",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "KUA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "KUINIMA",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "LAFIABOUGOU",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "LOGOFOUROUSSO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "MATOURKO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "MOAMY",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "SAMAGAN",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90030",
+"type": "quartier",
+"name": "SARFALAO",
+"commune": "BOBO DIOULASSO",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90200",
+"type": "commune",
+"name": "BAMA",
+"commune": "BAMA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90201",
+"type": "agency",
+"name": "BAMA (agence)",
+"commune": "BAMA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "90250",
+"type": "commune",
+"name": "DANDE",
+"commune": "DANDE",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "90300",
+"type": "commune",
+"name": "FARAMANA",
+"commune": "FARAMANA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "90301",
+"type": "agency",
+"name": "FARAMANA (agence)",
+"commune": "FARAMANA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "90350",
+"type": "commune",
+"name": "FÔ",
+"commune": "FÔ",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "90400",
+"type": "commune",
+"name": "KARANGASSO-VIGUE",
+"commune": "KARANGASSO-VIGUE",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "90450",
+"type": "commune",
+"name": "KARANGASSO-SAMBA",
+"commune": "KARANGASSO-SAMBA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "90500",
+"type": "commune",
+"name": "KOUNDOUGOU",
+"commune": "KOUNDOUGOU",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "90550",
+"type": "commune",
+"name": "LENE",
+"commune": "LENE",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "90600",
+"type": "commune",
+"name": "PADEMA",
+"commune": "PADEMA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "90650",
+"type": "commune",
+"name": "PENI",
+"commune": "PENI",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "90700",
+"type": "commune",
+"name": "SATIRI",
+"commune": "SATIRI",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "90750",
+"type": "commune",
+"name": "TOUSSIANA",
+"commune": "TOUSSIANA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "90751",
+"type": "agency",
+"name": "TOUSSIANA (agence)",
+"commune": "TOUSSIANA",
+"province": "HOUET",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "91000",
+"type": "commune",
+"name": "ORODARA",
+"commune": "ORODARA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "91001",
+"type": "agency",
+"name": "ORODARA (agence)",
+"commune": "ORODARA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "91200",
+"type": "commune",
+"name": "BANZON",
+"commune": "BANZON",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "91250",
+"type": "commune",
+"name": "DJIGOUERA",
+"commune": "DJIGOUERA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "91300",
+"type": "commune",
+"name": "KANGALA",
+"commune": "KANGALA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "91350",
+"type": "commune",
+"name": "KAYAN",
+"commune": "KAYAN",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "91400",
+"type": "commune",
+"name": "KOLOKO",
+"commune": "KOLOKO",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "91450",
+"type": "commune",
+"name": "KOURIGNON",
+"commune": "KOURIGNON",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "91500",
+"type": "commune",
+"name": "KOUROUMA",
+"commune": "KOUROUMA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "91550",
+"type": "commune",
+"name": "MOROLABA",
+"commune": "MOROLABA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "91600",
+"type": "commune",
+"name": "N'DOROLA",
+"commune": "N'DOROLA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "91601",
+"type": "agency",
+"name": "N'DOROLA (agence)",
+"commune": "N'DOROLA",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "91650",
+"type": "commune",
+"name": "SAMOGOHIRI",
+"commune": "SAMOGOHIRI",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "91700",
+"type": "commune",
+"name": "SAMOROGOUAN",
+"commune": "SAMOROGOUAN",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "91750",
+"type": "commune",
+"name": "SINDO",
+"commune": "SINDO",
+"province": "KENEDOUGOU",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "92000",
+"type": "commune",
+"name": "HOUNDE",
+"commune": "HOUNDE",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=H"
+},
+{
+"code": "92001",
+"type": "agency",
+"name": "HOUNDE (agence)",
+"commune": "HOUNDE",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=H"
+},
+{
+"code": "92200",
+"type": "commune",
+"name": "BEKUY",
+"commune": "BEKUY",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "92250",
+"type": "commune",
+"name": "BEREBA",
+"commune": "BEREBA",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "92300",
+"type": "commune",
+"name": "BONI",
+"commune": "BONI",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "92350",
+"type": "commune",
+"name": "FOUNZAN",
+"commune": "FOUNZAN",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=F"
+},
+{
+"code": "92400",
+"type": "commune",
+"name": "KOTI",
+"commune": "KOTI",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "92450",
+"type": "commune",
+"name": "KOUMBIA",
+"commune": "KOUMBIA",
+"province": "TUY",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "94000",
+"type": "commune",
+"name": "BANFORA",
+"commune": "BANFORA",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "94001",
+"type": "agency",
+"name": "BANFORA (agence)",
+"commune": "BANFORA",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "94200",
+"type": "commune",
+"name": "NIANGOLOKO",
+"commune": "NIANGOLOKO",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "94201",
+"type": "agency",
+"name": "NIANGOLOKO (agence)",
+"commune": "NIANGOLOKO",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "94250",
+"type": "commune",
+"name": "BEREGADOUGOU",
+"commune": "BEREGADOUGOU",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "94300",
+"type": "commune",
+"name": "MANGODARA",
+"commune": "MANGODARA",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "94301",
+"type": "agency",
+"name": "MANGODARA (agence)",
+"commune": "MANGODARA",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "94350",
+"type": "commune",
+"name": "MOUSSODOUGOU",
+"commune": "MOUSSODOUGOU",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "94400",
+"type": "commune",
+"name": "OUO",
+"commune": "OUO",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "94450",
+"type": "commune",
+"name": "SIDERADOUGOU",
+"commune": "SIDERADOUGOU",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "94451",
+"type": "agency",
+"name": "SIDERADOUGOU (agence)",
+"commune": "SIDERADOUGOU",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "94500",
+"type": "commune",
+"name": "SOUBAKANIEDOUGOU",
+"commune": "SOUBAKANIEDOUGOU",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "94550",
+"type": "commune",
+"name": "TIEFORA",
+"commune": "TIEFORA",
+"province": "COMOE",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "95000",
+"type": "commune",
+"name": "SINDOU",
+"commune": "SINDOU",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "95001",
+"type": "agency",
+"name": "SINDOU (agence)",
+"commune": "SINDOU",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=S"
+},
+{
+"code": "95200",
+"type": "commune",
+"name": "DAKORO",
+"commune": "DAKORO",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "95250",
+"type": "commune",
+"name": "DOUNA",
+"commune": "DOUNA",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "95300",
+"type": "commune",
+"name": "KANKALABA",
+"commune": "KANKALABA",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "95350",
+"type": "commune",
+"name": "LOUMANA",
+"commune": "LOUMANA",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "95400",
+"type": "commune",
+"name": "NIANKORODOUGOU",
+"commune": "NIANKORODOUGOU",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "95450",
+"type": "commune",
+"name": "OUELENI",
+"commune": "OUELENI",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "95500",
+"type": "commune",
+"name": "WOLONKOTO",
+"commune": "WOLONKOTO",
+"province": "LERABA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=W"
+},
+{
+"code": "96000",
+"type": "commune",
+"name": "GAOUA",
+"commune": "GAOUA",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "96001",
+"type": "agency",
+"name": "GAOUA (agence)",
+"commune": "GAOUA",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "96200",
+"type": "commune",
+"name": "BOUROUM-BOUROUM",
+"commune": "BOUROUM-BOUROUM",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "96250",
+"type": "commune",
+"name": "BOUSSERA",
+"commune": "BOUSSERA",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "96300",
+"type": "commune",
+"name": "DJIGOUERA",
+"commune": "DJIGOUERA",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "96350",
+"type": "commune",
+"name": "GBOMBLORA",
+"commune": "GBOMBLORA",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "96400",
+"type": "commune",
+"name": "KAMPTI",
+"commune": "KAMPTI",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "96450",
+"type": "commune",
+"name": "LOROPENI",
+"commune": "LOROPENI",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "96500",
+"type": "commune",
+"name": "MALBA",
+"commune": "MALBA",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+},
+{
+"code": "96550",
+"type": "commune",
+"name": "NAKO",
+"commune": "NAKO",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "96600",
+"type": "commune",
+"name": "PERIGBAN",
+"commune": "PERIGBAN",
+"province": "PONI",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=P"
+},
+{
+"code": "97000",
+"type": "commune",
+"name": "DIEBOUGOU",
+"commune": "DIEBOUGOU",
+"province": "BOUGOURIBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "97001",
+"type": "agency",
+"name": "DIEBOUGOU (agence)",
+"commune": "DIEBOUGOU",
+"province": "BOUGOURIBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "97200",
+"type": "commune",
+"name": "BONDIGUI",
+"commune": "BONDIGUI",
+"province": "BOUGOURIBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "97250",
+"type": "commune",
+"name": "DOLO",
+"commune": "DOLO",
+"province": "BOUGOURIBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "97300",
+"type": "commune",
+"name": "NIORONIORO",
+"commune": "NIORONIORO",
+"province": "BOUGOURIBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "97350",
+"type": "commune",
+"name": "TIANKOURA",
+"commune": "TIANKOURA",
+"province": "BOUGOURIBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=T"
+},
+{
+"code": "98000",
+"type": "commune",
+"name": "DANO",
+"commune": "DANO",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "98001",
+"type": "agency",
+"name": "DANO (agence)",
+"commune": "DANO",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "98200",
+"type": "commune",
+"name": "DISSIN",
+"commune": "DISSIN",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "98201",
+"type": "agency",
+"name": "DISSIN (agence)",
+"commune": "DISSIN",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=D"
+},
+{
+"code": "98250",
+"type": "commune",
+"name": "GUEGUERE",
+"commune": "GUEGUERE",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=G"
+},
+{
+"code": "98300",
+"type": "commune",
+"name": "KOPER",
+"commune": "KOPER",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "98350",
+"type": "commune",
+"name": "NIEOGO",
+"commune": "NIEOGO",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=N"
+},
+{
+"code": "98400",
+"type": "commune",
+"name": "ORONKUA",
+"commune": "ORONKUA",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "98450",
+"type": "commune",
+"name": "OUESSA",
+"commune": "OUESSA",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "98451",
+"type": "agency",
+"name": "OUESSA (agence)",
+"commune": "OUESSA",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=O"
+},
+{
+"code": "98500",
+"type": "commune",
+"name": "ZAMBO",
+"commune": "ZAMBO",
+"province": "IOBA",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=Z"
+},
+{
+"code": "99000",
+"type": "commune",
+"name": "BATIE",
+"commune": "BATIE",
+"province": "NOUBIEL",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "99001",
+"type": "agency",
+"name": "BATIE (agence)",
+"commune": "BATIE",
+"province": "NOUBIEL",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "99200",
+"type": "commune",
+"name": "BOUSSOUKOUKA",
+"commune": "BOUSSOUKOUKA",
+"province": "NOUBIEL",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=B"
+},
+{
+"code": "99250",
+"type": "commune",
+"name": "KPUERE",
+"commune": "KPUERE",
+"province": "NOUBIEL",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=K"
+},
+{
+"code": "99300",
+"type": "commune",
+"name": "LEGMOIN",
+"commune": "LEGMOIN",
+"province": "NOUBIEL",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=L"
+},
+{
+"code": "99350",
+"type": "commune",
+"name": "MIDEBDO",
+"commune": "MIDEBDO",
+"province": "NOUBIEL",
+"region": null,
+"source_url": "https://codespostaux.laposte.bf/admin/search_cdpt.php?Loc=M"
+}
+]
